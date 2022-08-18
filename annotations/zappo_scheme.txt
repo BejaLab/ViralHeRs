@@ -1,0 +1,9 @@
+Residues	Color
+ILVAM	#ffafaf
+FWY	#ffc800
+KRH	#6464ff
+DE	#ff0000
+ST	#00ff00
+NQ	darkgreen
+PG	#ff00ff
+C	#ffff00

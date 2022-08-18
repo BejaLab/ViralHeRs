@@ -1,0 +1,9 @@
+Clade	Superclade	Color
+Rhizaria	Rhizaria	#8b7d6b
+Amoebozoa	Unikonta	blue
+Choanoflagellata	Unikonta	blueviolet
+Glaucophyta	Archaeplastida	darkturquoise
+Haptophyta	Haptista	goldenrod4
+Viridiplantae	Archaeplastida	green
+Alveolata	Alveolata	#ff636c
+Stramenopiles	Stramenopiles	#cdcd00

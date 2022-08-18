@@ -1,0 +1,426 @@
+
+viruses ,= glob_wildcards("viruses/{virus}.gb")
+algae ,= glob_wildcards("databases/algae/{alga}.faa")
+
+rule all:
+    input:
+        "output/cat_phylogeny.pdf",
+        "output/HeR_tree.pdf",
+        "output/miniset_chronos.pdf",
+        "output/miniset_phylo.pdf",
+        "output/EhVHeRs.tsv",
+        expand("analysis/viruses/{virus}.helio.blast", virus = viruses)
+
+rule get_proteins:
+    input:
+        "viruses/{virus}.gb"
+    output:
+        "analysis/viruses/{virus}.faa"
+    shell:
+        "perl workflow/scripts/biotags.pl -i {input} -p CDS -t protein_id,product,translation | sed 's/\\t/ /' | seqkit tab2fx > {output}"
+
+rule pfamscan:
+    input:
+        "analysis/viruses/{virus}.faa"
+    output:
+        "analysis/viruses/{virus}.pfam.txt"
+    params:
+        db = "databases/Pfam"
+    shell:
+        "pfam_scan.pl -fasta {input} -outfile {output} -dir {params.db}"
+
+rule proteinortho:
+    input:
+        expand("analysis/viruses/{virus}.faa", virus = viruses)
+    output:
+        "analysis/proteinortho/EhV.proteinortho.tsv"
+    params:
+        dir = "analysis/proteinortho/"
+    threads:
+        workflow.cores
+    shell:
+        """
+        rm -rf {params.dir}/viruses/*
+        mkdir -p {params.dir}/viruses/
+        realpath {input} | xargs -I, ln -s , {params.dir}/viruses/
+        cd {params.dir}
+        proteinortho -cpus={threads} -p=blastp -project=EhV viruses/*
+        """
+
+checkpoint filter_genes:
+    input:
+        tsv = "analysis/proteinortho/EhV.proteinortho.tsv",
+        fasta = expand("analysis/viruses/{virus}.faa", virus = viruses),
+        pfam = expand("analysis/viruses/{virus}.pfam.txt", virus = viruses)
+    output:
+        dir = directory("analysis/orthogroups/"),
+        tsv = "output/orthogroups.tsv"
+    params:
+        min_species = 14
+    script:
+        "scripts/filter_genes.R"
+
+rule mafft:
+    input:
+        "analysis/orthogroups/{orthogroup}.faa"
+    output:
+        "analysis/orthogroups/{orthogroup}.mafft"
+    shell:
+        "mafft --localpair --maxiterate 1000 {input} > {output}"
+
+rule trim:
+    input:
+        "analysis/orthogroups/{orthogroup}.mafft"
+    output:
+        "analysis/orthogroups/{orthogroup}.trim"
+    shell:
+        "trimal -in {input} -out {output} -automated1"
+
+rule iqtree:
+    input:
+        "analysis/orthogroups/{orthogroup}.trim"
+    output:
+        "analysis/orthogroups/{orthogroup}.trim.treefile"
+    shell:
+        "iqtree2 --redo -B 1000 -nt 1 -s {input}"
+
+def all_iqtrees(wildcards):
+    checkpoints.filter_genes.get()
+    orthogroups, = glob_wildcards("analysis/orthogroups/{orthogroup}.faa")
+    return expand("analysis/orthogroups/{orthogroup}.trim.treefile", orthogroup = orthogroups)
+
+def all_trims(wildcards):
+    checkpoints.filter_genes.get()
+    orthogroups, = glob_wildcards("analysis/orthogroups/{orthogroup}.faa")
+    return expand("analysis/orthogroups/{orthogroup}.trim", orthogroup = orthogroups)
+
+rule trim_cat:
+    input:
+        all_trims
+    output:
+        "analysis/cat/timal.nex"
+    shell:
+        """
+        echo '#nexus' > {output}
+        echo 'begin sets;' >> {output}
+        for input in {input}; do
+            base=$(basename "$input" .trim)
+            printf 'charset orthogroup_%s = %s:*;\n' "$base" "$input" >> {output}
+        done
+        echo 'end;' >> {output}
+        """
+
+rule cat_phylogeny:
+    input:
+        "analysis/cat/timal.nex"
+    output:
+        "analysis/cat/timal.nex.treefile"
+    threads:
+        4
+    params:
+        seed = 930277
+    shell:
+        "iqtree2 --seed {params.seed} --redo -p {input} -B 1000 -nt {threads}"
+
+rule cat_draw:
+    input:
+        tree = "analysis/cat/timal.nex.treefile",
+        fasta = all_trims
+    output:
+        "output/cat_phylogeny.pdf"
+    script:
+        "scripts/ehv_tree.R"
+
+rule iqtree_cat:
+    input:
+        all_iqtrees
+    output:
+        "output/iqtree.treefile"
+    shell:
+        "cat {input} > {output}"
+
+rule astral:
+    input:
+        "output/iqtree.treefile"
+    output:
+        "output/iqtree.astral"
+    shell:
+        "astral -i {input} -o {output} -t 2"
+
+rule helio_fetch:
+    input:
+        "databases/Pfam/Pfam-A.hmm"
+    output:
+        "analysis/hmm/Heliorhodopsin.hmm"
+    params:
+        name = "Heliorhodopsin"
+    shell:
+        "hmmfetch {input} {params.name} > {output}"
+
+rule helio_search:
+    input:
+        fasta = "databases/algae/{alga}.faa",
+        hmm = "analysis/hmm/Heliorhodopsin.hmm"
+    output:
+        "analysis/algae/{alga}.tblout"
+    params:
+        evalue = 1e-5
+    shell:
+        "hmmsearch -E {params.evalue} --cpu 1 -o /dev/null --tblout {output} {input.hmm} {input.fasta}"
+
+rule algae_faidx:
+    input:
+        "databases/algae/{alga}.faa"
+    output:
+        "databases/algae/{alga}.faa.fai"
+    shell:
+        "seqkit faidx {input}"
+
+rule helio_extract:
+    input:
+        fasta = "databases/algae/{alga}.faa",
+        faidx = "databases/algae/{alga}.faa.fai",
+        tblout = "analysis/algae/{alga}.tblout"
+    output:
+        "analysis/algae/{alga}.faa"
+    shell:
+        "grep -v '^#' {input.tblout} | cut -f1 -d' ' | xargs -r seqkit faidx -f {input.fasta} > {output}"
+
+rule helio_cat:
+    input:
+        expand("analysis/algae/{alga}.faa", alga = algae)
+    output:
+        "analysis/HeRs/algae.faa"
+    shell:
+        "cat {input} > {output}"
+
+rule helio_faidx:
+    input:
+        "analysis/HeRs/algae.faa"
+    output:
+        "analysis/HeRs/algae.faa.seqkit.fai"
+    shell:
+        "seqkit faidx -f {input}"
+
+rule helio_makeblastdb:
+    input:
+        "analysis/HeRs/algae.faa"
+    output:
+        "analysis/HeRs/algae.faa.pdb"
+    shell:
+        "makeblastdb -in {input} -dbtype prot"
+
+rule helio_blast:
+    input:
+        db = "analysis/HeRs/algae.faa",
+        pdb = "analysis/HeRs/algae.faa.pdb",
+        query = "proteins/EhvHeRs_representatives.faa"
+    output:
+        "analysis/HeRs/algae.outfmt6"
+    params:
+        evalue = 1e-3
+    threads:
+        workflow.cores
+    shell:
+        "blastp -outfmt 6 -query {input.query} -db {input.db} -out {output} -evalue {params.evalue} -num_threads {threads} -max_target_seqs 500"
+
+
+rule helio_get_contamination:
+    input:
+        "analysis/HeRs/algae.outfmt6"
+    output:
+        "analysis/HeRs/contamination.txt"
+    params:
+        id = 60
+    shell:
+        "awk '$3>{params.id}' {input} | cut -f2 | sort -u > {output}"
+
+rule helio_select:
+    input:
+        blast = "analysis/HeRs/algae.outfmt6",
+        fasta = "analysis/HeRs/algae.faa",
+        faidx = "analysis/HeRs/algae.faa.seqkit.fai",
+        contam = "analysis/HeRs/contamination.txt"
+    output:
+        "analysis/HeRs/algae_selected.faa"
+    params:
+        evalue = 1e-10,
+        min_len = 200
+    shell:
+        "awk '$11<{params.evalue}' {input.blast} | cut -f2 | sort -u | xargs seqkit faidx -f {input.fasta} | seqkit seq -m {params.min_len} | seqkit grep -vf {input.contam} -o {output}"
+
+rule helio_cluster:
+    input:
+        "analysis/HeRs/algae_selected.faa"
+    output:
+        "analysis/HeRs/algae_selected.cdhit"
+    params:
+        c = 0.9
+    shell:
+        "cdhit -i {input} -o {output} -c {params.c} -d 0"
+
+rule helio_combine:
+    input:
+        algae = "analysis/HeRs/algae_selected.cdhit",
+        EhvHeRs = "proteins/EhvHeRs.faa",
+        outgroups = "proteins/outgroups.faa",
+        outliers = "annotations/outliers.txt"
+    output:
+        "analysis/HeRs/combined.faa"
+    shell:
+        "seqkit grep -vf {input.outliers} {input.algae} {input.EhvHeRs} > {output}"
+
+rule helio_align:
+    input:
+        "analysis/HeRs/combined.faa"
+    output:
+        "analysis/HeRs/combined.mafft"
+    threads:
+        10
+    shell:
+        "mafft --reorder --thread {threads} --localpair --maxiterate 1000 {input} > {output}"
+
+rule helio_trim:
+    input:
+        "analysis/HeRs/combined.mafft"
+    output:
+        "analysis/HeRs/combined.trim"
+    params:
+        gt = 0.9
+    shell:
+        "trimal -in {input} -out {output} -keepheader -gt {params.gt}"
+
+rule helio_iqtree:
+    input:
+        "analysis/HeRs/combined.trim"
+    output:
+        "analysis/HeRs/combined.trim.treefile"
+    threads:
+        4
+    params:
+        seed = 930277
+    shell:
+        "iqtree2 --redo -s {input} -nt {threads} -B 1000"
+
+rule helio_draw:
+    input:
+        tree = "analysis/HeRs/combined.trim.treefile",
+        fasta = "analysis/HeRs/combined.mafft",
+
+        genera = "annotations/genera.txt",
+        clades = "annotations/clades.txt",
+        positions = "annotations/positions_set_1.txt",
+        colorscheme = "annotations/zappo_scheme.txt"
+    output:
+        pdf = "output/HeR_tree.pdf",
+        jtree = "output/HeR_tree.jtree"
+    script:
+        "scripts/her_tree.R"
+
+rule miniset_mafft:
+    input:
+        ehvhers = "proteins/EhvHeRs.faa",
+        outgroups = "proteins/outgroups.faa",
+        algal = "proteins/algal.faa"
+    output:
+        "analysis/miniset/combined.mafft"
+    params:
+        regex = "EhV-201|EhV-202|EhV-PS401|Metagenomic"
+    shell:
+        "seqkit grep -rnp '{params.regex}' {input.ehvhers} | cat - {input.outgroups} {input.algal} | mafft --localpair --maxiterate 1000 - > {output}"
+
+rule miniset_trim:
+    input:
+        "analysis/miniset/combined.mafft"
+    output:
+        "analysis/miniset/combined.trim"
+    params:
+        gt = 0.9
+    shell:
+        "trimal -in {input} -out {output} -gt {params.gt}"
+
+rule miniset_iqtree:
+    input:
+        "analysis/miniset/combined.trim"
+    output:
+        "analysis/miniset/combined.trim.treefile"
+    threads:
+        4
+    params:
+        seed = 930277
+    shell:
+        "iqtree2 --redo -s {input} -nt {threads} -B 1000"
+
+rule miniset_draw:
+    input:
+        tree = "analysis/miniset/combined.trim.treefile",
+        fasta = "analysis/miniset/combined.mafft",
+        outgroups = "proteins/outgroups.faa",
+
+        positions = "annotations/positions_set_2.txt",
+        colorscheme = "annotations/zappo_scheme.txt"
+    output:
+        chronos = "output/miniset_chronos.pdf",
+        phylo = "output/miniset_phylo.pdf"
+    script:
+        "scripts/miniset_tree.R"
+
+rule EhV_search:
+    input:
+        fasta = "viruses/{virus}.faa",
+        hmm = "analysis/hmm/Heliorhodopsin.hmm"
+    output:
+        "analysis/viruses/{virus}.tblout"
+    params:
+        evalue = 1e-10
+    shell:
+        "hmmsearch -E {params.evalue} --cpu 1 -o /dev/null --tblout {output} {input.hmm} {input.fasta}"
+
+rule EhV_index:
+    input:
+        "viruses/{virus}.faa"
+    output:
+        "viruses/{virus}.faa.seqkit.fai"
+    shell:
+        "seqkit faidx -f {input}"
+
+rule EhV_extract:
+    input:
+        fasta = "viruses/{virus}.faa",
+        faidx = "viruses/{virus}.faa.seqkit.fai",
+        tblout = "analysis/viruses/{virus}.tblout"
+    output:
+        "analysis/viruses/{virus}.helio.faa"
+    shell:
+        "grep -v '^#' {input.tblout} | cut -f1 -d' ' | xargs -r seqkit faidx -f {input.fasta} > {output}"
+
+rule EhV_makeblast:
+    input:
+        "proteins/EhvHeRs.faa"
+    output:
+        out = "analysis/proteins/EhvHeRs",
+        pdb = "analysis/proteins/EhvHeRs.pdb"
+    shell:
+        """
+        makeblastdb -in {input} -out {output.out} -dbtype prot
+        touch {output}
+        """
+
+rule EhV_blastp:
+    input:
+        query = "analysis/viruses/{virus}.helio.faa",
+        db = "analysis/proteins/EhvHeRs"
+    output:
+        "analysis/viruses/{virus}.helio.blast"
+    params:
+        evalue = 1e-100
+    shell:
+        "blastp -query {input.query} -db {input.db} -outfmt '6 qseqid sseqid pident stitle' -out {output} -evalue {params.evalue}"
+
+rule EhV_collect:
+    input:
+        expand("analysis/viruses/{virus}.helio.blast", virus = viruses)
+    output:
+        "output/EhVHeRs.tsv"
+    script:
+        "scripts/EhV_collect.R"
