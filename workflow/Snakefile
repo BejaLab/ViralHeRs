@@ -212,7 +212,7 @@ rule helio_extract:
     conda:
         "envs/tools.yaml"
     shell:
-        "grep -v '^#' {input.tblout} | cut -f1 -d' ' | xargs -r seqkit faidx -f {input.fasta} > {output}"
+        "awk '!/^#/{{print$1}}' {input.tblout} | xargs -r seqkit faidx -f {input.fasta} > {output}"
 
 rule helio_cat:
     input:
@@ -454,7 +454,7 @@ rule EhV_extract:
     conda:
         "envs/tools.yaml"
     shell:
-        "grep -v '^#' {input.tblout} | cut -f1 -d' ' | xargs -r seqkit faidx -f {input.fasta} > {output}"
+        "awk '!/^#/{{print$1}}' {input.tblout} | xargs -r seqkit faidx -f {input.fasta} > {output}"
 
 rule EhV_makeblast:
     input:
