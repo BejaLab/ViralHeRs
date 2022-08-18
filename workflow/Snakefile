@@ -8,14 +8,15 @@ rule all:
         "output/HeR_tree.pdf",
         "output/miniset_chronos.pdf",
         "output/miniset_phylo.pdf",
-        "output/EhVHeRs.tsv",
-        expand("analysis/viruses/{virus}.helio.blast", virus = viruses)
+        "output/EhVHeRs.tsv"
 
 rule get_proteins:
     input:
         "viruses/{virus}.gb"
     output:
         "analysis/viruses/{virus}.faa"
+    conda:
+        "envs/perl.yaml"
     shell:
         "perl workflow/scripts/biotags.pl -i {input} -p CDS -t protein_id,product,translation | sed 's/\\t/ /' | seqkit tab2fx > {output}"
 
@@ -26,6 +27,8 @@ rule pfamscan:
         "analysis/viruses/{virus}.pfam.txt"
     params:
         db = "databases/Pfam"
+    conda:
+        "envs/perl.yaml"
     shell:
         "pfam_scan.pl -fasta {input} -outfile {output} -dir {params.db}"
 
@@ -36,6 +39,8 @@ rule proteinortho:
         "analysis/proteinortho/EhV.proteinortho.tsv"
     params:
         dir = "analysis/proteinortho/"
+    conda:
+        "envs/perl.yaml"
     threads:
         workflow.cores
     shell:
@@ -57,6 +62,8 @@ checkpoint filter_genes:
         tsv = "output/orthogroups.tsv"
     params:
         min_species = 14
+    conda:
+        "envs/r.yaml"
     script:
         "scripts/filter_genes.R"
 
@@ -65,6 +72,8 @@ rule mafft:
         "analysis/orthogroups/{orthogroup}.faa"
     output:
         "analysis/orthogroups/{orthogroup}.mafft"
+    conda:
+        "envs/tools.yaml"
     shell:
         "mafft --localpair --maxiterate 1000 {input} > {output}"
 
@@ -73,6 +82,8 @@ rule trim:
         "analysis/orthogroups/{orthogroup}.mafft"
     output:
         "analysis/orthogroups/{orthogroup}.trim"
+    conda:
+        "envs/tools.yaml"
     shell:
         "trimal -in {input} -out {output} -automated1"
 
@@ -81,6 +92,8 @@ rule iqtree:
         "analysis/orthogroups/{orthogroup}.trim"
     output:
         "analysis/orthogroups/{orthogroup}.trim.treefile"
+    conda:
+        "envs/tools.yaml"
     shell:
         "iqtree2 --redo -B 1000 -nt 1 -s {input}"
 
@@ -119,6 +132,8 @@ rule cat_phylogeny:
         4
     params:
         seed = 930277
+    conda:
+        "envs/tools.yaml"
     shell:
         "iqtree2 --seed {params.seed} --redo -p {input} -B 1000 -nt {threads}"
 
@@ -128,6 +143,8 @@ rule cat_draw:
         fasta = all_trims
     output:
         "output/cat_phylogeny.pdf"
+    conda:
+        "envs/r.yaml"
     script:
         "scripts/ehv_tree.R"
 
@@ -139,11 +156,14 @@ rule iqtree_cat:
     shell:
         "cat {input} > {output}"
 
+# NB: not under conda
 rule astral:
     input:
         "output/iqtree.treefile"
     output:
         "output/iqtree.astral"
+    conda:
+        "envs/tools.yaml"
     shell:
         "astral -i {input} -o {output} -t 2"
 
@@ -154,6 +174,8 @@ rule helio_fetch:
         "analysis/hmm/Heliorhodopsin.hmm"
     params:
         name = "Heliorhodopsin"
+    conda:
+        "envs/tools.yaml"
     shell:
         "hmmfetch {input} {params.name} > {output}"
 
@@ -165,6 +187,8 @@ rule helio_search:
         "analysis/algae/{alga}.tblout"
     params:
         evalue = 1e-5
+    conda:
+        "envs/tools.yaml"
     shell:
         "hmmsearch -E {params.evalue} --cpu 1 -o /dev/null --tblout {output} {input.hmm} {input.fasta}"
 
@@ -173,6 +197,8 @@ rule algae_faidx:
         "databases/algae/{alga}.faa"
     output:
         "databases/algae/{alga}.faa.fai"
+    conda:
+        "envs/tools.yaml"
     shell:
         "seqkit faidx {input}"
 
@@ -183,6 +209,8 @@ rule helio_extract:
         tblout = "analysis/algae/{alga}.tblout"
     output:
         "analysis/algae/{alga}.faa"
+    conda:
+        "envs/tools.yaml"
     shell:
         "grep -v '^#' {input.tblout} | cut -f1 -d' ' | xargs -r seqkit faidx -f {input.fasta} > {output}"
 
@@ -199,6 +227,8 @@ rule helio_faidx:
         "analysis/HeRs/algae.faa"
     output:
         "analysis/HeRs/algae.faa.seqkit.fai"
+    conda:
+        "envs/tools.yaml"
     shell:
         "seqkit faidx -f {input}"
 
@@ -207,6 +237,8 @@ rule helio_makeblastdb:
         "analysis/HeRs/algae.faa"
     output:
         "analysis/HeRs/algae.faa.pdb"
+    conda:
+        "envs/perl.yaml"
     shell:
         "makeblastdb -in {input} -dbtype prot"
 
@@ -219,6 +251,8 @@ rule helio_blast:
         "analysis/HeRs/algae.outfmt6"
     params:
         evalue = 1e-3
+    conda:
+        "envs/perl.yaml"
     threads:
         workflow.cores
     shell:
@@ -246,6 +280,8 @@ rule helio_select:
     params:
         evalue = 1e-10,
         min_len = 200
+    conda:
+        "envs/tools.yaml"
     shell:
         "awk '$11<{params.evalue}' {input.blast} | cut -f2 | sort -u | xargs seqkit faidx -f {input.fasta} | seqkit seq -m {params.min_len} | seqkit grep -vf {input.contam} -o {output}"
 
@@ -256,6 +292,8 @@ rule helio_cluster:
         "analysis/HeRs/algae_selected.cdhit"
     params:
         c = 0.9
+    conda:
+        "envs/tools.yaml"
     shell:
         "cdhit -i {input} -o {output} -c {params.c} -d 0"
 
@@ -267,6 +305,8 @@ rule helio_combine:
         outliers = "annotations/outliers.txt"
     output:
         "analysis/HeRs/combined.faa"
+    conda:
+        "envs/tools.yaml"
     shell:
         "seqkit grep -vf {input.outliers} {input.algae} {input.EhvHeRs} > {output}"
 
@@ -277,6 +317,8 @@ rule helio_align:
         "analysis/HeRs/combined.mafft"
     threads:
         10
+    conda:
+        "envs/tools.yaml"
     shell:
         "mafft --reorder --thread {threads} --localpair --maxiterate 1000 {input} > {output}"
 
@@ -287,6 +329,8 @@ rule helio_trim:
         "analysis/HeRs/combined.trim"
     params:
         gt = 0.9
+    conda:
+        "envs/tools.yaml"
     shell:
         "trimal -in {input} -out {output} -keepheader -gt {params.gt}"
 
@@ -299,6 +343,8 @@ rule helio_iqtree:
         4
     params:
         seed = 930277
+    conda:
+        "envs/tools.yaml"
     shell:
         "iqtree2 --redo -s {input} -nt {threads} -B 1000"
 
@@ -314,6 +360,8 @@ rule helio_draw:
     output:
         pdf = "output/HeR_tree.pdf",
         jtree = "output/HeR_tree.jtree"
+    conda:
+        "envs/r.yaml"
     script:
         "scripts/her_tree.R"
 
@@ -326,6 +374,8 @@ rule miniset_mafft:
         "analysis/miniset/combined.mafft"
     params:
         regex = "EhV-201|EhV-202|EhV-PS401|Metagenomic"
+    conda:
+        "envs/tools.yaml"
     shell:
         "seqkit grep -rnp '{params.regex}' {input.ehvhers} | cat - {input.outgroups} {input.algal} | mafft --localpair --maxiterate 1000 - > {output}"
 
@@ -336,6 +386,8 @@ rule miniset_trim:
         "analysis/miniset/combined.trim"
     params:
         gt = 0.9
+    conda:
+        "envs/tools.yaml"
     shell:
         "trimal -in {input} -out {output} -gt {params.gt}"
 
@@ -348,6 +400,8 @@ rule miniset_iqtree:
         4
     params:
         seed = 930277
+    conda:
+        "envs/tools.yaml"
     shell:
         "iqtree2 --redo -s {input} -nt {threads} -B 1000"
 
@@ -362,6 +416,8 @@ rule miniset_draw:
     output:
         chronos = "output/miniset_chronos.pdf",
         phylo = "output/miniset_phylo.pdf"
+    conda:
+        "envs/r.yaml"
     script:
         "scripts/miniset_tree.R"
 
@@ -373,6 +429,8 @@ rule EhV_search:
         "analysis/viruses/{virus}.tblout"
     params:
         evalue = 1e-10
+    conda:
+        "envs/tools.yaml"
     shell:
         "hmmsearch -E {params.evalue} --cpu 1 -o /dev/null --tblout {output} {input.hmm} {input.fasta}"
 
@@ -381,6 +439,8 @@ rule EhV_index:
         "viruses/{virus}.faa"
     output:
         "viruses/{virus}.faa.seqkit.fai"
+    conda:
+        "envs/tools.yaml"
     shell:
         "seqkit faidx -f {input}"
 
@@ -391,6 +451,8 @@ rule EhV_extract:
         tblout = "analysis/viruses/{virus}.tblout"
     output:
         "analysis/viruses/{virus}.helio.faa"
+    conda:
+        "envs/tools.yaml"
     shell:
         "grep -v '^#' {input.tblout} | cut -f1 -d' ' | xargs -r seqkit faidx -f {input.fasta} > {output}"
 
@@ -400,6 +462,8 @@ rule EhV_makeblast:
     output:
         out = "analysis/proteins/EhvHeRs",
         pdb = "analysis/proteins/EhvHeRs.pdb"
+    conda:
+        "envs/perl.yaml"
     shell:
         """
         makeblastdb -in {input} -out {output.out} -dbtype prot
@@ -414,6 +478,8 @@ rule EhV_blastp:
         "analysis/viruses/{virus}.helio.blast"
     params:
         evalue = 1e-100
+    conda:
+        "envs/perl.yaml"
     shell:
         "blastp -query {input.query} -db {input.db} -outfmt '6 qseqid sseqid pident stitle' -out {output} -evalue {params.evalue}"
 
@@ -422,5 +488,7 @@ rule EhV_collect:
         expand("analysis/viruses/{virus}.helio.blast", virus = viruses)
     output:
         "output/EhVHeRs.tsv"
+    conda:
+        "envs/r.yaml"
     script:
         "scripts/EhV_collect.R"

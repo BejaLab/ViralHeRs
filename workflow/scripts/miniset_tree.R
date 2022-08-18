@@ -92,5 +92,5 @@ p.phylo <- ggtree(phylo.tree) +
     geom_treescale(width = 0.5) +
     hexpand(0.2)
 
-ggsave(chronos_file, p, width = 4, height = 4)
+ggsave(chronos_file, p, width = 8, height = 4)
 ggsave(phylo_file, p.phylo, width = 4, height = 8)

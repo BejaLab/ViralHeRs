@@ -1,0 +1,1645 @@
+{
+	"tree": "(((((AET73409:0.6698522894{36},(SAMEA2621075_258957:0.2059276551{37},(SAMEA2621401_1124616:0.4768638898{40},(AET42421:0.0290641047{38},OM-RGC.v1.010885482:0.054491907{39})100:0.3154728648{129})100:0.2969409282{128})100:1.089912567{127})100:0.5229091499{126},((AET42597:0.0260079438{30},(AET97940:3.1319{29}e-06,(CAZ69391:0.0039822755{27},CAI65478:1.1522{28}e-06)96:0.0080053102{133})84:0.0190741945{132})100:1.456528523{131},(AET42570:0.0115034298{35},(CAI65501:0.0039373162{34},(CAZ69414:0.0039009098{31},(AEP15622:1.1522{32}e-06,AET97964:0.0038650113{33})100:0.0038838926{137})100:0.0038352056{136})100:0.1034421153{135})100:0.578903394{134})99:0.2871739637{130})99:0.2258119862{125},(((MMETSP0270_DN9834_c0_g1_i1.p1:0.2237221878{20},(((((HBQW01020537.1.p2:0.16684473{10},((MMETSP1178_DN9320_c0_g2_i1.p1:0.1131244455{6},(GFUQ01108356.1.p1:0.0896872121{4},MMETSP0797_DN19539_c0_g1_i1.p1:0.0604317899{5})100:0.0659008473{148})81:0.02025494{147},(HBTC01202227.1.p1:0.1059612032{9},(HBRJ01094234.1.p1:0.0399970241{7},MMETSP1444_DN17765_c1_g1_i3.p1:0.0104235945{8})98:0.0366428947{150})100:0.0574228344{149})98:0.0842618934{146})100:0.0659825585{145},(MMETSP1094_DN46146_c0_g1_i1.p1:0.2423804049{13},(MMETSP0174_DN2601_c0_g2_i1.p1:0.2317309325{11},MMETSP1447_DN10252_c2_g1_i1.p1:0.3343309784{12})100:0.1033441949{152})100:0.1668131599{151})54:0.0327398795{144},(KOO28456.1:0.2174771972{14},MMETSP0287_DN5609_c0_g1_i1.p1:0.0967892457{15})100:0.1346113818{153})54:0.0384462853{143},(MMETSP0164_DN23521_c0_g1_i1.p1:0.1491172815{16},MMETSP1334_DN23803_c4_g1_i1.p1:0.1665488919{17})100:0.088262438{154})92:0.0800691036{142},(MMETSP1152_DN14812_c0_g1_i3.p2:2.2448{18}e-06,MMETSP1364_DN13306_c0_g1_i1.p2:0.0044378248{19})100:0.3163132238{155})100:0.1844708708{141})99:0.1589881447{140},(MMETSP1311_DN4168_c0_g1_i2.p1:0.2603808855{21},(MMETSP1456_DN3659_c0_g1_i1.p2:0.2414862711{22},MMETSP1469_DN4720_c18_g1_i1.p1:0.2869114158{23})87:0.1591971054{157})100:0.5727780072{156})100:0.3440176745{139},(MMETSP1137_DN8435_c0_g2_i1.p1:0.2597353536{26},(MMETSP1136_DN15644_c0_g1_i1.p1:0.3713940743{24},MMETSP1136_DN22373_c0_g1_i1.p1:0.345088208{25})99:0.0605845257{159})100:0.804720818{158})100:0.3779854484{138})100:0.4627581555{124},(MMETSP0420_DN6708_c0_g1_i1.p1:1.548386715{3},(MMETSP0168_DN6176_c2_g1_i1.p1:1.575303242{1},PRJDB8568_DN1228_c0_g1_i1.p1:0.7619576877{2})99:0.1862577905{161})100:0.860550256{160})82:0.00876054385{123},(((MMETSP0173_DN12258_c0_g1_i1.p1:1.665445236{121},((((1KP_ALZF_2019540.p1:0.5492445794{41},(1KP_BAZF_2071778.p1:0.415097822{42},MMETSP0063_DN13987_c0_g2_i1.p1:0.6932423966{43})87:0.0191420821{169}):0.0740879656{168},((1KP_CBNG_2040618.p1:0.2905139807{44},(1KP_NQYP_2026776.p1:0.4287097339{47},(1KP_CQQP_2074009.p1:0.3321486515{45},1KP_KSFK_2001904.p3:0.2099747611{46})66:0.010504748{173})93:0.0780185081{172})100:0.0899026233{171},(1KP_MNCB_2013502.p1:0.3528698372{54},(PQAU01000043.1_gmes_3797:0.1865462078{53},(PSC68996.1:0.2999981352{52},(PCFQ01000079.1_gmes_10313:0.2734013894{51},(LDKB01000304.1_gmes_6020:0.1328033297{50},(1KP_EEJO_2002775.p3:0.1321408675{48},EFN55222.1:0.0768981837{49})100:0.0480764551{179})98:0.045391979{178})96:0.0506722927{177})51:0.056543279{176})100:0.160692268{175})100:0.1808487225{174})99:0.077927316{170})94:0.2599683041{167},((((1KP_JKHA_2119487.p1:0.2459493818{55},1KP_PQED_2050899.p1:0.3898042696{56})86:0.0961334086{183},(1KP_POOW_2055538.p1:0.3625496844{57},(1KP_WLZP_2040682.p2:0.4917023705{58},1KP_WLZP_2040845.p1:0.5877453161{59})96:0.2480647934{185})95:0.0713014066{184})97:0.1796076576{182},(MMETSP0947_DN17076_c21_g1_i1.p1:0.5318220984{60},((MMETSP1443_DN8758_c0_g1_i1.p1:0.2387165107{67},(MMETSP0090_DN7558_c0_g1_i1.p1:0.0944168035{61},(MMETSP0751_DN2391_c0_g1_i1.p1:0.1406313945{62},(MMETSP1336_DN11487_c0_g1_i1.p1:0.1551600934{66},(MMETSP0200_DN6465_c0_g1_i1.p1:0.1531017028{63},(MMETSP1429_DN13374_c0_g1_i1.p1:0.0704514746{64},MMETSP0149_DN10671_c0_g1_i1.p1:0.3153911527{65})67:0.075692903{193})65:0.0255088641{192})68:0.1083450273{191})68:0.0876125731{190})100:0.3463308224{189})100:0.2198598314{188},(MMETSP1452_DN10960_c0_g1_i1.p1:0.5636926343{68},MMETSP1160_DN1119_c0_g1_i1.p1:0.5595696063{69})99:0.086607653{194})100:0.2164435956{187})76:0.0589298913{186})75:0.0849377209{181},(XP_004339175.1:0.5460752449{70},((MMETSP0317_DN11971_c0_g1_i1.p1:0.7806415386{73},(ACI65804.1:0.2701704889{71},MMETSP0316_DN4330_c0_g1_i1.p1:0.2359289641{72})87:0.0828675016{198})88:0.1210852847{197},((MMETSP1361_DN8553_c0_g1_i1.p1:0.2748201698{74},MMETSP0009_DN21989_c6_g1_i1.p1:0.802554196{75})96:0.1351124006{200},(MMETSP0472_DN24102_c0_g1_i1.p1:0.667212769{76},MMETSP0009_DN16982_c0_g1_i1.p1:1.3870741{77})19:0.0405716257{201})21:0.0388462094{199})99:0.4343783945{196})57:0.1465243454{195})63:0.0962015805{180})100:0.0864901895{166},((GGOP01019211.1.p1:0.4696806363{84},(MMETSP0164_DN13781_c0_g1_i1.p1:0.5165844772{83},((EGD77489.1:0.2681075689{78},GGON01005143.1.p1:0.2468126356{79})100:0.2424704224{206},(GGPB01030066.1.p1:0.3177671057{82},(GGOL01037566.1.p1:0.1779089548{80},GGOR01011703.1.p2:0.1975169017{81})100:0.1844713324{208})99:0.0853827476{207})96:0.0713545428{205})76:0.0278608203{204})56:0.1121477251{203},((MMETSP0039_DN65749_c0_g1_i1.p1:0.2666998061{85},MMETSP0809_DN11220_c0_g1_i1.p1:0.412340374{86})100:0.2062008527{210},(MMETSP1449_DN10140_c0_g1_i1.p1:0.3002988439{90},(MMETSP0321_DN5938_c1_g1_i1.p1:0.2202416671{87},(MMETSP0713_DN2593_c0_g1_i1.p1:0.2257722469{88},MMETSP1394_DN13967_c0_g1_i1.p1:0.1818586186{89})100:0.8015415918{213})99:0.0663766225{212})100:0.2116264617{211})100:0.1830116887{209})47:0.0715043793{202})97:0.3136820062{165})98:0.0847106916{164},((MMETSP0405_DN6487_c0_g1_i1.p1:0.7745517261{111},((PRJNA379597-R2_NODE_267_gmes_8506:0.8185143048{105},((MMETSP1346_DN2802_c0_g1_i1.p1:0.6329032425{101},(((MMETSP0087_DN16666_c0_g1_i1.p1:0.3466390946{96},((GFLM01051117.1.p1:0.1388209118{91},(GGWG01092055.1.p1:0.0622734759{92},MMETSP1338_DN49565_c0_g1_i1.p1:0.1095725024{93})100:0.0262379563{225})100:0.0447539191{224},(PRJNA428208_DN5588_c0_g1_i13.p1:0.0668173795{94},PRJNA428208_DN65660_c0_g1_i14.p1:0.1191098699{95})100:0.0462204015{226})100:0.1210354148{223})92:0.0223259633{222},(MMETSP0267_DN56448_c0_g1_i1.p2:0.2505401645{97},MMETSP0033_DN2074_c0_g1_i1.p3:0.4475375663{98})97:0.0676555563{227})100:0.2851815316{221},(MMETSP0887_DN15970_c0_g1_i1.p1:0.1893475314{99},PRJNA379597-S1_NODE_2975_gmes_810:0.3048869258{100})99:0.1472757819{228})84:0.0622659381{220})89:0.0964472037{219},(JAHBMJ010001078.1_gmes_22467_g:0.5218273274{102},(MMETSP0359_DN37778_c0_g1_i4.p1:0.1978020552{103},MMETSP0369_DN41427_c0_g1_i1.p1:0.0094405274{104})100:0.7144274516{230})100:0.3344774369{229})97:0.1004284097{218})88:0.1300994291{217},(MMETSP1384_DN26312_c0_g1_i1.p1:0.114914387{110},(MMETSP1385_DN912_c0_g1_i1.p1:0.1849873337{109},(MMETSP0190_DN37844_c0_g1_i1.p1:0.0615533874{106},(MMETSP1384_DN30697_c0_g1_i1.p1:0.2154032597{107},MMETSP0191_DN49409_c10_g1_i1.p1:0.6094483883{108})100:0.2370817556{234})73:0.056958666{233})70:0.0313110363{232})100:0.4633965764{231})81:0.0964769286{216})100:0.2484081631{215},(MMETSP0119_DN59978_c0_g1_i1.p1:0.4684403089{114},(GGOX01000412.1.p2:0.2356456337{112},XP_013759543.1:0.5717659915{113})97:0.0932034582{236})100:0.4560547361{235})99:0.2379334538{214})62:0.2616031381{163},(PRJDB7076_DN191256_c0_g1_i1.p1:1.943745704{120},((PRJNA604511_DN252_c0_g2_i1.p1:0.5852248327{117},(KQ758850.1_gmes_9903:0.0314279398{115},KQ758866.1_gmes_7263:0.2445241782{116})100:0.5180742418{240})100:0.6971402294{239},(LNGJ01001465.1_gmes_5281:0.4132853697{118},PRJNA381136_DN789_c0_g1_i1.p1:0.4827343342{119})100:1.052180475{241})100:0.4593261772{238})89:0.1419118191{237})87:0.1938749391{162})Root{122};",
+	"data":[
+  {
+    "edge_num": 1,
+    "header": "MMETSP0168_DN6176_c2_g1_i1.p1 MMETSP0168_DN6176_c2_g1_i1 {5_prime_partial;frame=2} [Vannella sp. DIVA3 517/6/12]",
+    "Species": "Vannella sp. DIVA3 517/6/12",
+    "Genus": "Vannella",
+    "Clade": "Amoebozoa",
+    "Superclade": "Unikonta",
+    "Color": "blue",
+    "sequence": "-----------------------------------------------GEG----------------------------------------------------------------------------------------------------CLFQWPA-----MESRS---------------------------------------------------------------------------------------------------------------------RRKRTTG-ESEG---------------------------------------------------KRPEG---------APKRAQT------ISRS--------GELRMVHFLVFVVFSAQSAIY---GLL-S-------------NSYSYTVRYVSFT------------------------------ITGEPI---VNTVAELQLSTLVAAYFAVAAFHHLLVVLP-GVFPIYK-----SCLEHRSNPFRWLEYIVSATIMIVILALLLGIQDIVVIGLLAICMSSCNSL-GFAFERS------------------------------------------------------------------RSGTIGAYTHVLGWLPFAAVWGVLFLKFGEGN---------------------------------YDPAVGN---FV---------GPFFYAMFLLFDAFGVTQLLQFFG-------------------------AY-QH---------YVSVEYT--FVVLSVVTKSVMGAAAFIAILFI-----------------------------------------------------------------------",
+    "full_label": "Vannella sp. DIVA3 517/6/12"
+  },
+  {
+    "edge_num": 2,
+    "header": "PRJDB8568_DN1228_c0_g1_i1.p1 PRJDB8568_DN1228_c0_g1_i1 {5_prime_partial} [Pseudophyllomitus vesiculosus NIES-4114]",
+    "Species": "Pseudophyllomitus vesiculosus NIES-4114",
+    "Genus": "Pseudophyllomitus",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "-----------------------------------------------------------------------------------------------------------------------------------------------------------------DLSTTTTTM--------------------------------------------------------------------------------------------------------------EMRQRKQQPKP-DSE------------------------------------------------------EED---------YEEDQK--------QPG--------SELRMVHLLAGFIFLIQGLVF---TVF-S--------ND---FLVPITTSYLKQGE-----------------------------DHIEPA---VHVIDNIRLSRFVGFYFFVASSHHLSVGT--ILFSKYL-----NHVKKAVNPFRWSEYSFSASVMVVIMAMLVGVSELNTLMLVAAGVGITQLF-GLLAEQSK----------------------------------------------------------------------TLLPHLCGWISLGFVFLTFTNQYAATL--------------------------------ALNTSSPA---FL---------SVMLPVQAVLFSLFGVVQLLQISN-----------------------YKLF-SN---------YVFVEYS--YVVLSLVAKTVMGCVVFIGVLFV-----------------------------------------------------------------------",
+    "full_label": "Pseudophyllomitus vesiculosus NIES-4114"
+  },
+  {
+    "edge_num": 3,
+    "header": "MMETSP0420_DN6708_c0_g1_i1.p1 MMETSP0420_DN6708_c0_g1_i1 [Pessonella sp.]",
+    "Species": "Pessonella sp.",
+    "Genus": "Pessonella",
+    "Clade": "Amoebozoa",
+    "Superclade": "Unikonta",
+    "Color": "blue",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MSS--------------------------------------------------------------------------------------------------------------------LRNRRTSSGS-DSQSESTLQ------------------------------------------------KPA---------STKASK--------TRH--------NDKRIINFAAAFVFLAQAVMF---YMA-S----FQQ-----PINIPLTRSTWVL-------------------------------KNYVPVME-TSTFINVDVNKSVSFYFATAGTHHLLLVLP-GIFGWYT-----RQIDSGFGVHRWIEYAFSASTMTGVLALAVGFRDVFTVALLIGNLLVTQIF-GFLVEYEM-----------------------------------------------------------------SKGIKRPAAFYLAWIPYAFAWTPILYQYYSVV---------------------------------TSGNGDV---YS--DQF----HTMLPAMFAGFTMFGVLQGLQVHGF---------------------------LG---------EGRAEYA--YVLLSILDKTGLGLALMLGVIF------------------------------------------------------------------------",
+    "full_label": "Pessonella sp."
+  },
+  {
+    "edge_num": 4,
+    "header": "GFUQ01108356.1.p1 GFUQ01108356.1 {5_prime_partial;frame=1} [Phaeocystis antarctica 25]",
+    "Species": "Phaeocystis antarctica 25",
+    "Genus": "Phaeocystis",
+    "Clade": "Haptophyta",
+    "Superclade": "Haptista",
+    "Color": "goldenrod4",
+    "sequence": "------------------------------------------------------------------------------------HFLRASVEHT----FGV----------------------------FDWPSLTFQTTHPSMGMIPKDTEAANEA-----GTELSP-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------DPN---------APLKLP--------VNA--------SKLTKWNAAMSLFHGVFAAIT---LAV-G-----NT--D---LAVPVYGSGVKVIVGGLNGT----NVGTNA---------TGG-WALTPDF--SSVSSHIHLTWAVACFFGLSCLFHLGNAL--LWKQLYI-----RALEKGYAPFRWIEYSMSASVMILILAYTSGTTTQPVLVSLFGFTAITMAF-GHLHEVICRPK-----------------S--------------------------------------LEEWAISNKLERLQAHLIGYVPQCFAWGLVVAQFMEAGGSSATDSQ------------------------GEKSQMPT---FV---------YGIVFGELLIFWGFGLVQLIVSLR-------------------------PP-AK---------YYQGEIA--YMWLSLFAKGVLGLLVLSNVLVLGSFTDIYA---------------------------------------------------------------",
+    "full_label": "Phaeocystis antarctica 25"
+  },
+  {
+    "edge_num": 5,
+    "header": "MMETSP0797_DN19539_c0_g1_i1.p1 MMETSP0797_DN19539_c0_g1_i1 {5_prime_partial;frame=2} [Dinophysis acuminata DAEP01]",
+    "Species": "Dinophysis acuminata DAEP01",
+    "Genus": "Dinophysis",
+    "Clade": "Alveolata",
+    "Superclade": "Alveolata",
+    "Color": "#ff636c",
+    "sequence": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------SLA---------PDLKLP--------VNA--------SKLTKWNAAMSLFHGVFVVIT---LGA-G-----NT--D---LNVPVYGSGVTLIVGGENGT----AVGTNA---------TDG-FALRPDF--SKVASRLYLTWAVACFFGLSCLFHLGNAL--LWKPLYL-----RALEKGYAPFRWIEYTFSASVMILILAYTSGTTTLPVLVSLFGFTAITMSF-GHLHEVICRPK-----------------S--------------------------------------LEEWAVSNKLERLQAHLIGYVPQCFAWGLVIAQFMEAGGSSTTDSS------------------------GEKSQMPS---FV---------YAIVFGELLVFWCFGLVQLVVSLR-------------------------PP-AK---------YCQGEVA--YMWLSLFAKGLLGMLVLSNVLVLGQFTDIYA---------------------------------------------------------------",
+    "full_label": "Dinophysis acuminata DAEP01"
+  },
+  {
+    "edge_num": 6,
+    "header": "MMETSP1178_DN9320_c0_g2_i1.p1 MMETSP1178_DN9320_c0_g2_i1 {5_prime_partial} [Phaeocystis rex CCMP2000]",
+    "Species": "Phaeocystis rex CCMP2000",
+    "Genus": "Phaeocystis",
+    "Clade": "Haptophyta",
+    "Superclade": "Haptista",
+    "Color": "goldenrod4",
+    "sequence": "---------------------------------------------------------------------------------------------------------------------------------------------EKRTVSRKATMADSMVL---GLQSTPT----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------GAQIHP---------APTILP--------VPT--------TTLTRWNVAMSIFHGVFAAIT---LIV-G-----NT--D---LRVPVYGSGVTLIVGGTNGT----NVGTDA---------EDG-FALKPDF--SERATWLYLTFATACFFLLSCVFHLGNAL--LWRKPYF-----RALAQGYAPFRWIEYAFSASVMILILAYTSGTTTLPVLVSLFGFTAITMSF-GHLHEVICRPK-----------------S--------------------------------------LEEWAVSSTLERLQAHIIGYVPQCFAWALVIAQFLEAGGESATDSR------------------------GDKSQMPS---FV---------YAIVFGEVLIFWCFGLVQLVVSLR-------------------------PP-GK---------YYQGEIA--YMFLSLFAKGLLGLLVLSNVLVLGSFTEIYES--------------------------------------------------------------",
+    "full_label": "Phaeocystis rex CCMP2000"
+  },
+  {
+    "edge_num": 7,
+    "header": "HBRJ01094234.1.p1 HBRJ01094234.1 {5_prime_partial} [Phaeocystis antarctica CCMP1871 = RCC4024]",
+    "Species": "Phaeocystis antarctica CCMP1871 = RCC4024",
+    "Genus": "Phaeocystis",
+    "Clade": "Haptophyta",
+    "Superclade": "Haptista",
+    "Color": "goldenrod4",
+    "sequence": "-------------------------------------------------------------------------------------LPPPSLPS-------VRHCIRCC-----------------------------------VSNRGLRCRSPSGR-----GAATLRQHTC-------------------------------------------------------------------------------------------------------------------SAGK-----------------------------------------------FLLADGRRHGHDAL---------EELELP--------VPA--------RKLTIMNALLCGFHATFATIT---LVV-G-----NT--D---LKVPVYGSGVKLIVGGTNGS----NIGTDA---------EEG-FALKPDF--SERATWLHLTWATACFFLLSFLFHLGNAL--LWRKPYL-----RLLASGYAPFRWVEYTFSASVMILILAYTAGTTTLPVLVALFGFTAITMAF-GHLHEVICRPK-----------------S--------------------------------------LEEWAVSNPLERLQAHIIGYVPQVFAWVLVIAQFLEAGGQSTTDSK------------------------GETSQMPA---FV---------YGIVFGELLIFWCFGIVQLVVSLR-------------------------PP-AK---------YYQGEIAYMYMWLSLFAKGLLGLLVLSNVLMLGSFTEIYESES------------------------------------------------------------",
+    "full_label": "Phaeocystis antarctica CCMP1871 = RCC4024"
+  },
+  {
+    "edge_num": 8,
+    "header": "MMETSP1444_DN17765_c1_g1_i3.p1 MMETSP1444_DN17765_c1_g1_i3 {5_prime_partial;frame=1} [Phaeocystis antarctica CCMP1374]",
+    "Species": "Phaeocystis antarctica CCMP1374",
+    "Genus": "Phaeocystis",
+    "Clade": "Haptophyta",
+    "Superclade": "Haptista",
+    "Color": "goldenrod4",
+    "sequence": "------------------------------------------------------------------------------------FALKP-------------------------------------------------------SRLHLSGNSPSKM-----GDAMVM-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MPS---------KTVELP--------VPA--------RKLTIMNALLCGFHATFATIT---LVV-G-----NT--D---LKVPVYGSGVKLIVGGTNGS----NIGTDA---------EEG-FALKPDF--SERATWLYLTWATACFFLLSFFFHLGNAL--LWRKPYL-----RLLASGYAPFRWVEYTFSASVMILILAYTAGTTTLPVLVALFGFTAITMAF-GHLHEVICRPK-----------------S--------------------------------------LEEWAISNKLERLQAHLIGYVPQCFAWGLVVAQFMEAGGSSATDSQ------------------------GEKSQMPT---FV---------YGIVFGELLIFWCFGIVQLVVSLR-------------------------PP-AK---------YYQGEIA--YMWLSLFAKGVLGLLVLSNVLMLGSFTEIYES--------------------------------------------------------------",
+    "full_label": "Phaeocystis antarctica CCMP1374"
+  },
+  {
+    "edge_num": 9,
+    "header": "HBTC01202227.1.p1 HBTC01202227.1 {5_prime_partial;frame=2} [Phaeocystis sp. RCC3538 = Phaeocystis globosa RCC3538]",
+    "Species": "Phaeocystis sp. RCC3538 = Phaeocystis globosa RCC3538",
+    "Genus": "Phaeocystis",
+    "Clade": "Haptophyta",
+    "Superclade": "Haptista",
+    "Color": "goldenrod4",
+    "sequence": "------------------------------------------------------------------------------------RLQRP------------------------------------------CNSCSTKRGERDLTRIRTRKMAEAPG-----GDAVVM-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MPS---------KPLELP--------VPA--------KKLTIMNALCCGFHGLFVVVT---LVA-G-----NT--E---LRVPVYGSGVRLIVGGTNGS----NVGTDA---------EDG-FALKPDF--SERATWLYLTWATACFFGLSCLFHLGNAL--LWRAPYL-----RLLASGYAPFRWLEYTFSASVMILILAYTSGTTTLPVLVALFGLTAITMAF-GHLHEVICRPK-----------------S--------------------------------------LDEWAVSNPLERLQAHLIGYVPQIFAWALVVAQFLEAGGASTTDSK------------------------GEKSQMPD---FV---------YGIVFGELLIFWCFGLVQLVISLR-------------------------PP-AK---------YYQGEVA--YMWLSLFAKGLLGLLVLVNVLQLGSFTEIYES--------------------------------------------------------------",
+    "full_label": "Phaeocystis sp. RCC3538 = Phaeocystis globosa RCC3538"
+  },
+  {
+    "edge_num": 10,
+    "header": "HBQW01020537.1.p2 HBQW01020537.1 [Phaeocystis sp. RCC935 = Phaeocystis jahnii RCC935]",
+    "Species": "Phaeocystis sp. RCC935 = Phaeocystis jahnii RCC935",
+    "Genus": "Phaeocystis",
+    "Clade": "Haptophyta",
+    "Superclade": "Haptista",
+    "Color": "goldenrod4",
+    "sequence": "-----------------------------------------------------------------------------------------------------------------------------------------------------MCVASKTA-----LQVESV-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------HAE---------AMVELP--------VPA--------QRLTRWNIAMCIFHAFFAIIT---LAL-G-----NL--D---LRVPVYGSGVRLIVGGENGS----AVGTNA---------TDG-WALEPDF--SERACWMHLTYATACFFLLSCLAHGGAAF--LWKKQYL-----RALGSGYAPFRWVEYAFSAPVMILILAYTSGTITMPVLVSLFGLTSITMFF-GHLHEVICRPK-----------------S--------------------------------------LDEWAVASLPFRLQAHFLGYVPQFFAWGLVVSQFMEAGGASTTDAS------------------------GEKSQMPT---FV---------YAIVFCELLIFWSFGMVQLVVSLR-------------------------PP-SK---------YYQGEIA--YMWLSLFSKGLLGLLVLSNVLMLGSFTEIYES--------------------------------------------------------------",
+    "full_label": "Phaeocystis sp. RCC935 = Phaeocystis jahnii RCC935"
+  },
+  {
+    "edge_num": 11,
+    "header": "MMETSP0174_DN2601_c0_g2_i1.p1 MMETSP0174_DN2601_c0_g2_i1 [Proboscia alata PI-D3]",
+    "Species": "Proboscia alata PI-D3",
+    "Genus": "Proboscia",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------MILRKKK-----MEVE---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------DTK---------TAVVLP--------VPI--------PQLQKWNTGMCIFHALFGIVV---LAV-G-----KI--D---LRVPIYASDPGIEVMADG---------------------GDG-WAFKPQA--PIRVGWLYLTVLVASFSFLSAIAHLGNCL--FWREQYI-----RSLQAGYAPSRWIEYGLSASVMVLILAYISGTIFRDTLVLLFALTMITMMF-GHLHEVICRPK-----------------S--------------------------------------LDSWEIPGFAWRLQAHMLGYIPQIFAWTIIIGNFLQGATTSTTDSF------------------------GEKRQMPT---FV---------YVIVFCEMLIFWSFGIVQLIVSVR-------------------------PP-SK---------YYQGEIV--YMWLSLFAKGFLAILCLTNVIMAGGDSENYEEAS-----------------------------------------------------------L",
+    "full_label": "Proboscia alata PI-D3"
+  },
+  {
+    "edge_num": 12,
+    "header": "MMETSP1447_DN10252_c2_g1_i1.p1 MMETSP1447_DN10252_c2_g1_i1 {5_prime_partial;frame=1} [Chaetoceros dichaeta CCMP1751]",
+    "Species": "Chaetoceros dichaeta CCMP1751",
+    "Genus": "Chaetoceros",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "-----------------------------------------------------------------------------------------------------------------------------------------------------CSTFSEEE-----LKMF------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LGRSAE---------DAVIVP--------VPN--------RQLYFWNIGACVFHTAFGITA---LAA-G-----KL--D---LRVPLYGSKLGLETLEGN---------------------DRA-WAYGPEQ--PERVGWFYLTWAVASFSWLSAVFHFGNAF--CWRKYYI-----QALEQAFAPFRWLEYSISASIMIVILAYIAGSVFRETFVLLFALTFITMTF-GHLHEVICRPK-----------------S--------------------------------------LDQWEIPNVLFRLQAHIFGYVPQIFAWAIVISNFAAAATTSTIDSE------------------------GEKRQMPK---FV---------YAIVILEVLLFWSFGLVQLVVSLR-------------------------PP-SK---------YYQGEIA--YMWLSVIAKGILALLCLTNVIMSGGYAEIYERDL------------------------------------------------------------",
+    "full_label": "Chaetoceros dichaeta CCMP1751"
+  },
+  {
+    "edge_num": 13,
+    "header": "MMETSP1094_DN46146_c0_g1_i1.p1 MMETSP1094_DN46146_c0_g1_i1 [Chrysochromulina brevifilum UTEX LB 985]",
+    "Species": "Chrysochromulina brevifilum UTEX LB 985",
+    "Genus": "Chrysochromulina",
+    "Clade": "Haptophyta",
+    "Superclade": "Haptista",
+    "Color": "goldenrod4",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MESVTH----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------SEMKET---------TEVKLP--------VPA--------GTLRKWNGAMFLFHAIFGFIA---LGM-G-----KR--D---LKVPVYGSKVGIEVLASNA--------------------TRG-WKQVPLK--PERVSWLYLTVLVASFSLLSSFFHLGNAF--IWRKQYI-----KALESGYAPFRWMEYSISASVMILLLSYISGSIVMNTQVMLFGLTFVTMIF-GHLHEVICRPK-----------------S--------------------------------------LDEWQ-GSKLWRLQAHFFGYIPQCFAWGIVIAQFMEGASASTIDAS------------------------GEERKMPT---FV---------YVIVFGELLVFWSFGIVQLLVSLK-------------------------PP-SL---------YYKGEIV--YMWLSLFAKGLLALLCLSNVILAGGYAEIYADDADT---------------------------------------------------------I",
+    "full_label": "Chrysochromulina brevifilum UTEX LB 985"
+  },
+  {
+    "edge_num": 14,
+    "header": "KOO28456.1 JWZX01002566 membrane protein [Chrysochromulina tobinii CCMP291]",
+    "Species": "Chrysochromulina tobinii CCMP291",
+    "Genus": "Chrysochromulina",
+    "Clade": "Haptophyta",
+    "Superclade": "Haptista",
+    "Color": "goldenrod4",
+    "sequence": "----MP-----------------------------------------------------------------------------------------------------------------------------------GLAVP-------ATIPTTHA-----LESEPVKS-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------EMN---------GEVIIP--------IPS--------RRLWRWNVGMSIFHGILLIAT---CVI-G-----NL--E---LRVPVYGSSVKLRVGMGNS--------------------SAG-WALAPDT--DTRVGWMYMTSLVALFFGMSCGFHFGNAF--IWRKYYE-----YALERAYAPFRWIEYSGSASVMILILSYTSGTLLSPMLVSLFALTMITMYF-GHLHEVICRPK-----------------S--------------------------------------LDEWECKNKLWRLQAHLLGYVPQCFAWGLIIAQFMDAGGKTTTDAS------------------------GQTRQMPK---FV---------YAIVFGEMAVFWSFGVVQLIVSLR-------------------------PP-SK---------YCQGEIA--YMWLSLFAKGFLGIIVLGNVLILDNFTDIYENS-------------------------------------------------------------",
+    "full_label": "Chrysochromulina tobinii CCMP291"
+  },
+  {
+    "edge_num": 15,
+    "header": "MMETSP0287_DN5609_c0_g1_i1.p1 MMETSP0287_DN5609_c0_g1_i1 {5_prime_partial;frame=1} [Chrysochromulina rotalis UIO044]",
+    "Species": "Chrysochromulina rotalis UIO044",
+    "Genus": "Chrysochromulina",
+    "Clade": "Haptophyta",
+    "Superclade": "Haptista",
+    "Color": "goldenrod4",
+    "sequence": "----------------------------------------------------------------------------------RQQTKRSQE----------ALAITS-K-AVEASAQPH---------QYAPSTMAHSIEVP-------STAVTRDA-----LEAPAY----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------SGKAKH---------DELVLP--------CPS--------SRLFKWNLGMSVFHTVLMIVT---LVA-G-----NL--D---LRVPVYGSSVALKVDGNN---------------------SRS-WALTPDT--DNRAGWFYLTYLVALFFFLSAFAHLGNAF--LWRPHYE-----YALERAYAPFRWIEYSGSASVMVLILAYTSGTILNPVLVSLFALTFITMTF-GHLHEVICRPA-----------------S--------------------------------------LDEWVSSSKLWRLQGHLMGYVPQCFAWGLIIAQFMEAGGASTTDAN------------------------GEKRQMPT---FV---------YAIVFGEMLIFWGFGVVQLIVSLR-------------------------PP-SK---------YYEGEIA--YMWLSLFSKGFLGLIVLSNVLMLGSFTEIYEDS-------------------------------------------------------------",
+    "full_label": "Chrysochromulina rotalis UIO044"
+  },
+  {
+    "edge_num": 16,
+    "header": "MMETSP0164_DN23521_c0_g1_i1.p1 MMETSP0164_DN23521_c0_g1_i1 {5_prime_partial} [Coccolithus pelagicus ssp braarudi PLY182g]",
+    "Species": "Coccolithus pelagicus ssp braarudi PLY182g",
+    "Genus": "Coccolithus",
+    "Clade": "Haptophyta",
+    "Superclade": "Haptista",
+    "Color": "goldenrod4",
+    "sequence": "-------------------------------------------STYLSEHTA-----------------------------SQSSVRKPSH----------RLPAAC-P-LPDANLQNV---------RFLLPRSNWTHLHP-------DTSAAMAN-----LEDPEKAS-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------EATDDEQ---------TEILLP--------VPA--------KKLTIWNAAMCLFHTTLAAVT---LAI-G-----DT--N---LRTPVFGTPTQIQIMANN----------------------TG-FALVPAP--AERASWLYMTWLVACFFFLSALAHLGNAL--LWRKFYL-----AALARGYAPFRWIEYTFSASVMVLILSYVAGTIVVSVLVSLFALTAITMFF-GHLHEVVCRPA-----------------S--------------------------------------LERWAIESRLWRLQAHLIGYVPQCFAWGLVIAQFMEAGGKVTTDEQ------------------------GRERKMPT---FV---------YAIVFGEVLIFWSFGIVQLVVSLR-------------------------AP-SK---------YYQGELA--YMYLSLFAKGFLGIIILSNVLVLEDNTELYENA-------------------------------------------------------------",
+    "full_label": "Coccolithus pelagicus ssp braarudi PLY182g"
+  },
+  {
+    "edge_num": 17,
+    "header": "MMETSP1334_DN23803_c4_g1_i1.p1 MMETSP1334_DN23803_c4_g1_i1 {5_prime_partial;frame=2} [Calcidiscus leptoporus RCC1130]",
+    "Species": "Calcidiscus leptoporus RCC1130",
+    "Genus": "Calcidiscus",
+    "Clade": "Haptophyta",
+    "Superclade": "Haptista",
+    "Color": "goldenrod4",
+    "sequence": "------------------GQW----------------------RAALSIGGA-----------------------------SLSVLPLPSD----------TID--------------------------RPHPNHHTPMLP-----TTNDSVMVDG-----MPKPD-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------APTART---------DGFVLP--------VPA--------KKLTFWNGAMCLFHSTLAAVT---LAV-G-----DL--K---LRVPVYSSAVELLVLPNN---------------------TDA-FALVPATP-ATRTSWLYFTGCVAAFFLLSAAFHLGNAL--VWRTWYL-----RALEKGYAPFRWLEYSASASVMVLILAYVSGTLVQSVLVSLFALTFITMVF-GHLHEVICRPE-----------------S--------------------------------------LDEWAVRSKLWRLQAHFFGYVPQCFAWGLIIAQFIEAGAASTTDSS------------------------GEERKMPS---FV---------YAIVFGEVVIFWSFGLVQLVVSLR-------------------------PP-CK---------YYQGEIA--YMYLSLFAKGFLGIIVLANLLVLDGNSEIYEQS-------------------------------------------------------------",
+    "full_label": "Calcidiscus leptoporus RCC1130"
+  },
+  {
+    "edge_num": 18,
+    "header": "MMETSP1152_DN14812_c0_g1_i3.p2 MMETSP1152_DN14812_c0_g1_i3 [Emiliania huxleyi PLY M219]",
+    "Species": "Emiliania huxleyi PLY M219",
+    "Genus": "Emiliania",
+    "Clade": "Haptophyta",
+    "Superclade": "Haptista",
+    "Color": "goldenrod4",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MSDTVV----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------IGSTKP---------NPVQLP--------VPG--------SLLTKWNGAMALFHGALTAVT---LAV-G-----NL--D---LRVPVYASEISLDVGDSNS--------------------TSE-WRLVPGV--ATRSGWMYLTYLTASFFFLSCVFHTGNVL--LWRAPYQ-----RALAGGFAPFRWAEYSLSASVMVLILSYTSGTIELYLLVLLFGLTFVTMLF-GHLHEVICRPE-----------------S--------------------------------------LDLWE-GRPLYRLQAHFFGYVPQLFAWGIILAQFFKAGGASTTDAAG-GGRRRELCHPRSPEITRDRPRLGNERQMPA---FV---------YGIVFGELLLFWSFGVVQLVVSLR-------------------------PP-SK---------YYQGEIA--YMWLSLLAKGVLGIVVLSNVLILGSFAEIYED--------------------------------------------------------------",
+    "full_label": "Emiliania huxleyi PLY M219"
+  },
+  {
+    "edge_num": 19,
+    "header": "MMETSP1364_DN13306_c0_g1_i1.p2 MMETSP1364_DN13306_c0_g1_i1 {5_prime_partial} [Gephyrocapsa oceanica RCC1303]",
+    "Species": "Gephyrocapsa oceanica RCC1303",
+    "Genus": "Gephyrocapsa",
+    "Clade": "Haptophyta",
+    "Superclade": "Haptista",
+    "Color": "goldenrod4",
+    "sequence": "---------------------------------------------------------------------------------------------------------------------------------------------------RRSSIQHRPAFSCLPMSDTVI----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------GGSTKP---------NPVQLP--------VPG--------SLLTKWNGAMALFHGALTAVT---LAV-G-----NL--D---LRVPIYASEISLDVGDTNS--------------------TNE-WRLVPGV--ATRSGWMYLTYLTASFFFLSCVFHTGNVL--LWRAPYQ-----RALAGGFAPFRWAEYSLSASVMVLILSYTSGTIELYLLVLLFGLTFVTMLF-GHLHEVICRPE-----------------S--------------------------------------LDRWE-GRPLYRLQAHFFGYVPQLFAWGIILAQFFKAGGASTTDAA------------------------GNERQMPA---FV---------YGIVFGELLLFWSFGVVQLVVSLR-------------------------PP-SK---------YYQGEIA--YMWLSLLAKGVLGIVVLSNVLILGSFAEIYED--------------------------------------------------------------",
+    "full_label": "Gephyrocapsa oceanica RCC1303"
+  },
+  {
+    "edge_num": 20,
+    "header": "MMETSP0270_DN9834_c0_g1_i1.p1 MMETSP0270_DN9834_c0_g1_i1 [Scrippsiella trochoidea CCMP3099]",
+    "Species": "Scrippsiella trochoidea CCMP3099",
+    "Genus": "Scrippsiella",
+    "Clade": "Alveolata",
+    "Superclade": "Alveolata",
+    "Color": "#ff636c",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MA-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------AML---------EPVTIE--------VPG--------KLLTRWNAAMATLHGALAIVT---LAV-G-----NL--E---LRTPIYGTSIGAQGFGGG----------NS---------TEG-WELVPTV--SERASYFYLTWAVAAFFLICAFFHLGNAL--LWRGLYL-----RLLSQCYCPSRWIEYSFSASVMVLLIGYTTGSIVLNVLVLLFALTFVTMLF-GHLHEVICRPA-----------------S--------------------------------------PERWAEPSVLWRLQAHLLGYVPQVAAWGVIVAQFIQAGGSSSTDED------------------------GNERRMPD---FV---------YAIVSVEMLLFWCFGLVQLVVSLR-------------------------TP-KD---------YIKGELA--YQVLSLVAKGLLGLLFLSNVLVLGSYTEA----------------------------------------------------------------I",
+    "full_label": "Scrippsiella trochoidea CCMP3099"
+  },
+  {
+    "edge_num": 21,
+    "header": "MMETSP1311_DN4168_c0_g1_i2.p1 MMETSP1311_DN4168_c0_g1_i2 {5_prime_partial;frame=1} [Chloropicon laureae RCC856]",
+    "Species": "Chloropicon laureae RCC856",
+    "Genus": "Chloropicon",
+    "Clade": "Viridiplantae",
+    "Superclade": "Archaeplastida",
+    "Color": "green",
+    "sequence": "FFIV-------------------------------------------GEAAA------------------------------VRRGKRDSAG--------------------------------------------------------CGERAASRA-----MEVEAG-----------------------------------------------------------------------------------------------------------------------AKEG-GADA--------------------------------VAVARAGG--GGEESGDL---AHH---------RLMFKG--------KGL--------RVLVWYNAAMMTFHAVLGAVT---LGL-G-----NL--G---LTVPVYELAYRLEVFPTTTTNATATAGESP---------GRG-WKLVPSG--GRVVMQLHFTWMTAMFFFISAAFHCGNAF--LWRKWYL-----DGIRNCMCPSRWIEYTFSASLMALLIAYGAGSNVLQLLICIFFLSATTMFF-GHITELLARPA-----------------QD-------------------------------------HQTWT-RHWLYRLQAHFMGYVPQIACWVVIMISFHTIAETASATVVTEGGE-------------------VEEVRMPR---FV---------FAIVWAELALFWGFGLTQLAVTLA-------------------------PP-RY---------YAYGELC--YQIMSLVSKGLLGLILIANVLMLSEF--------------------------------------------------------------------",
+    "full_label": "Chloropicon laureae RCC856"
+  },
+  {
+    "edge_num": 22,
+    "header": "MMETSP1456_DN3659_c0_g1_i1.p2 MMETSP1456_DN3659_c0_g1_i1 {5_prime_partial;frame=2} [Chloropicon roscoffensis RCC1871]",
+    "Species": "Chloropicon roscoffensis RCC1871",
+    "Genus": "Chloropicon",
+    "Clade": "Viridiplantae",
+    "Superclade": "Archaeplastida",
+    "Color": "green",
+    "sequence": "-----------------------------------------------GESAE------------------------------STTTRR--------------------------------------------------------------ERERERA-----MATSAGQGPS-------------------------------------------------------------------------------------------------------------------PAGG-INEA--------------------------------LEVEQ-----LRREAGNE---APG---------SKMFRG--------KGI--------RGLLWMNIAMAAFHAALFGVT---LGL-G-----NL--G---LSVPVYGLSNELLI---N------EPGADG---------RRS-WELLPEVR-QEPVMRLRLTWMTAGFFFISAFFHTGNSA--FWRRLYL-----DGIADCRCPSRWVEYSFSASLMSVLIGYASGTNIMLVLVAIFFLTMTTMFF-GHLTEELARPN-----------------QE-------------------------------------HTAWL-APWHRRLQAHFLGYVPQIVAWALILTTFHETASAASL---------------------------PDGRGMPK---FV---------YGIVYGELVVFWSFGLIQLVVTAL------------------------PSP-RH---------YPYGELA--YQIMSLVSKGLLGIILIANILMLSSYPDVYNR--------------------------------------------------------------",
+    "full_label": "Chloropicon roscoffensis RCC1871"
+  },
+  {
+    "edge_num": 23,
+    "header": "MMETSP1469_DN4720_c18_g1_i1.p1 MMETSP1469_DN4720_c18_g1_i1 {5_prime_partial;frame=1} [Chloropicon primus CCMP1205]",
+    "Species": "Chloropicon primus CCMP1205",
+    "Genus": "Chloropicon",
+    "Clade": "Viridiplantae",
+    "Superclade": "Archaeplastida",
+    "Color": "green",
+    "sequence": "RLIH------------------------------------------F-------------------------------------------------------------------------------------------------------------------MATMATMGS------------------------------------------------------------------------------------------------------------GKEGEGRVSLEG-DQEA--------------------------------QELSK------TESSEWN---ELR---------RRMFCG--------RGL--------NMLLYLNPAMALFHGALFAVT---LAV-G-----NL--N---LSVPVYNIAYDLEVTRT----------EGG---------QTS-WKLLPAG--GTVCMDLKFTWMTACFFLISAVFHLLNCT--AWRRWYI-----AGIAECRCPSRWIEYTFSASLMAVLIAYGAGMNIMLLLVSVFFLSATTMFF-GHVTELLARPT-----------------RD-------------------------------------GNSWT-EPWHYRLQAHFMGYVPQLTAWFLIIYQFHYTAAGAELTVNGEPS--------------------DGSRGMPP---FV---------YGIVWGELIVFWSFGLIQLVFTSI-------------------------SP-KF---------YPYGELA--YQIMSLVSKGILGLVLIVNVLMLSNFEDIYQ---------------------------------------------------------------",
+    "full_label": "Chloropicon primus CCMP1205"
+  },
+  {
+    "edge_num": 24,
+    "header": "MMETSP1136_DN15644_c0_g1_i1.p1 MMETSP1136_DN15644_c0_g1_i1 [Chrysotila carterae CCMP645]",
+    "Species": "Chrysotila carterae CCMP645",
+    "Genus": "Chrysotila",
+    "Clade": "Haptophyta",
+    "Superclade": "Haptista",
+    "Color": "goldenrod4",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MSTHLAASNKDLHI-------------------------------------------------------DIPNSF--------------------------RTNSRD-----------ASPIQRSSLNQ-DSRASLARHESR----------------SLTRGNSRMSATHA----AG-RSVS-RLSSLS----NIISVPCELSG--------QRK--------RQLLGLNIFFSIFHLAFAIGA---ASF-G-----HS--G---HKIALYRTRLVPITE---------VVGDRS---------FET-YNLVPAI--PVHVCDFYVAAAIAAAAFITAFFHFGNAF--IWRGKYE-----QGLEQCRCLSRWIEYSLSASIMIMVISVLSGQVMLAPLVLLFGLTLVTMQF-GIALDISVRPL-----------------N--------------------------------------ARSWKEPSAWKRLVIFFLGWTPQIFVWSIVFAEFAWAANGESSADA------------------------VAKVNLPG---FV---------YAVVLVEFILFFSFAFVQLGILLN-------------------------PP-SE---------YVRGEIM--YQILSFGAKAFLAVCCIFGVLMADSVSDLYVSV-------------------------------------------------------------",
+    "full_label": "Chrysotila carterae CCMP645"
+  },
+  {
+    "edge_num": 25,
+    "header": "MMETSP1136_DN22373_c0_g1_i1.p1 MMETSP1136_DN22373_c0_g1_i1 [Chrysotila carterae CCMP645]",
+    "Species": "Chrysotila carterae CCMP645",
+    "Genus": "Chrysotila",
+    "Clade": "Haptophyta",
+    "Superclade": "Haptista",
+    "Color": "goldenrod4",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MDAAYRPT---------------------------------------------------------------------------------------------------------------ANAQRTPATN-HSGSA--------------------------QGMSSPSLVPS----MGFQSMN-SSSTMP----SMITVPCPVSK--------QNK--------RLLWALNLLFGFLHFVLCIIV---ASL-A-----HG--G---HRVALYRTKLTPVVE---------TIGNQR---------FET-YRLTPAT--PIIVCHLHLSAAISSIFAITSCAHFGNAL--LWRTLYE-----KSLEQCSCPFRWIEYGVSASIMMLVIGALSGQVMLVPLLLLFGLSLITMEF-GAALELVNRPL-----------------N--------------------------------------SKSWQEPATWKRLIVFVFGCTPQVFVWAAIFLEFSWHAYDNDSADA------------------------IAKAQIPG---FV---------YAIVLGESLLFLCFAVVALRVLLN-------------------------PP-SE---------YIRGEVM--YQTLSFAAKIFLGVSTVFGALVADSVGELYVDSAYL-----------------------------------------------SEQS-----SG",
+    "full_label": "Chrysotila carterae CCMP645"
+  },
+  {
+    "edge_num": 26,
+    "header": "MMETSP1137_DN8435_c0_g2_i1.p1 MMETSP1137_DN8435_c0_g2_i1 {5_prime_partial;frame=1} [Chrysotila carterae CCMP645]",
+    "Species": "Chrysotila carterae CCMP645",
+    "Genus": "Chrysotila",
+    "Clade": "Haptophyta",
+    "Superclade": "Haptista",
+    "Color": "goldenrod4",
+    "sequence": "-----------------------------------------------GES----------------------------------------------------------------------------------------------------------------MEGRELGH---------------------------------------------------------------------------------------------------------------------PRGA-ASAVE--------------------------QMQSLTSIQPG----LPMHPSNLGNNNVP----TFMSVPCPLSR--------QTK--------KLLWALNLFFSICHLGLAILA---ASA-G-----SF--G---HHIAVYRTKLVPVVE---------SIGNRE---------FET-YRLVPGI--PVHVTDLYLTTAIMIQFTITSFFHFANAY--LWRGSYE-----SALEYCYCPSRWAEYSLSASTMILVISGLSGQHMLVPLMLLFGVTFITMQF-GYSVELVNRPL-----------------N--------------------------------------SRTWQEPQLWKRLIVHAFGWTPQLFVWTAVLIEFSWHVTDSDSADA------------------------VAKRQIPG---FV---------YAIVLGELVLFVCFALVQIRVLLN-------------------------PP-SE---------FVRGEIM--YQILSFSAKSFLGLSAFFGVLLADSVDQLYVDPTV-----------------------------------------------------------",
+    "full_label": "Chrysotila carterae CCMP645"
+  },
+  {
+    "edge_num": 27,
+    "header": "CAZ69391 clade=VHeR1 [EhV-99B1]",
+    "Species": "EhV-99B1",
+    "Genus": "EhV-99B1",
+    "sequence": "--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MIFSD--------KTL--------KHLLIWNFIAGTCNLAMAVVT---GVV-G-----NL--N---LRPDLYNIQAEFTGM------------------------TDA-YMLAPT---NHVYGTFPITALMMATFIISAVFNYGNIM--LWPNAYY-----SKLEKGCSPFRWTDVFFSTTLLTGCVAFASGMRDLNQLVLVSGLSVTVTSL-LYLTDVYLKPK-----------------DD-------------------------------------VDAWKEESFVMRAKPHLISVIPFTFMWVMLFMTFLN----------------------------------GPSCVAPN---WL---------WATFILFFILSIANFLPQVYQVAM-------------------------PP-SL---------YVKGEFK--YITLTTVTKVLIGILLVSSALGKTDFNSAVVKSDPSGCLAYPPPPSS-------------------------PPSSP-SPPPSASPSPPP---P",
+    "full_label": "EhV-99B1"
+  },
+  {
+    "edge_num": 28,
+    "header": "CAI65478 clade=VHeR1 [EhV-86]",
+    "Species": "EhV-86",
+    "Genus": "EhV-86",
+    "sequence": "--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MIFSD--------KTL--------KHLLIWNFIAGTCNLAMAVVT---GVV-G-----NL--N---LRPDLYNVQAEFTGM------------------------TDA-YMLAPT---NHVYGTFPITALMMATFIISAVFNYGNIM--LWPNAYY-----SKLEKGCSPFRWTDVFFSTTLLTGCVAFASGMRDLNQLVLVSGLSVTVTSL-LYLTDVYLKPK-----------------DD-------------------------------------VDAWKEESFVMRAKPHLISVIPFTFMWVMLFMTFLN----------------------------------GPSCVAPN---WL---------WATFILFFILSIANFLPQVYQVAM-------------------------PP-SL---------YVKGEFK--YITLTTVTKVLIGILLVSSALGKTDFNSAVVKSDPSGCLAYPPPPAS-------------------------PQSASPSPPP---PSPPPQVTP",
+    "full_label": "EhV-86"
+  },
+  {
+    "edge_num": 29,
+    "header": "AET97940 =V1HeR1 clade=VHeR1 [EhV-201]",
+    "Species": "EhV-201",
+    "Genus": "EhV-201",
+    "sequence": "--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MIFSD--------KTL--------KHLLIWNFIAGTCNLAMAIVT---GVV-G-----NL--N---LRPDLYNVQAEFTGM------------------------TDA-YMLAPT---NHVYGTFPITALMMATFIISAVFNYGNIM--LWPNAYY-----SKLEKGCSPFRWTDVFFSTTLLTGCVAFASGMRDLNQLVLVSGLSVTVTSL-LYLTDVYLKPK-----------------DD-------------------------------------VDAWKEESFVMRAKPHLISVIPFTFMWVMLFMTFLN----------------------------------GPSCVAPN---WL---------WATFILFFILSIANFLPQVYQVAM-------------------------PP-SL---------YVKGEFK--YITLTTFTKVLIGILLVSSALGKTDFNSAVVKSDPSGCLAYPPPPWS-------------------------PPSPPLPPPPSTSPSPPPG-SP",
+    "full_label": "EhV-201"
+  },
+  {
+    "edge_num": 30,
+    "header": "AET42597 =V2HeR1 clade=VHeR1 [EhV-202]",
+    "Species": "EhV-202",
+    "Genus": "EhV-202",
+    "sequence": "--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MIFSD--------KTL--------KHLLIWNFIAGTCNIAMAIVT---GVV-G-----NL--D---LRPDLYNVQTEFTDM------------------------TDA-YMLAPT---NHVYGTFPITALMMATFIISAVFNYGNIM--LWPNAYY-----SKLEKGCSPFRWTDVFFSTTLLTGCVAFASGIRDLNQLVLVSGLSVTVTSL-LYLTDVYLKPK-----------------DD-------------------------------------VDAWQEERFIMRAKPHLISVIPFTFMWIMLFMTFFN----------------------------------GPSCVAPN---WL---------WATFIIFFILSIANFLPQVYQVAM-------------------------PP-SL---------YVKGEFK--YITLTTFTKILIGILLVSSVLGKTDFNSAVVKSDPSGCLAYPPPPPPAAAPSPPPYPPNEAPTPPPPSISPFPPSASPSPPP-TSPSPPP--PP",
+    "full_label": "EhV-202"
+  },
+  {
+    "edge_num": 31,
+    "header": "CAZ69414 clade=VHeR2 [EhV-99B1]",
+    "Species": "EhV-99B1",
+    "Genus": "EhV-99B1",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------M-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------PDLSI--------TRQ--------SILYKLNMIAFVLHLILAIVT---GTV-G-----NI--H---LSPPIYNTKVTFTY-------------NSS---------DTG-FYLDPY---YVSYGGYPITALTLVFFVITAFFHLANAT--FLNDIYI-----SSLELCFTPTRWIEYFITASLMSCTIAYLTGARSVLVIVGVCGLIASTMLF-GFMSELYNRPM-----------------EN-------------------------------------VDAWERTTFLKRSIPHFLGYVPYMFAWFMILYSFFGGG---------------------------------GTCAAPA---WV---------WIIIVGQFIQFSLFVIPQLYQLKN-------------------------PP-SK---------FVRGEYI--FIFLSFFAKATLGINLLAGGITLENFDAGVIDSNTT-C--------------------------DVVDLA------------------------",
+    "full_label": "EhV-99B1"
+  },
+  {
+    "edge_num": 32,
+    "header": "AEP15622 clade=VHeR2 [EhV-207]",
+    "Species": "EhV-207",
+    "Genus": "EhV-207",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------M-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------PDLSI--------TRQ--------SILYKLNMIAFVLHLILAIVT---GTV-G-----NI--H---LSPPIYNTKVTFTY-------------NSS---------DTG-FYLDPY---YVSYGGYPITALTLVFFVITAFFHLANAT--FLNDIYI-----SSLELCFTPTRWIEYFITASLMSCTIAYLTGARSVLVIVGVCGLIASTMLF-GFMSELYNRPM-----------------EN-------------------------------------VDAWERTTFLKRSIPHFLGYVPYMFAWFMILYSFFGGG---------------------------------GTCAAPT---WV---------WIIIMGQFIQFSLFVIPQLYQLKN-------------------------PP-SK---------FVRGEYI--FIFLSFFAKATLGINLLAGGITLENFDAGVIDSNTT-C--------------------------DVIDLA------------------------",
+    "full_label": "EhV-207"
+  },
+  {
+    "edge_num": 33,
+    "header": "AET97964 =V1HeR2 clade=VHeR2 [EhV-201]",
+    "Species": "EhV-201",
+    "Genus": "EhV-201",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------M-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------PDLSI--------TRQ--------SILYKLNMIAFVLHLILAIVT---GTV-G-----NI--H---LSPPIYNTKVTFTY-------------NSS---------DTG-FYLDPY---YVSYGGYPITVLTLVFFVITAFFHLANAT--FLNDIYI-----SSLELCFTPTRWIEYFITASLMSCTIAYLTGARSVLVIVGVCGLIASTMLF-GFMSELYNRPM-----------------EN-------------------------------------VDAWERTTFLKRSIPHFLGYVPYMFAWFMILYSFFGGG---------------------------------GTCAAPT---WV---------WIIIMGQFIQFSLFVIPQLYQLKN-------------------------PP-SK---------FVRGEYI--FIFLSFFAKATLGINLLAGGITLENFDAGVIDSNTT-C--------------------------DVIDLA------------------------",
+    "full_label": "EhV-201"
+  },
+  {
+    "edge_num": 34,
+    "header": "CAI65501 clade=VHeR2 [EhV-86]",
+    "Species": "EhV-86",
+    "Genus": "EhV-86",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------M-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------PELSI--------TRQ--------SILYKLNMIAFVLHLILAIVT---GTV-G-----NI--H---LSPPIYNTKVTFTY-------------NSS---------DTG-FYLDPY---YVSYGGYPITALTLVFFVITAFFHLANAT--FLNDIYI-----SSLELCFTPTRWIEYFITASLMSCTIAYLTGARSVLVIVGVCGLIASTMLF-GFMSELYNRPM-----------------EN-------------------------------------VDAWERTTFLKRSIPHFLGYVPYMFAWFIILYSFFGGG---------------------------------GTCAAPA---WV---------WIIIMGQFIQFSLFAIPQLYQLKN-------------------------PP-SK---------FVRGEYI--FIFLSFFAKATLGINLLAGGITLENFDAGVIDSNTT-C--------------------------DVVDLA------------------------",
+    "full_label": "EhV-86"
+  },
+  {
+    "edge_num": 35,
+    "header": "AET42570 =V2HeR2 clade=VHeR2 [EhV-202]",
+    "Species": "EhV-202",
+    "Genus": "EhV-202",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------M-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------PEISK--------TRQ--------SILFKLNMIAFALHLILAIVT---GTV-G-----NI--N---LAPPIYNTKVTFTY-------------NSS---------ETG-FSLDPY---YVSYGGYPITALTVVFFVLTAFFHLANAT--FLNETYI-----SCLELCFTPTRWIEYFLTASLMSCTIAYLSGSRSVLVIVGVCGLIASTMLF-GFISELYNRPR-----------------ET-------------------------------------VDAWERSTLLKRSVPHFLGYVPYLFAWFIILYSFFGSG---------------------------------GTCAAPA---WV---------WVIILAQFIQFSLFVIPQLYQLKN-------------------------PP-SK---------FIRGEYY--FIFLSFFAKATLGIILLAGGITLENFDAGAIDPNIT-C--------------------------DIIDLA------------------------",
+    "full_label": "EhV-202"
+  },
+  {
+    "edge_num": 36,
+    "header": "AET73409 =VPS401HeR clade=VHeR4 [EhV-PS401]",
+    "Species": "EhV-PS401",
+    "Genus": "EhV-PS401",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MGI-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------IRLSN--------KEL--------RWLVITNLLAAVLHTGICVTV---AVI-G-----DL--A---LQPPLYGVDIAYAGGS---------------------------GVGVPS---ITTFGTFPITMIVVVYPAVTAFFHFGNAL--IWPKFYF-----DMLERCQNPMRWAEYTVTASLMTTVISFLTGVRTTLLLTALAMLVASTILC-GYSTEQVNRPS-----------------S--------------------------------------PFVWDNPSYRSRVRNTLLGFLPYSAEWAITIVTIVKLT-----------------------------------NCRNA---YI---------ITILAAEFALWCVFPLIQLVQFYR-------------------------PP-KD---------FVYGEFA--FIFMSLTAKAVLAIVALAAGYLSEGAE---------FC------------------------------------------------------KP",
+    "full_label": "AET73409 [EhV-PS401]"
+  },
+  {
+    "edge_num": 37,
+    "header": "SAMEA2621075_258957 =VTara8957HeR clade=VHeR3 [Metagenomic]",
+    "Species": "Metagenomic",
+    "Genus": "Metagenomic",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MRNSYDEHD------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------DDY------IDLSITIGNSLAFFFHLALALTA---ALL-G-----DV--D---KSFDMYWPETTFE--------------------------PSG-VANTVN---VEYVGAFPMTILFVTYFAITALSHFGNVC--MWNLHYF-----DYLGARMNPLRWIEYSITAPLMTTILAFIAGTRNILFIIAAATLTFTTISF-GFVVDNTR----------------------------------------------------------------------KTSSLLGGLVPFVVEFSLVISSLFVTT-----------------------------------NCYPS---YV---------PITIFVEFGLWAIFPLISFMQLKKL---------------------------IA---------YKKGELC--FIIMSFASKAVLFLVLLIENVLTDGIQGT--------C--------------------------------------------------------",
+    "full_label": "SAMEA2621075_258957 [Metagenomic]"
+  },
+  {
+    "edge_num": 38,
+    "header": "AET42421 =V2HeR3 clade=VHeR3 [EhV-202]",
+    "Species": "EhV-202",
+    "Genus": "EhV-202",
+    "sequence": "---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MDT------IVLTINWFNFIAGLFHVALAIVC---ALL-G-----DV--S---QTFKMYMPFTTFR---------------------------NGTQENEVT---IKYSGYFPMTVIFVVYFSVTALFHMGNAF--LWNDTYH-----RFLSNRKNPIRWTEYSITAPLMTAILAFIAGSRNWLFVIAASTLTFASISV-GFVLDEIR----------------------------------------------------------------------KYSFFVLGMIPFLVEFSLIILSLYLTT-----------------------------------SCYPS---YL---------PITIFVEFGLWILFPFVSLLELSG----------------------------IN---------YKIGELV--FIVLSFVSKSVLAIILNSENVLKNGVTGI--------C--------------------------------------------------------",
+    "full_label": "EhV-202"
+  },
+  {
+    "edge_num": 39,
+    "header": "OM-RGC.v1.010885482 =VTara5482HeR clade=VHeR3 [Metagenomic]",
+    "Species": "Metagenomic",
+    "Genus": "Metagenomic",
+    "sequence": "---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MNT------IVLTINWFNFIAGLFHVALAIVC---ALL-G-----DV--S---QTFKMYMPFTTFQ---------------------------NGTQEHDVT---IKYNGYFPMTVIFVVYFSVTALFHLGNTF--LWNDAYH-----RFLSNRKNPIRWTEYSITAPLMTSILAFVAGSRNWLFVIAASTLTFASISV-GFVLDELR----------------------------------------------------------------------KYSFFVLGMIPFLVEFSLIITSLYLTT-----------------------------------SCYPS---YL---------PITVFIEFGLWLLFPFVSFLELAG----------------------------IN---------YKIGELL--FIVLSFVSKSVLAIILISENVLKNGITGT--------C--------------------------------------------------------",
+    "full_label": "OM-RGC.v1.010885482 [Metagenomic]"
+  },
+  {
+    "edge_num": 40,
+    "header": "SAMEA2621401_1124616 =VTara4616HeR clade=VHeR3 [Metagenomic]",
+    "Species": "Metagenomic",
+    "Genus": "Metagenomic",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MYE------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------EKK------LDGVITIFNFLAMLFHVSLAVLS---SIF-G-----DI--E---KTFNLYYPFTVFG---------------------------DG-ETDAVS---IKNGGTFPMTIIFISYFSVTAFFHFGNCC--LWNHKYF-----CCLRKKRNPFRWAEYSITAPLMTSILAVISGSRNYILIIAACVLTFSTISF-GIALDDTK----------------------------------------------------------------------NFMYILYGMVPFLVEFGLITTSLYVST-----------------------------------DCFPS---FI---------PITIFVEFGLWSLFPLVAVLDTFA----------------------------IS---------YEAGELL--YIVLSFVSKSVLVIILMVEGVLKDGIVGT--------C--------------------------------------------------------",
+    "full_label": "SAMEA2621401_1124616 [Metagenomic]"
+  },
+  {
+    "edge_num": 41,
+    "header": "1KP_ALZF_2019540.p1 1KP_ALZF_2019540 {5_prime_partial;frame=1} [Halochlorococcum marinum SAG 10.90]",
+    "Species": "Halochlorococcum marinum SAG 10.90",
+    "Genus": "Halochlorococcum",
+    "Clade": "Viridiplantae",
+    "Superclade": "Archaeplastida",
+    "Color": "green",
+    "sequence": "----------------------------------------------------------------------------------AAGPRFFPLPR---------VAPS------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------VDNH-----------------NMA---------NAAVQD--------LPT--------KKLRIFNLVVGVFQLLTGALI---AGI-T-----DV--D---AKAPWYTNFIESR--------------DEE----------EE-GFYEPR---SRRIENIAIGYLSAIFLFMSAADHLLVIMP-GINSIYN-----KYVARGQNPFRWLEYFFSASVMRVMIAQLSGTTDVFTLVLIFGTCAVTMLF-GHLMEHINATPRSVDVDPASSGTQQFLRQKEDS-----------------------------------NGASLPRRKVDWTPLIMGFIPHAFSWSVVIWYFLRGV---------------------------------IYGDPPG---FV---------WAIIFILFFTDLTFAWAQWAQFG------------------------LKSF-AK---------PGKAEMT--YIILSLTSKQILAWVNYGGTQSL-----------------------------------------------------------------------",
+    "full_label": "Halochlorococcum marinum SAG 10.90"
+  },
+  {
+    "edge_num": 42,
+    "header": "1KP_BAZF_2071778.p1 1KP_BAZF_2071778 {5_prime_partial;frame=2} [Chaetopeltis orbicularis SAG 21.98]",
+    "Species": "Chaetopeltis orbicularis SAG 21.98",
+    "Genus": "Chaetopeltis",
+    "Clade": "Viridiplantae",
+    "Superclade": "Archaeplastida",
+    "Color": "green",
+    "sequence": "--------------------------------------------------D--------------------------------------------------------------------------------------------------------PC-----HSTAACLQ---------------------C------------------------HSLA---GSRY------------------------------------STGAFS------------------------------------------------------------------------QNIPLSL-CFG---------RCHIMI--------LNE--------RRLWVWNLVVGVFQIVTGVVI---AGI-T-----DK--D---AKAPWYTSFSPEG--------------DNN-----------R-RSFVPK---PNLVANVTIGYYSAVFLWLSGIDHLAVTTP-FLYKWYI-----RQISKNQNIFRWIEYSVSAAVMRVMIAQLSGITDIHILFAIFGLTASTMFF-GWTMESLNGTAITTYEI------SEQFISSKSA----------------------------------VGIPTAPARKVDWTPFILGFVPHAWAWLIIFCYFFVAV--------------------------------SRSGDTPG---FV---------WAIIFVLFAIDLTFALNQFLHFKQ-----------------------VRLY-KG---------FGRFELG--YILLSITAKQLLAWLNFGGTYSLKN---------------------------------------------------------------------",
+    "full_label": "Chaetopeltis orbicularis SAG 21.98"
+  },
+  {
+    "edge_num": 43,
+    "header": "MMETSP0063_DN13987_c0_g2_i1.p1 MMETSP0063_DN13987_c0_g2_i1 {5_prime_partial} [Chlamydomonas euryale CCMP219]",
+    "Species": "Chlamydomonas euryale CCMP219",
+    "Genus": "Chlamydomonas",
+    "Clade": "Viridiplantae",
+    "Superclade": "Archaeplastida",
+    "Color": "green",
+    "sequence": "-----------------------------------------------GRSD-------------------------------SVQLHRHPFPR---------A-----------------------------------------------------------LSLRCSSPPP-------------------------------------------------------------------------------------------AASACA-----------------CACTS-YAGA-----------------------------RLRFRTVSA---------------SRE---------SGDMPA--------LTP--------RRLRIFNIIAAVIQLACGIAL---GPI-T-----DR--A---ASAPWYTDFINAP--------------EKN----------VSFLDFIPV---SKMVASVPLGYYSCVFLLLSGVNHALCAMP-GINGWYN-----KQIALNSNPIRWLEYAFSASVMHVMILQLSGATQVHLLYAVFGLTMTTMTH-GWLMERSNMRALPTYVLEGPSDVPQPEESDTLG---------------------SGG-----------GKTSTGRPPVDWTPFLLGFIPHIYVWTIIACYFFRAI---------------------------------ANRSPPA---FV---------YVIFFIELFIDLSFAVNMMLQYVQ-----------------------VPGW-RG---------YGATEFW--YIVLSLTAKQLLAWINYGGTKALAP---------------------------------------------------------------------",
+    "full_label": "Chlamydomonas euryale CCMP219"
+  },
+  {
+    "edge_num": 44,
+    "header": "1KP_CBNG_2040618.p1 1KP_CBNG_2040618 {5_prime_partial;frame=2} [Planophila laetevirens SAG 2008]",
+    "Species": "Planophila laetevirens SAG 2008",
+    "Genus": "Planophila",
+    "Clade": "Viridiplantae",
+    "Superclade": "Archaeplastida",
+    "Color": "green",
+    "sequence": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------VDV----------------C-FRS---------HSRSMA--------LTT--------TSLWRWSLGAGIFQLVTGIII---LII-N-----DY--G---LTTPWYTFFIIER--------------SASA---------DF-GVYVPS---AKKQWDLPLGAVSGIFLLLSAANHLLTTLP-GLNRKYN-----HAVSQNRNPFRWIEYSVSASLMHVQIAQLSGVVDIHLLYAIFGLTATTMLF-GWLMEATNGSRLVTYDLTNSRTVTEQGEQFILT------------------------------------DGTAKMAAIDWTPFVMGFVPHFFAWSIILCFFFQSV---------------------------------SNGDPPG---FV---------WVIIFILFGLDLLFAVNQFLQFKG-----------------------AKGW-RG---------FARAELN--YIILSLTAKQLLAWIEFGGTKSL-----------------------------------------------------------------------",
+    "full_label": "Planophila laetevirens SAG 2008"
+  },
+  {
+    "edge_num": 45,
+    "header": "1KP_CQQP_2074009.p1 1KP_CQQP_2074009 [Ochlochaete sp. CCMP2390]",
+    "Species": "Ochlochaete sp. CCMP2390",
+    "Genus": "Ochlochaete",
+    "Clade": "Viridiplantae",
+    "Superclade": "Archaeplastida",
+    "Color": "green",
+    "sequence": "-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MQ--------LTP--------AKLRKWNLGVGIFQLFTGAVI---FGI-T-----DY--D---LKTPLYTFFIASR--------------DAD----------EI-GFYVPE---PNRVWNAPIGALSGIFLLLSAIDHLAVILP-GLNKVYL-----RELCANRNKFRWLEYSVSASAMRVQIAMLSGAIHAQELYAIFGLAACTMLF-GWLMESINGTRLPTYNI------DGQEVKSLED----------------------VG-----------MPGSMPKRKIDWTPLIMGFVAHAFSWTLVLCHFFQTV---------------------------------KNGDPPA---FV---------WAIIFILFFLDLTFAVVQILQFAG-----------------------V--L-KG---------FAKAEFC--YIILSLTAKQLLAWIEFVGVQSLNQ---------------------------------------------------------------------",
+    "full_label": "Ochlochaete sp. CCMP2390"
+  },
+  {
+    "edge_num": 46,
+    "header": "1KP_KSFK_2001904.p3 1KP_KSFK_2001904 {5_prime_partial;frame=1} [Desmochloris halophila UTEX 2073]",
+    "Species": "Desmochloris halophila UTEX 2073",
+    "Genus": "Desmochloris",
+    "Clade": "Viridiplantae",
+    "Superclade": "Archaeplastida",
+    "Color": "green",
+    "sequence": "-----------------------------------------------------------------------------------ANPSTLPHRV---------LAFWFC----------WLW-----------------------------------------FSGHRSRPRSLDAL---------------C------------------------KPAW-------------------------------------------RSAPLD-------------------TQA-CAKC------------------------------WLLHVK---------------------------------MQ--------LTT--------TKLRRWNLGVGLFQLLTSAII---FGI-T-----DY--D---LTAPWYTFFILER--------------DPD----------EP-GFYIPG---PNRFADVPIGVLSGVFLLLSALDHLFVTLP-GVNAFYN-----KELYRNRNIFRWLEYSLSASIMRVQIATLSGIVSIHTLFAIFGLTAATMLF-GWLHESMNGHRLAGRHFQQKARQDALTEQELGS----------------------GGADGH------SGARGDEGHSTDWTPFIMGFVPHLFAWSIIACHFFQSV---------------------------------SSGDPPG---FV---------WAIIFILFGLDLCFALVQLLQFRG-----------------------CKGF-RG---------FAQAEFA--YIILSLTAKQLLAWIEFGGAQSLKP---------------------------------------------------------------------",
+    "full_label": "Desmochloris halophila UTEX 2073"
+  },
+  {
+    "edge_num": 47,
+    "header": "1KP_NQYP_2026776.p1 1KP_NQYP_2026776 {5_prime_partial;frame=2} [Halofilum salinum SAG 1.95]",
+    "Species": "Halofilum salinum SAG 1.95",
+    "Genus": "Halofilum",
+    "Clade": "Viridiplantae",
+    "Superclade": "Archaeplastida",
+    "Color": "green",
+    "sequence": "-----------------TGKL-------------------------------------------------------------RLDAAFEP-----------------------------------------------------------------PI-----ASNLSRRK---------------------C------------------------QPAP---AVLY------------------------------------------------------------------------------------------------------------------PCLATAA-WIH---------SAPMVK--------LTF--------KSLRLWNLGIGLFQLVCAAII---FGI-T-----DY--D---LTTPWYIFFIRSR--------------EPTIGSGAN-ERPNP-NFFVPQC--NNKQADVPIGVFSGIFLALSGFDHLATVLP-GLNKLYN-----RGLRVNENPFRWLEYALSASLMRVQIAMLSGVTDLHTCFAIFMLTATTMLF-GWEMETLNGRRLPCYDA------NGNVEGGVGA-----------------------------------YDGAVKLDRVNWQPFLFGFVPHFSAWAIIACHFFRNV---------------------------------ARGDAPG---FV---------WAIIIVIFVLDLLFAVVQFLQFKR-----------------------ARFF-QG---------FARAEFA--YMVLSLTSKQLLAWIEFGGTFSLNSD--------------------------------------------------------------------",
+    "full_label": "Halofilum salinum SAG 1.95"
+  },
+  {
+    "edge_num": 48,
+    "header": "1KP_EEJO_2002775.p3 1KP_EEJO_2002775 [Neochloris oleoabundans UTEX 1185]",
+    "Species": "Neochloris oleoabundans UTEX 1185",
+    "Genus": "Neochloris",
+    "Clade": "Viridiplantae",
+    "Superclade": "Archaeplastida",
+    "Color": "green",
+    "sequence": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MAP--------LTF--------SRLRWWNTGVGAVQLVTGIVI---LAI-T-----PY--D-AKSKLPWYTFFVASW--------------SRDNED-----LPAS-DFYRPA---PNQVASFPIGVWSGVFLLLSAADHLLVVLP-RVNDAYN-----RYLCQNRNPFRWAEYSVSASLMSVMIAQLCGITSIHLLFTLAALMASTMLF-GHLMEVFNGTRLPTYAYTQDPKTPPAQIKAEQP----SPAAGLPSAFITN-PVAEGGMPGGSDRGNGWNGVASEAPDVDFQPFWLGCWPFLAVELVTACFFFQAV---------------------------------SNGSPPD---FV---------WSLFFILSILYILFAVNQYLQFKQ-----------------------VRGW-RG---------FAQAEWW--YMILSLSSKQLLAWITYGGTRRFENEGV------------------------------------------------------------------",
+    "full_label": "Neochloris oleoabundans UTEX 1185"
+  },
+  {
+    "edge_num": 49,
+    "header": "EFN55222.1 GL433845 hypothetical protein [Chlorella variabilis]",
+    "Species": "Chlorella variabilis",
+    "Genus": "Chlorella",
+    "Clade": "Viridiplantae",
+    "Superclade": "Archaeplastida",
+    "Color": "green",
+    "sequence": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MAP--------LTF--------ARLRWWNAAVGTLQLVAGAAI---LAI-S-----PY--D-PKSELPWYTFFVASW--------------SRDNG-------AES-DFYSPA---PKQVASFPIAVWSGVFLLLSAVDHLLVILP-RVNAYYN-----RCLCQNRNPFRWAEYSVSASLMSVMIAQLCGVTDIHLLFTLAALMATTMLF-GHQMEVSNGARLPTFAYSDDSKAPPALAKD-------GSGAGLPAAFLTTNPVADGAADGG-------DGAAPGAQRVDWGPFWMGCWPFLAVELVTGCYFFQAV---------------------------------SNGDPPT---FV---------WSLFFILSFLYIMFAVNQALQFKQ-----------------------VRGW-RG---------FAQAEWW--YMILSLTSKQLLAWITYGGTRRFEDEGI------------------------------------------------------------------",
+    "full_label": "Chlorella variabilis"
+  },
+  {
+    "edge_num": 50,
+    "header": "LDKB01000304.1_gmes_6020 LDKB01000304.1 [Chlorella vulgaris]",
+    "Species": "Chlorella vulgaris",
+    "Genus": "Chlorella",
+    "Clade": "Viridiplantae",
+    "Superclade": "Archaeplastida",
+    "Color": "green",
+    "sequence": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MAP--------LTF--------ARLRKWNLGVGIVQLITGATI---LAI-T-----PY--S-SQTKLPFFSFFIASW--------------SRDDG-------PVS-NFYNPV---PKKVANFPIGVWSGVFLLLSAANHLLVVLP-RVNAVYN-----RYLCLNRNPFRWAEYSVSASLMSVMIAQLCGVTDIHLLFTIAALMASTMLF-GHQMEVSNGARLTTYSYSEDPSTPPSVAKGAIT----AAAAAVPAAFITE----NGGDPLS-------APGGAVNQGMDWAPFWMGCWPFLAAELVTGCYFFQAV---------------------------------SNGSPPG---FV---------WILFFILLVLYLLFAVNQALQFRQ-----------------------VRGW-RG---------FAQAEWW--YIILSLTSKQLLAWITYGGTKRFETN--------------------------------------------------------------------",
+    "full_label": "Chlorella vulgaris"
+  },
+  {
+    "edge_num": 51,
+    "header": "PCFQ01000079.1_gmes_10313 PCFQ01000079.1 [Chlorella sp. A99]",
+    "Species": "Chlorella sp. A99",
+    "Genus": "Chlorella",
+    "Clade": "Viridiplantae",
+    "Superclade": "Archaeplastida",
+    "Color": "green",
+    "sequence": "----------MRVAIAVLGALAIACRALVLGELVPTTA---------ADADWHRPGFCGELECPRYTAWQKHWDFSVREYEPAASAHRRPFPV-----LAGTVADSSYDSAVKQRLFAYFW-------GANAESLRMKETVPLLVT--------------VELSPVDGVGADGDAPPAP-L-----------------------------------RPLRNHTVAMY-----LPW-----------------------EHQDAPPTPTDPGLFVFRSPRGKLFVRTFRRAAREARV--------------------------------VEHADALMD--ALDHAGHHE-YEA---------AVAMVR--------LTF--------ARLRWLNLGVGAFQLLTSAAI---FSI-G-----PY--D-SWAKLPWYSFFVASW--------------SRDDGAAQEFYRRAR-ALHLPA---PKQVADFPISVWSAVFLLLSGLDHVIVVLP-GINKVYNRRAGARLLCQNKNPFRWAEYSISASLMSVMIAQLCGVTDVHLLFTLAALMATTMLF-GWQMEVSNGAALPTFVYAEDAKAAPRPRPASPD------GGALPLA-------AAAGAPAAS------PAPAAPRRPVDWAPFAFGCWPFLAVQAVTACYFFQAV---------------------------------SNGDPPA---FV---------WSIFWILLVLYVLFAVNQALQFKQASGLHRSAGEGGWSGLASHKLGTVRGW-RG---------FALAEFY--YILLSLTAKQLLAWVTYGGVRRFEP---------------------------------------------------------------------",
+    "full_label": "Chlorella sp. A99"
+  },
+  {
+    "edge_num": 52,
+    "header": "PSC68996.1 LHPF02000030 hypothetical protein [Micractinium conductrix]",
+    "Species": "Micractinium conductrix",
+    "Genus": "Micractinium",
+    "Clade": "Viridiplantae",
+    "Superclade": "Archaeplastida",
+    "Color": "green",
+    "sequence": "-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MA--------LTF--------RKLRIWNTGAFLLQLLAGVAI---LIL-S-----DG--N-ERAKLPWYTFFVQSW--------------GNDTPE------EQA-GFYVPL---GKKVASFPVGIWCGAFLLLSAADHLLVILP-GINAIYN-----RYACLNRNPFRWAEYAVSAGLMSVMIAQLCGVTDIHLLFAMFSLMASTQLF-GWQMELSNGTALPCFAYTSDSRAPPALLRGKHDDGFPAPTGEVPSAFIT-----DGTYEGSG-----VAGEAPRSHRVDWTPLVLGCWPFLAVQLITACYFFQAV---------------------------------AKGDPPT---FV---------WSLFFILFVLYALFAVNMWLQFKQ-----------------------VRGW-RG---------FAKAEWW--YILLSLTSKQLLAWITYGGTKRLES---------------------------------------------------------------------",
+    "full_label": "Micractinium conductrix"
+  },
+  {
+    "edge_num": 53,
+    "header": "PQAU01000043.1_gmes_3797 PQAU01000043.1 [Chlorella sorokiniana]",
+    "Species": "Chlorella sorokiniana",
+    "Genus": "Chlorella",
+    "Clade": "Viridiplantae",
+    "Superclade": "Archaeplastida",
+    "Color": "green",
+    "sequence": "-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MP--------LTF--------SRLRWLNAAAGVFQLLTGLAI---LGI-S-----EK--G-GKASLPWYTFFISSW--------------SRDTAE------EAA-GFYSPV---PKQVANFPVGIWSGTFLILSAIDHLLVVMP-RVNGYYN-----RALCRNRNPFRWAEYAVSASLMQVMIAQLCGVTDIHLLFTIAALMASCMLF-GWQMEVLNGDRLPAYQYLDNPKATPELKSL-----------DLPASQFL----ANGGSSFA-------AAPPAGEQRIDYGPFWMGCWPFLAAILVTACFFFQAV---------------------------------SKGDPPG---FV---------WSLFFILTILYLLFALNQWLQFKQAS-------------------RAVRGW-RG---------FARAELW--YIVLSLTSKQLLAWITYGGTKRFE----------------------------------------------------------------------",
+    "full_label": "Chlorella sorokiniana"
+  },
+  {
+    "edge_num": 54,
+    "header": "1KP_MNCB_2013502.p1 1KP_MNCB_2013502 [Eremosphaera viridis M0511b]",
+    "Species": "Eremosphaera viridis M0511b",
+    "Genus": "Eremosphaera",
+    "Clade": "Viridiplantae",
+    "Superclade": "Archaeplastida",
+    "Color": "green",
+    "sequence": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MPQ--------VTF--------RLLRITNFLVGLFQLVTGAVI---CGI-T-----SY--A-DWGKLPMYTDFVASW--------------SHDVG-------QAG-DFYYPH---AKKVVNFPVGLWAGIFLLLSAADHLVVVLP-GVNRIYN-----KMLCRNRNVFRWIEYSVSASLMQVLVCQLCAVTEIHLIFANFILMATTMLF-GWLMEVMNGEKLPIFAIPESDQAAPVEHSEAFV-----------------------------------TSGSAAKMQIDWTPFIFGFVPFLGTILITACYFFQAV---------------------------------VHGSPPG---FVWAXXXXXXXWAIIFIEIALYLLFAVNQLLQFLQ-----------------------VRGW-RG---------FARSELW--YILLSLTSKQLLAWLNFGGTQRFKNGA-------------------------------------------------------------------",
+    "full_label": "Eremosphaera viridis M0511b"
+  },
+  {
+    "edge_num": 55,
+    "header": "1KP_JKHA_2119487.p1 1KP_JKHA_2119487 {5_prime_partial;frame=1} [Cyanoptyche gloeocystis]",
+    "Species": "Cyanoptyche gloeocystis",
+    "Genus": "Cyanoptyche",
+    "Clade": "Glaucophyta",
+    "Superclade": "Archaeplastida",
+    "Color": "darkturquoise",
+    "sequence": "--------------------------------------------------------------------------------------------------------------------------------SIY--------GVPLWLFRRALRSVHARQ-----MSTPS---------------------------------------------------------------------------------------------------VLP-------------------IQA-YADV--------------------------------------------------HD-NIK---------MNDLDS--------GRK--------RRLRIWNFITALVHLITGVAI---AIL-T-----DR--K---ITYPWYVNFPTDVS-------------ERG----------TA-GFLVPA---PKKVANIAVGYFSAAFLLLAFLDHFLVILP-GVNGRYN-----RQLAQNQNQFRWTEYSISASIMHVEIAMLSGISDIHLLFAIFGLTAVTMVF-GGIFESVNSKI-----------------RG-------------------------------------------TGTSKQWSSFWLGFIPHVFNWSIIWCYFFYGV---------------------------------RQADPPG---FV---------WAIIFVLTFLDLTFAINLGLQWLE-----------------------VGPW-RD---------YVKGEWV--FIILSLTAKQLLAWINYGK---------------------------------------------------------------------------",
+    "full_label": "Cyanoptyche gloeocystis"
+  },
+  {
+    "edge_num": 56,
+    "header": "1KP_PQED_2050899.p1 1KP_PQED_2050899 [Gloeochaete wittrockiana]",
+    "Species": "Gloeochaete wittrockiana",
+    "Genus": "Gloeochaete",
+    "Clade": "Glaucophyta",
+    "Superclade": "Archaeplastida",
+    "Color": "darkturquoise",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MGSSGVQLRV-------------------------------------------------------------------------------------------------------------------------------------------------------------------------GGMEFKEGTYV---------IEELSP--------QRA--------RSLRIWNGIAAAFQLITGVAI---AIV-T-----KK--N---ITYPWYVNFPGNF--------------TER----------NG-TFGVPI---PKQVASISVGYLSAAFLLLSFLDHFLVILP-GVNAAYN-----KFIARNVNPFRWLEYSFSASLMHVEIAMLSGITDIHILWSIFGLCWIVMVL-GYIFEVENGNR-----------------RG---------------------------------------------KSKNWFSYWIAFVPHMWNWAIILCYFFTIV---------------------------------RRGSPPA---FV---------WAIIFVLFILDATFAVIFGLQWAE-----------------------VGKF-KD---------YVFGEYG--FIILSFTAKQLLAWINFGGGNR------------------------------------------------------------------------",
+    "full_label": "Gloeochaete wittrockiana"
+  },
+  {
+    "edge_num": 57,
+    "header": "1KP_POOW_2055538.p1 1KP_POOW_2055538 [Glaucocystis cf. nostochinearum]",
+    "Species": "Glaucocystis cf. nostochinearum",
+    "Genus": "Glaucocystis",
+    "Clade": "Glaucophyta",
+    "Superclade": "Archaeplastida",
+    "Color": "darkturquoise",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MATNSGVVNLK--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------NTL---------NEELDP--------KVA--------RNLRLWNIGAAVAQLASGIVI---CIL-T-----DK--S---KTFPWYTSFPQDI--------------DRD----------NV-GFLVPA---PQQVASIAVGYFSGAFLLLSALDHLIVALP-PFNNLYN-----WNIANYQNQFRWTEYSFSASLMHVEIAMISGITDIHLLFCIFGLTMVTMIF-GGIFESDNAEA-----------------RA-------------------------------------------QGGKIRWAGFWAGCVPHMFNWSVILCYFFRNV---------------------------------SASGAPG---FV---------WAIIIVIFVLDLTFAINLLLQWRG-----------------------TWRW-KS---------YAWGEWT--FIILSLTSKQLLAWLNFGGSMR------------------------------------------------------------------------",
+    "full_label": "Glaucocystis cf. nostochinearum"
+  },
+  {
+    "edge_num": 58,
+    "header": "1KP_WLZP_2040682.p2 1KP_WLZP_2040682 [Cyanophora paradoxa]",
+    "Species": "Cyanophora paradoxa",
+    "Genus": "Cyanophora",
+    "Clade": "Glaucophyta",
+    "Superclade": "Archaeplastida",
+    "Color": "darkturquoise",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MASTAAPA---IP--------------------------------------------------------------------------------------------------------------MTNMEN-TADA--------------------------------AEYEQW---------------EKT---------KPVFDL--------GKQ--------RRLRIANALLAVLHLATSMAL---YGA-THL---NK--D--RTAYPIFVTFTNDPKL------------SKA----------SA-AFFVPG---EKRVATAHLGFFSATFLLLAAVDHAAVVLP-GLNGVYN-----RMLGRNTNFFRWVEYAFSASIMRVEIAILSGVADIHTLWCIFGLTAVTMLI-GAVFEGENRAY-----------------FGS----------------------------------------LLESDKIRWTTYWIGFVPHCFAWGVILCHFFRNV---------------------------------NVAGAPG---FV---------WAIIALEIVLDALFAMNLGFQWLN-----------------------MGPW-RD---------YIFGEWV--FLFLSLTAKQLLAWIAYGGASR------------------------------------------------------------------------",
+    "full_label": "Cyanophora paradoxa"
+  },
+  {
+    "edge_num": 59,
+    "header": "1KP_WLZP_2040845.p1 1KP_WLZP_2040845 {5_prime_partial} [Cyanophora paradoxa]",
+    "Species": "Cyanophora paradoxa",
+    "Genus": "Cyanophora",
+    "Clade": "Glaucophyta",
+    "Superclade": "Archaeplastida",
+    "Color": "darkturquoise",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------NEA-VVDV--------------------------------FDKE--------------GA-RLV---------AEELPQ--------ATK--------RSLRIWNSVAAGVQLITSLAA---FGL-TRA--RQL--D---KPWPICSAFTGDTTRDRAK-------LALA----------GI-PFGLPA---VKKVSDVHVGYMSGLFLLLSFINHALCAAP-ISNHHYN-----KMIAGGANYWRWIEYAFSASLMHVEIAILCGIADVHALFMIFGLTQCTMIF-GATFERDNAGR-----------------FG--------------------------------------------TRGVRWLHYWLAFVPHAFNWLVIACHFFRNV---------------------------------RVGSPPG---FV---------WAIIFIEFFLDLSFAVNMWLQWKG-----------------------FGKY-RE---------YAFGELM--YTVLSLTAKQLLAWIAFGGANA------------------------------------------------------------------------",
+    "full_label": "Cyanophora paradoxa"
+  },
+  {
+    "edge_num": 60,
+    "header": "MMETSP0947_DN17076_c21_g1_i1.p1 MMETSP0947_DN17076_c21_g1_i1 {5_prime_partial;frame=2} [Chattonella subsalsa CCMP2191]",
+    "Species": "Chattonella subsalsa CCMP2191",
+    "Genus": "Chattonella",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------K---------------------------------------------------------------------------------------KKKKID-------------------SKM-ESKD--------------------------------LNSEP--------LLQTSEK-DEM---------AERVSQV------DLYS--------PKLRNWNFIAFLVQLLTGITL---LSI-T-----DY--D---KKYYWYTDFTGEID-------------DEG-------------RFGEPG---SNRVAGVAVGMLAGIFLLLSALDHFLVAL--PFRAVYE-----RMLIRNQNHFRWGEYAVSAGLMRVMIGMLSGVTSIHLLFAIFGLTMTTMIF-GALFEAENGPK-----------------RI-------------------------------------------SGEPISMKALWLGFIPHAFSWAIILCYFFEAV---------------------------------ANSNPPD---FV---------WSIVFILFFLDLTFAVLLYAQWSVC---------------------------EE---------YLAGEIG--FIILSLTSKQLLAWINYGGGNR------------------------------------------------------------------------",
+    "full_label": "Chattonella subsalsa CCMP2191"
+  },
+  {
+    "edge_num": 61,
+    "header": "MMETSP0090_DN7558_c0_g1_i1.p1 MMETSP0090_DN7558_c0_g1_i1 [Chaetoceros affinis]",
+    "Species": "Chaetoceros affinis",
+    "Genus": "Chaetoceros",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MSWL------------------------------------------------------------------------------------RRKNKEDLY----KYDDDD-------------------EAV-VGVA--------------------------------IDHDS--------HSMSHSL-PTD---------RPGVTN--------KQF--------KTLFWLNLVAFFFQAGSTAGI---IVL-I-----DE--E---KTYPFYTNYPTIP--------------ANG-------------RPGGPD---SKEAFSLNVGYLSAAFLALSALDHFLVCS--IFKGIYE-----KGLSNHRNVFRWIEYSFSASIMRILVGILSGVTDMHMMLLQFGLTACTMIFGGLVFELENKDL-----------------RL--------------------------------------------SGKVKWYIYWLGFIPHIFSWTIILGYFFYSL---------------------------------SRGDPPA---FV---------YAIIIVIFILDLTFAIILGLQWLG-----------------------KRCF-RP---------YVNGEIA--FIILSFTSKNLLAWINFFGGNR------------------------------------------------------------------------",
+    "full_label": "Chaetoceros affinis"
+  },
+  {
+    "edge_num": 62,
+    "header": "MMETSP0751_DN2391_c0_g1_i1.p1 MMETSP0751_DN2391_c0_g1_i1 [Chaetoceros neogracile CCMP1317]",
+    "Species": "Chaetoceros neogracile CCMP1317",
+    "Genus": "Chaetoceros",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MSWF------------------------------------------------------------------------------------KRKHKNDLY----KYDDDP------------------ELSP-VDIG---------------------------------------------IDENHSL-PTD---------RPGITN--------RQF--------KTLFWLNLSAFIFQAGSAAAS---FVL-I-----DSDPD---KASPFYTNYPV-----------------DG-----------N-PIKGPD---SKVAFSLNVGWLTGVFLGLSALDHLLVCT--IFKGPYE-----KGLSNHYNIFRWIEYALSASLMRIIVGLLSGVTDLHTMVLQFGLTATTMIF-GLVFELENRER-----------------RN--------------------------------------------SQHVKWYLYWIGFIPHIFSWSVILGYFFYSL---------------------------------SKGSPPA---FV---------YSIIFIIFILDLMFAVILGLQWNA-----------------------KRCF-RS---------YVNGEIA--FIILSFTSKNLLAWINFFGGSR------------------------------------------------------------------------",
+    "full_label": "Chaetoceros neogracile CCMP1317"
+  },
+  {
+    "edge_num": 63,
+    "header": "MMETSP0200_DN6465_c0_g1_i1.p1 MMETSP0200_DN6465_c0_g1_i1 [Chaetoceros sp. GSL56]",
+    "Species": "Chaetoceros sp. GSL56",
+    "Genus": "Chaetoceros",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MNLF------------------------------------------------------------------------------------RKKTAVKEP----AHDEYD-----------------------------------------------------------YDREYE-------VEDNHSL-PTD---------RAGITG--------AKQ--------RTLFRLNVAATVFQGASAAAI---FAL-I-----DS--E---KTYPFYTNYPLPS-G------------DDG-----------R-PVFGPD---SKVAFNLNVGWLSGVFLALSAMDHLLVCT--CFKSMYE-----RGLSKNYNVFRWIEYALSASLMRVMVGVLSGINDLHMQFLQFGLTAVTMLF-GMVFELENKKN-----------------RL------------------------------------------SELDKVRWYLYWLGFIPHVFSWTIVLAFFFYAL---------------------------------STGDPPT---FV---------YAIIFIIFILDLSFAIVLGLQWLA-----------------------KGCF-RP---------YANGEIA--FIILSFTSKNLLAWINFIGGNR------------------------------------------------------------------------",
+    "full_label": "Chaetoceros sp. GSL56"
+  },
+  {
+    "edge_num": 64,
+    "header": "MMETSP1429_DN13374_c0_g1_i1.p1 MMETSP1429_DN13374_c0_g1_i1 [Chaetoceros sp. UNC1202]",
+    "Species": "Chaetoceros sp. UNC1202",
+    "Genus": "Chaetoceros",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MSLFWG----------------------------------------------------------------------------------KNKTESKDDI---VVDSHG--------------------RE-YSYG--------------------------------IEDDG--------NNEHHSL-DLD---------RAGITT--------AQF--------KTLFRLNISAFVFQAASAGAI---FAL-I-----DS--D---KTYPFYTNYPLADES------------GEG-----------R-PVFGPE---PKVAFDLSIGWLTASFLALSALDHLLVCT--CFKKMYE-----RGLSQNYNVFRWIEYAFSASIMRILVGILSGVTDLHMQFLQFGLTATTMLF-GLCFELENKKR-----------------RL------------------------------------------SAPKEIRWYLYWLGFIPHTFSWVVVMGYFFYAL---------------------------------STGDPPA---FV---------YAIIFIIFFLDLTFAVILGLQWKA-----------------------SCCF-RR---------YINGEIA--FIILSFTSKNLLAWINFFGGNR------------------------------------------------------------------------",
+    "full_label": "Chaetoceros sp. UNC1202"
+  },
+  {
+    "edge_num": 65,
+    "header": "MMETSP0149_DN10671_c0_g1_i1.p1 MMETSP0149_DN10671_c0_g1_i1 {5_prime_partial;frame=1} [Chaetoceros debilis MM31A-1]",
+    "Species": "Chaetoceros debilis MM31A-1",
+    "Genus": "Chaetoceros",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------FF---LITEERGV-----LLLFNKVQ--------------------------------------------------------------------------------EKRRINHEEIIMGLWDKKD-----------------------------------------------------------MEEDFS-------SDDDYGI-DPE---------DARISQ--------SQY--------RLLFRLNLSAAIVQFASSLAI---FLL-TI----GA--D---NGFDFHTNYPKAV--------------GEG-----------G-RPGGPD---AQVVFNISVGWLSGTFLALSSLDHLLVCT--CFKGVYE-----KGISQNYNVFRWIEYAFSASIMRIIVGVLSGVSDLYMQFLQFGLTACTMLF-GLIFELENRKK-----------------RL------------------------------------------VAPSEIRWYLYWLGFIPHTFSWAVNIAFFFHSL---------------------------------STGDPPG---FM---------YAIIFIIFFLDLTFPIILGLQWKA-----------------------SCCL-RP---------YVNGEIA--FIILSFTSKNLLAWINFFGSNR------------------------------------------------------------------------",
+    "full_label": "Chaetoceros debilis MM31A-1"
+  },
+  {
+    "edge_num": 66,
+    "header": "MMETSP1336_DN11487_c0_g1_i1.p1 MMETSP1336_DN11487_c0_g1_i1 [Chaetoceros cf. neogracile RCC1993]",
+    "Species": "Chaetoceros cf. neogracile RCC1993",
+    "Genus": "Chaetoceros",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MGLFSR----------------------------------------------------------------------------------SGKGAADLD----EYDPYD-----------------------------------------------------------NGSSRE-------VEENHSL-DTD---------RAGATS--------TQF--------RTIFRLNIAAAIFQAASAGAI---FGM-I-----DN--D---VTYPFYTNYPLIVDG------------TDG-----------K-PAFGPD---SKVAFELNIGWLTGVFLGLSALDHLLVCT--CFKGVYE-----RGLSKNFNIFRWVEYALSASLMRVLVGILSGVTDLHMQFLQFGLTAVTMLF-GLAFELENKKN-----------------RL------------------------------------------TEHNKVKWYLYWFGFIPHFFSWAVVIGYFFYAL---------------------------------SKSDPPG---FV---------YAIIFIIFTLDLMFAVILGLQWLG-----------------------KGCF-RP---------YINGEIA--FIILSFTSKNLLAWINFFGAQR------------------------------------------------------------------------",
+    "full_label": "Chaetoceros cf. neogracile RCC1993"
+  },
+  {
+    "edge_num": 67,
+    "header": "MMETSP1443_DN8758_c0_g1_i1.p1 MMETSP1443_DN8758_c0_g1_i1 {5_prime_partial} [Entomoneis sp. CCMP2396]",
+    "Species": "Entomoneis sp. CCMP2396",
+    "Genus": "Entomoneis",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "---------------------------------------------------------------------------------------------------------------------------------------------PTL------------------LSHA------------------------------------------------------------------------------------KWKHKSRTQSLSNKKSKHDL-----------SFILRSCYTM-SGRS--------------------------------IKSEDNRGNITGVVIENFDE-ESK---------RSEVSQ--------EQF--------ALLFKLNLAAAVFQLVTGLAI---LFL-L-----DE--D---KTYAVYSNFPLVDED------------AEG----------NP-FQAGPD---PNKLFSLSTGYLAGVFLLLSALDHFLVCS--IFKGTYE-----KGLRANYNIFRWIEYSISASIMHILVGLLSGISDIQMLLLIFGLTACTMLF-GLVFELDNSGR--------------------------------------------------------------PINEVKWYSFWIGFVPHAFCWTVILWYFFRNV---------------------------------SQGDPPA---FV---------WSINIIIFFLDLTFALVLGLQWRG-----------------------KGKW-KD---------YIRGEFA--FIILSFTSKQLLAWINFQGGNR------------------------------------------------------------------------",
+    "full_label": "Entomoneis sp. CCMP2396"
+  },
+  {
+    "edge_num": 68,
+    "header": "MMETSP1452_DN10960_c0_g1_i1.p1 MMETSP1452_DN10960_c0_g1_i1 {5_prime_partial;frame=1} [Synchroma pusillum CCMP3072]",
+    "Species": "Synchroma pusillum CCMP3072",
+    "Genus": "Synchroma",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------RR---G-------AVC----------GPG----------------------------------------------------------SSPAVD----------------------------------------------------------------------PTMDLSFKD-ETK---------EEDIPA--------EKL--------SRVWRWNVAAAVFQLVTAVAM---YAI-T-----DE--D---STFRIYTNFPDPG--------------GDN----------GP-RFEEPR---ANEVWSFAPGYLSATFLLLSFLDHLIVAT--VGRSTYE-----EGLRRKRNLFRWGEYSVSASLMRINIAILSGLGDIHSLFLIFGMTALTMLF-GALFELANEGR-----------------QL-------------------------------------------GSKLVDYSNLYLGFIPHVMAWSVVWCYFVRGV---------------------------------TEGDPPD---WV---------RSLIIIITILDLTFAIALKAQWSN-----------------------WFGL-KD---------YVDGEIV--FIILSFTSKQALAWIQHGGGNNED----------------------------------------------------------------------",
+    "full_label": "Synchroma pusillum CCMP3072"
+  },
+  {
+    "edge_num": 69,
+    "header": "MMETSP1160_DN1119_c0_g1_i1.p1 MMETSP1160_DN1119_c0_g1_i1 {5_prime_partial} [Pinguiococcus pyrenoidosus CCMP2078]",
+    "Species": "Pinguiococcus pyrenoidosus CCMP2078",
+    "Genus": "Pinguiococcus",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------VAKCRVA-----LSSSPPGRRPEFSM-------------------------------------------------------------------------P-------------AMTPAD------------------EMKE-VSSS-----------------------------QGKVESFS----------------ATG---------RPEISA--------EEL--------VTANRVNWAVSFVQLITGVVI---LVL-T-----DE--D---EEFPWFSIFPGSDED------------QAG----------EA-RFTGPR---PDEIWEFNPGYLSGVFLLLSWLDHFLVAT--VFRSVYE-----DGLRKNRNVFRWIEYSVSASLMHVLIALLSGVQSVNLLVQIFGNVATCMLF-GLAFEVENGAR--------------------------------------------------------------PLKDVNWLSFYLGWIPYMFAWATIFAYFFYAV--------------------------------DNSDDVPD---WV---------WAIIFVIFIINMAFPIATALQWRG-----------------------VGKF-KN---------YVYGEIT--FIIVSMVSKQLLAWINFGGSQG------------------------------------------------------------------------",
+    "full_label": "Pinguiococcus pyrenoidosus CCMP2078"
+  },
+  {
+    "edge_num": 70,
+    "header": "XP_004339175.1 NW_004457442 integral membrane protein [Acanthamoeba castellanii str. Neff]",
+    "Species": "Acanthamoeba castellanii str. Neff",
+    "Genus": "Acanthamoeba",
+    "Clade": "Amoebozoa",
+    "Superclade": "Unikonta",
+    "Color": "blue",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MGRCGRWA-TKV----------------------------------------------------------------------------ANFFTDEEEGAEA-------------------------SEA-VAKV--------------------------------ANSIV-------LMSYGREE-DPE---------RDFFTS-------RTPN--------WKLRVFNVIVGLIQLITGVII---AGI-T-----KK--D---SRFPWYTDFAKSW--------------QAS----------SP-DFYVPD---TREVADMPIGYYSALFLWLSAFNHFLTALP-GGWQLYK-----YWLQRNQNHFRWLEYSVSASIMHVMGAQLSGATEIHLLFAIFVLGATTMIF-GSMHERANWKY-----------------YGY----------------------------------------SSKERPRNWQPLISGFVPHLGGWLIILCYFFQAV---------------------------------SRGDPPG---FV---------WAIIFIIFILDNTFAVMLWLQWFE-----------------------WGIFKKN---------YVLGEIG--FIILSLTSKQLLAWINYGGSQRA-----------------------------------------------------------------------",
+    "full_label": "Acanthamoeba castellanii str. Neff"
+  },
+  {
+    "edge_num": 71,
+    "header": "ACI65804.1 CP001142 predicted protein [Phaeodactylum tricornutum CCAP 1055/1]",
+    "Species": "Phaeodactylum tricornutum CCAP 1055/1",
+    "Genus": "Phaeodactylum",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------M-----MSKNEHNRME-------------------------------------------------------------------------------------------VESTTD-----------------------------------------------------------RHED---------NSDAVET-MQE---------PLSIRNL------NVVP--------ASLKIWNGVAVIVQFAQAAAL---FALSA-----NA--D---NAYYWYTNYPATFED-----------RDEN----------PE-EFGRPG---PTEVADFSITWYSAVFILLSGLDHLACII---FWSTYK-----YQIERHQNHFRWAEYSISASLMRIMIAQLAGVTDIHLIWMLFASTAITMIL-GGIHESVNAKA-----------------RA-------------------------------------------DGLKQNWYPFLAAWIPHLACWLVIFNYFFKAV---------------------------------IEGDPPN---FV---------WAIIFVLFFLDGCFAILFTLQWFK-----------------------IGIF-KD---------YVAGEKG--FIVLSFTAKVLLAWINYGGGSR------------------------------------------------------------------------",
+    "full_label": "Phaeodactylum tricornutum CCAP 1055/1"
+  },
+  {
+    "edge_num": 72,
+    "header": "MMETSP0316_DN4330_c0_g1_i1.p1 MMETSP0316_DN4330_c0_g1_i1 [Amphora coffeaeformis CCMP127]",
+    "Species": "Amphora coffeaeformis CCMP127",
+    "Genus": "Amphora",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MTTDVES----------------------------------------------------------------------------------------------NGSDNN----------------------------------------------------------RVHNT---------NTQEEKE-RQT---------RGEIRNL------NEIP--------TSLFYWNVAASVFQFVQAAVL---FYLSS-----QA--D---TKWFWYVFYPASFED-----------RDEN----------PE-EFGRPG---AEQVATFSVTWYSAAFIVLSGIDHLICAV---FRPTYE-----YYIARHQNPFRWAEYALSASLMRVMIAQLCGITDIHLLFTIFALCALTMLL-GGIHESVNAKA-----------------RA-------------------------------------------DGFQQNWYPFVVSWIAHLASWMPIVNYFFVAV---------------------------------KRGDPPN---FV---------WSIIFILFFLDGTFAALFSLQWCK-----------------------VWKF-KD---------YVFGEKG--FILLSFTAKALLAWINYGGGSR------------------------------------------------------------------------",
+    "full_label": "Amphora coffeaeformis CCMP127"
+  },
+  {
+    "edge_num": 73,
+    "header": "MMETSP0317_DN11971_c0_g1_i1.p1 MMETSP0317_DN11971_c0_g1_i1 [Amphora coffeaeformis CCMP127]",
+    "Species": "Amphora coffeaeformis CCMP127",
+    "Genus": "Amphora",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MPSNSCVERPRGTT-------------------------IGA-----------------------------------------------------------GSSEED--------------------------------------------------------VIVIRTTE--------IKLKEAE-FRM---------MSEIRNL------NKLP--------SSLHLASTLAFVFQLVQGAAL---IIVAM-----NS--R---NKWYWYTSFPNNE--------------DEQ-------------PGHQPE---SIEIASFAIEWLSPAFIFMSALEHLSTLI---FRENYE-----WYLKRSQNPFRWFEYTFSCSLMRVMIAQLAGVTDIHLLFSIFVMASLTIQC-GATCESVNAKA-----------------RA-------------------------------------------DGLEMHWRPFFTAWISQIACWGIIFSYFINGV---------------------------------RTGGMPP---LV---------WVIVILLFFLDSTFAILFSLQWLK-----------------------IPPF-DD---------YATGEIA--FIVLSFTAKTLLAWITVGGVYYDKT---------------------------------------------------------------------",
+    "full_label": "Amphora coffeaeformis CCMP127"
+  },
+  {
+    "edge_num": 74,
+    "header": "MMETSP1361_DN8553_c0_g1_i1.p1 MMETSP1361_DN8553_c0_g1_i1 {5_prime_partial;frame=2} [Staurosira complex sp. CCMP2646]",
+    "Species": "Staurosira complex sp. CCMP2646",
+    "Genus": "Staurosira",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------V-----IEYDDISR---------------------------------------------------------------------------------------------GYSEND---------------------------------------------------------RPIHQDG----------------KDP---------ATGIENL------NEVP--------KALRWWNIVVCLFQFGQAGIL---FYLAT-----MA--D---LFWPIYVSFPSEFG-------------GSD----------QA-DFGVPS---PNKVASYSVVWLSGMFLALSGLDHFLVSCP-GINRKYN-----YYIERYQNPFRWTEYAFSASTMRVMIAQLSGVTDIHSLFMIFILTATTMLL-GSCHESVNAVA-----------------RA-------------------------------------------DGYRQNWFPFVAAWIPHLASWSVIFCYFFVGV---------------------------------TRASAPA---FV---------WAIVFILFILDGTFALLFYMQWGK-----------------------KWIF-RD---------YINGEVG--FILLSFTSKTLLAWINYFGGSER-----------------------------------------------------------------------",
+    "full_label": "Staurosira complex sp. CCMP2646"
+  },
+  {
+    "edge_num": 75,
+    "header": "MMETSP0009_DN21989_c6_g1_i1.p1 MMETSP0009_DN21989_c6_g1_i1 {5_prime_partial;frame=1} [Grammatophora oceanica CCMP 410]",
+    "Species": "Grammatophora oceanica CCMP 410",
+    "Genus": "Grammatophora",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "HHPRAPREESWPPYTAGTGTWPPP---------VPVTASRPPHIPVITTSDY------------------------------LKSSRKAPGPRDNTKRTSKKVAPAA---------------------NVYARSSQKKAPTPP-----PVVTSPQET-----ISPNSTIGNCTTPG--------------TCLYEAIDHVTTGYGDDGSFAFGEDGRPMRISDGFRLPKGVEIP---------------TTHTFETTSSGSTATSSSNELKQ---KPSAVAVAAAAVAAQT-FSPSAMTRGTSSRVHVTAGYYNDDNKTFTFGESGSPIRTVGS------APRTKRST-KRN---------GTQIQHL------NEVP--------RSLFYWNLVVATYQFVQCGAL---VYLAS-----EE--D---MSWNVFVNFPGGVFA-----------KFAD----------EG-NFGYPL---PKQVFAVNLTWYAVVILALSGIHHFCTTLP-PCQPTYY-----YYLKRNQSPFRWIEYAFSASLMRVMLAQLVGVTDLHTLFSIFALASTTMLL-GWCHESINAKC-----------------RA------------------------------------------DGVGELNWSCFRAAAVPHFASWSIIFSYMVTSI---------------------------------FNEDQEAVTIFA---------WGLVFLLFVADCFFAALFYAQWAK-----------------------LSHW-RD---------YVHGEIG--FIILSFMTKSILAWVNWAAWQ-------------------------------------------------------------------------",
+    "full_label": "Grammatophora oceanica CCMP 410"
+  },
+  {
+    "edge_num": 76,
+    "header": "MMETSP0472_DN24102_c0_g1_i1.p1 MMETSP0472_DN24102_c0_g1_i1 [Tiarina fusus LIS]",
+    "Species": "Tiarina fusus LIS",
+    "Genus": "Tiarina",
+    "Clade": "Alveolata",
+    "Superclade": "Alveolata",
+    "Color": "#ff636c",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MS----------------------------------------------------------------------------------------MFDTREQSAPTSRSGAD--------------------------------------------------------------------------KEQGE-ARD---------YMMIENM------NVIP--------LWLAPCHLVAALFQCMQSLFL---FAFSS-----QV--D---LRWNIYSNFPAGDEL------------VLG----------EN-EYAKPE---ANLIGSYSVTWYAGVFILLSGIDHISCLLP-SFRQKYE-----WYIERHQSPFRWVEYSFSAALMRALIAQVAGVTDVHLIYAIYVMSCTTLLF-AIVHERLNAKA-----------------RA-------------------------------------------DGYPQDWLPICFGYIPHLASWSIIFCYFFAGV---------------------------------SRGEPPA---FV---------STIVFSLFLLDFTFPICFFLQWKQ-----------------------IGVF-RD---------YLVGEFG--FIMLSFTAKTFLAWVTLAGANGYTRN--------------------------------------------------------------------",
+    "full_label": "Tiarina fusus LIS"
+  },
+  {
+    "edge_num": 77,
+    "header": "MMETSP0009_DN16982_c0_g1_i1.p1 MMETSP0009_DN16982_c0_g1_i1 {5_prime_partial} [Grammatophora oceanica CCMP 410]",
+    "Species": "Grammatophora oceanica CCMP 410",
+    "Genus": "Grammatophora",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------IVP--------PSLQNWNLVATALYITQALAMGFNFAL-L-----DD--H---VQWHVFTTYPVNGEG-----------INQW---------EYG-DYGPPV---SEEWIRLSLTLFSMLVMISSALSHGMVVVP-GGRMLYS-----WYIQRNQNPRRWFEYTFSFGLVKVVIGLVVGISDIHILSAIFVLNATSMLL-LSAHEKVNAKA-----------------RN-------------------------------------------DGFYLLWFPYICSIIPQLANWCITASYFGASL---------------------------------VRLDSIS--IYI---------WEIFILMFVFDLVLYLVLFYQWAK-----------------------VGDF-DY---------YVFGEVA--LIVQAIMAKSFLAWITFGSGLR------------------------------------------------------------------------",
+    "full_label": "Grammatophora oceanica CCMP 410"
+  },
+  {
+    "edge_num": 78,
+    "header": "EGD77489.1 GL832978 hypothetical protein [Salpingoeca rosetta]",
+    "Species": "Salpingoeca rosetta",
+    "Genus": "Salpingoeca",
+    "Clade": "Choanoflagellata",
+    "Superclade": "Unikonta",
+    "Color": "blueviolet",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MSTTESMS--------------------------------------------------------------------------------------------------------------------------SGQR----------------------------IPAHIHSPRS---------------ISS---------IVVLDI--------ERS--------TSLFKWNMWTALFNLLTSFII---FAL-T-----DQ--G---NYALVFTTYAS----------------ERG----------NP-EEWAPV---VSNKGRSVVGYYSGIFLLLAALDHLLVAT--VLRRSYE-----DYLKLAQNPYRWIEYSLSASVMRVQIAQLSGVLDLHLLIAIFGLTMSTMLF-GLTQEITTHHL-----------------QG-------------------------------------------QPEKKTLVPFWCGFIPHVISWAIVTSYFFQGV---------------------------------STGDPPG---FV---------WAIIFILFFCDLTFAINMFLQLKE-----------------------IGKW-KD---------YLYGEIV--YLVLSLTAKQLLAWINYGGTNALNSS--------------------------------------------------------------------",
+    "full_label": "Salpingoeca rosetta"
+  },
+  {
+    "edge_num": 79,
+    "header": "GGON01005143.1.p1 GGON01005143.1 [Microstomoeca roanoka]",
+    "Species": "Microstomoeca roanoka",
+    "Genus": "Microstomoeca",
+    "Clade": "Choanoflagellata",
+    "Superclade": "Unikonta",
+    "Color": "blueviolet",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MT-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------SHD---------VVELDD--------AAS--------TKLFRWNIGTALFHLLTSCVI---FGI-T-----DR--Q---AVVPIFTTYAS----------------SRD----------DA-GGWQPV---PEKQSNSIIGYYSGVFLLLAAIDHFLVAT--LLREQYE-----GFLRKAQNPFRWIEYSISASVMRLEIAQLSGILDAHLLVAQFGLTMTTMLL-GWIQEVQTWRL-----------------QG-------------------------------------------QPEKKTLLPFWVGFVPHAFSWGIISSYFFQAV---------------------------------STGDPPD---FV---------WAIIFILFFLDLTFAINMFLQQKE-----------------------VGRW-SQ---------YLHGEFV--FLILSLTAKQLLAWINYGGGQALRD---------------------------------------------------------------------",
+    "full_label": "Microstomoeca roanoka"
+  },
+  {
+    "edge_num": 80,
+    "header": "GGOL01037566.1.p1 GGOL01037566.1 {5_prime_partial} [Savillea parva]",
+    "Species": "Savillea parva",
+    "Genus": "Savillea",
+    "Clade": "Choanoflagellata",
+    "Superclade": "Unikonta",
+    "Color": "blueviolet",
+    "sequence": "---P------------CTFKLC------------------------------------------------------------------MPSGR---------ITPTAH-------------PAPIDTT-TSYTTAQTY-PSPAVA----RDPRSTDS-----MSANTAVT----------------------------------------------------------------------------------------------------------------------FGG-DSDG--------------------------------VN-------------------QDQ---------LWSLST--------EDS--------SKLQRWNLRTALLSVVTGVVI---FAI-T-----GT--D---NSAPVYTAYANVS--------------TRG----------IS-DQWSPA---LEKQGDAVVGYYSGAFLLIVAADHLLVAT--IFRGYYE-----RSLQRCRNPFRWIEYSISAGIMHVEIAQLTGVMEIHLLICIFALTSVTMIF-GYFQEVLGALH-----------------HG-------------------------------------------KPKQKTLLPFWLGCIPHLANWAVIFSYFFHGV---------------------------------SYGDPPD---FV---------WSIIFILFIIDGTFAVAQFLQQME-----------------------IGPF-KD---------YLYGEYW--FIILSFTSKQLLAWINYGGTNSLNNDA-------------------------------------------------------------------",
+    "full_label": "Savillea parva"
+  },
+  {
+    "edge_num": 81,
+    "header": "GGOR01011703.1.p2 GGOR01011703.1 {5_prime_partial} [Helgoeca nana]",
+    "Species": "Helgoeca nana",
+    "Genus": "Helgoeca",
+    "Clade": "Choanoflagellata",
+    "Superclade": "Unikonta",
+    "Color": "blueviolet",
+    "sequence": "-----------------------------------------------------------------------------------------------------------------------------------------------------------PT-----MPGSSALDPL--------------------------------------------------------------------------------------------------------------------TGG-DA---------------------------------------------------------P---------LYELAQ--------EDR--------NKLQRWNLRTAILSLVTGVAI---FVI-S-----DR--S---NSAPIFTAYADAN--------------TRG----------IS-DQWAPK---LEKHGDAVVGYYSGTFLLIVAVDHFVVST--VGRRVYE-----RELQRCRNPFRWVEYSVSAGVMHVEIAQLSGVLELHLLIAIFALTAVTMVF-GYFQEVIGALH-----------------HG-------------------------------------------DPKRKSMLPFWLGCVPHVANWAIIFSFFFNGV---------------------------------VNGSPPA---FV---------WAIIFILFGLDATFAVVQYLQQKE-----------------------IGRF-KN---------YIHGEYA--FIILSFTSKQLLAWINYGGTNALNNDA-------------------------------------------------------------------",
+    "full_label": "Helgoeca nana"
+  },
+  {
+    "edge_num": 82,
+    "header": "GGPB01030066.1.p1 GGPB01030066.1 [Diaphanoeca grandis]",
+    "Species": "Diaphanoeca grandis",
+    "Genus": "Diaphanoeca",
+    "Clade": "Choanoflagellata",
+    "Superclade": "Unikonta",
+    "Color": "blueviolet",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MDAVVEIS-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------NKESTPLNSGGFGNLINA--------EQS--------ASLRKWNLATCALHLMTGIVI---FAI-T-----NA--D---LSVPVYTTYADPG--------------SRD-----------P-ATWGPE---LTKVGNAVIGYFSGTFLILVAIDHFVVAT--VFKRTYE-----YYLARGQNPFRWAEYSVSAAVMHVQIALLSGVMDLHLLIAIFVLTSSTMVF-GHFQEVLNCDK-----------------QG-------------------------------------------RPKEKSLFAFWIGFIPHFGNWGIIMSYFFYST---------------------------------SNGDPPG---FV---------WALIFILFFLDATFAVNQWLQQKE-----------------------VSKW-KN---------YLYGEYV--FIVLSFTAKQLLAWVNYGGSNSLNTDPAGFGNST---------------------------------------------------T-P----SP",
+    "full_label": "Diaphanoeca grandis"
+  },
+  {
+    "edge_num": 83,
+    "header": "MMETSP0164_DN13781_c0_g1_i1.p1 MMETSP0164_DN13781_c0_g1_i1 {3_prime_partial} [Coccolithus pelagicus ssp braarudi PLY182g]",
+    "Species": "Coccolithus pelagicus ssp braarudi PLY182g",
+    "Genus": "Coccolithus",
+    "Clade": "Haptophyta",
+    "Superclade": "Haptista",
+    "Color": "goldenrod4",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MS-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------DKE---------TVELTE--------ETS--------ARLRRLNLWAAGLHFVTSGAQ---FAL-T-----DR--D---NTVPSYTYFPND---------------LRG----------RT-NLWGPD---PEKRGDTIVGYYSGAFLLCACIDHLLCAT--LLKDYYE-----HYLKRGQNHIRWIEYSVSASLMHVMIASLSGVFDMHLLFCIFGLTATTMLF-GLLQEMMSWRQ-----------------QG-------------------------------------------SPDEKSLLPFWLGCVPHIFNWSVILCYFFYNA---------------------------------ANGDPPA---FV---------WAIIIVLICLDSTFAINMYFQQKE-----------------------IGAW-SD---------YIKGEVT--FIVLSFTAKQALAWLNYGGAR-------------------------------------------------------------------------",
+    "full_label": "Coccolithus pelagicus ssp braarudi PLY182g"
+  },
+  {
+    "edge_num": 84,
+    "header": "GGOP01019211.1.p1 GGOP01019211.1 [Choanoeca perplexa]",
+    "Species": "Choanoeca perplexa",
+    "Genus": "Choanoeca",
+    "Clade": "Choanoflagellata",
+    "Superclade": "Unikonta",
+    "Color": "blueviolet",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MGFAHA-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------TKE---------TVELSS--------EAS--------SKLFKWNIGAGCFMFITSIII---FVL-S-----AT--N--KQTVDLYTVYPDPD--------------GRG----------NATRVWAPI---PERLYEVNVGYFSAVFLLLSALDHLAVAT--LFRSTYE-----YYLKRAMNPFRWFEYSISASLMHIMIGILSGVIDIHVMLAIGFLCGTTMIF-GFLQELMNSER-----------------QG-------------------------------------------EPATKTLLPFWFGCVPHLANWGLIMSYFFYGV---------------------------------SEGDPPG---FV---------WAIIFILFIVDATFAINQYWQQKE-----------------------KGKF-SS---------YLYGEMA--FIILSLTAKQLLAWINYGGTNSL-----------------------------------------------------------------------",
+    "full_label": "Choanoeca perplexa"
+  },
+  {
+    "edge_num": 85,
+    "header": "MMETSP0039_DN65749_c0_g1_i1.p1 MMETSP0039_DN65749_c0_g1_i1 {5_prime_partial;frame=2} [Eutreptiella gymnastica NIES-381]",
+    "Species": "Eutreptiella gymnastica NIES-381",
+    "Genus": "Eutreptiella",
+    "Clade": "Euglenozoa",
+    "sequence": "-----------------------------------------------------------------------------------------PCPK---------MFPY----------------------------------SPPAT--------PYTE-----MDNAYGL-----------------------------------------------------------------------------------------------------------------------VQP-YAPM---------------------------------------------I-YPIAK-PEI---------MSDITP--------MEL--------YKLWRWNLGLGLLHLATGVAI---MVL-T-----KT--D---KVVPAYSNFPDAA--------------KYG-----------G-TSWMPQ---PKFLYNVAVGYFSGIALLLSAVDHLAVALP-PFRSRYE-----NGLRTNQNHFRWLEYAFSAAFMRIMIAMLSGIMDVHLICAIYGLTFTTMLF-GSEMERSNSKL-----------------WG-------------------------------------------VPKAKSFRPFWFGFVPHMFCWAIILCYFFRNC---------------------------------VKGDPPG---FV---------WAIIFVLFFLDLTFAINQFLQQME-----------------------IRAW-RR---------YYHGELW--FCILSLTAKQALAWLNYGGSAALDI---------------------------------------------------------------------",
+    "full_label": "Eutreptiella gymnastica NIES-381"
+  },
+  {
+    "edge_num": 86,
+    "header": "MMETSP0809_DN11220_c0_g1_i1.p1 MMETSP0809_DN11220_c0_g1_i1 [Eutreptiella gymnastica-like CCMP1594]",
+    "Species": "Eutreptiella gymnastica-like CCMP1594",
+    "Genus": "Eutreptiella",
+    "Clade": "Euglenozoa",
+    "sequence": "----------------------------------------------------------------------------------MIQYQQYPATE---------VYPTY----------------------LYDGTTQLY-PTPAYM--------PTYE-----MPVAYEVPTV-------------------------------------------------------------------------------------------------------------------PVEG-YAPP---------------------------------------------VGYGATE-YVK---------EPEITA--------KQF--------KTLFRFNLLLGIIHLITGATI---LAI-T-----DS--N---TYVWQTTQFPNAT--------------SYG-----------G-SRWLPQ---VETHYNVAPGYFAGVSLILSATDHLLVAL--PCRKIYE-----GGLLNHRNDFRWAEYSLSASFMHICIAMIAGIMDIHMIFMIFGLTFVTMLF-GSEMERTNAHL-----------------WG-------------------------------------------MVPAKSFRPFWYGCVPHIFNWAVILCYFFRNV---------------------------------SKGDAPE---FV---------WAIIFVIFILDSTFAINMFLQQRE-----------------------IGKW-KV---------YYFGELI--FCVLSLVAKQLLAWLYYGGAAAFDD---------------------------------------------------------------------",
+    "full_label": "Eutreptiella gymnastica-like CCMP1594"
+  },
+  {
+    "edge_num": 87,
+    "header": "MMETSP0321_DN5938_c1_g1_i1.p1 MMETSP0321_DN5938_c1_g1_i1 [Leptocylindrus danicus var. danicus B650]",
+    "Species": "Leptocylindrus danicus var. danicus B650",
+    "Genus": "Leptocylindrus",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MSN----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------KEEITP--------EES--------SKLFKWNLGLGLFHLLTGGAI---LLI-T-----DT--D---ATVPVYSFFPDPD--------------SRG----------VA-NDWAPL---AKEQFNFPVGYLAGISILIASLDHLIVAT--VGRKTYE-----SYLAGRRNPFRWIEYSLSASVMHVMVAQLSGVFDIHLLFCIFGFTMTTMIF-GNLMEVLNAER-------------------------------------------------------------DYDEPVWWAPFLYGWIPHMYGWSIILCFFFYAV---------------------------------VKGDPPE---FV---------WAIIFIIFGLDTTFPIVQILQQRG-----------------------KGKW-EN---------YVHGELW--FCILSLTSKQLLAWLNYGGTAALNNEEPE-----------------------------------------------------------------",
+    "full_label": "Leptocylindrus danicus var. danicus B650"
+  },
+  {
+    "edge_num": 88,
+    "header": "MMETSP0713_DN2593_c0_g1_i1.p1 MMETSP0713_DN2593_c0_g1_i1 [Asterionellopsis glacialis]",
+    "Species": "Asterionellopsis glacialis",
+    "Genus": "Asterionellopsis",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MSVTASDRSIEASI---------------------------------------------------------------------------------------EQSAGD------------------EVST-TKSG------------------------------KRFDDETTYGE-GFEMVP-GTQ-VVD---------GEYVSF--------DDS--------VLLFRSNVLLGVVNLFTGGAI---ITF-T-----DH--N---ASIPLFTFYSDQE--------------DRG----------VANAATTVV---PEELEAFPVGWYAGAALIIAGLHHVSIAT--CFRNSYE-----YKISQNRNPYRWFEYSLSIGLMHVMVAQLVGILSLDLLVTIFGLSFITIIL-SNEQEILNLHR-----------------DR-----------------------------------------NDIDDLVQWRPYSYSWIPFWMQWGLIAHHFIEYA---------------------------------VEGDPPG---FV---------WAIVCIVFVFDLVNPMIQFLQQRG-----------------------NGNW-NN---------FVYGELW--FCFVAFIAKQSLAWINYVGTATLEGDPERWSRV------------------------------------------------------P----GG",
+    "full_label": "Asterionellopsis glacialis"
+  },
+  {
+    "edge_num": 89,
+    "header": "MMETSP1394_DN13967_c0_g1_i1.p1 MMETSP1394_DN13967_c0_g1_i1 [Asterionellopsis glacialis CCMP1581]",
+    "Species": "Asterionellopsis glacialis CCMP1581",
+    "Genus": "Asterionellopsis",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MSTTASEE---GSI---------------------------------------------------------------------------------------EASIEE------------------HLTE-QAPK------------------------------KRFDDETTYGE-GFEMVPGGSQ-VVE---------GEYISF--------DDS--------QLLFRTNLFLGFVHLLTGGAI---ITF-T-----DQ--N---ATVPLVIFMPNQD--------------ERG----------VAGATTSAI---PEELEAFPTGWYAAGILIMAGFHHFSVAT--CLRFSYE-----FNLAQNRNPFRWFEYSLTHGLMHIMVAQLAGVISLHLLLAIFGLSFMTTIL-GNEQEILNLHR-----------------DR-----------------------------------------NDIDDLVQWRPFAYSWIPFWLQWGIIGHFFAQYI---------------------------------TEGDPPG---FI---------WAIVIISFVLDLMNPLIQYLQQRG-----------------------NGYW-NN---------FVYGELW--FCFVSLVAKQGLTWINYVGTATLAGEPERWDRV------------------------------------------------------P----GL",
+    "full_label": "Asterionellopsis glacialis CCMP1581"
+  },
+  {
+    "edge_num": 90,
+    "header": "MMETSP1449_DN10140_c0_g1_i1.p1 MMETSP1449_DN10140_c0_g1_i1 [Attheya septentrionalis CCMP2084]",
+    "Species": "Attheya septentrionalis CCMP2084",
+    "Genus": "Attheya",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MSEEESVEPL---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------VEA---------VPPISE--------EDS--------KKLFQWNLSLGVLHLLTGIAI---CII-T-----DT--D---ATAPVYTFFPDPD--------------TRG----------IS-GTWAPI---AKLQYNSVVGYLAAVSILIAAIDHLLVST--LLRKPYE-----YYLARNRNPFRWLEYAFSASFMHVMVAQLSGVFSMHLLFAIFGLTLITMSF-GNDQEELNATI-------------PRDDKG-------------------------------------------PKKPVNYRPFLVGWIPHMFGWSIILCFFFVGV---------------------------------SQGDPPG---FV---------WAIIFILFILDLSFPINQYLQQAG-----------------------IGPW-GK---------YIYGEVA--FCVLSLVSKQLLAWLNFGGTVALNSEA-------------------------------------------------------------------",
+    "full_label": "Attheya septentrionalis CCMP2084"
+  },
+  {
+    "edge_num": 91,
+    "header": "GFLM01051117.1.p1 GFLM01051117.1 [Karenia brevis]",
+    "Species": "Karenia brevis",
+    "Genus": "Karenia",
+    "Clade": "Alveolata",
+    "Superclade": "Alveolata",
+    "Color": "#ff636c",
+    "sequence": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MSGLPLHFAEG----------------------------------------------ADE---------RSIGSS--------IAD--------ARLWRANLGACVLHAVQGLMM---LGA-SQG--IPSVKA---FKKDLTTSYLVF----------------DP----------AT-KALVSQ---TKRIGSIEIGVCAAIFLLLSAIAHGWVL---AFWKVYI-----NDIVKEINRCRWYEYALSSSVMICAIAVCFGCYDIGTLVQMFFVNASMNLF-GLMMERLNPA---------------------------------------------------------------DRISVDWTPFVFGCIAGVAPWITVLSYFLGGG---------------------------------NYSQIPG---FV---------YGIIFSYFVFFNTFPINMALQYAR-----------------------VGKW-AD---------YRFGELS--YITLSLVSKSLLAWLVFGGTFQPNGN--------------------------------------------------------------------",
+    "full_label": "Karenia brevis"
+  },
+  {
+    "edge_num": 92,
+    "header": "GGWG01092055.1.p1 GGWG01092055.1 [Amoebophrya sp. ex Karlodinium veneficum]",
+    "Species": "Amoebophrya sp. ex Karlodinium veneficum",
+    "Genus": "Amoebophrya",
+    "Clade": "Alveolata",
+    "Superclade": "Alveolata",
+    "Color": "#ff636c",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MSLS------------------------------------------------------------------------------------------------------------------------------QNEPALSLSLA----------------------------------------------GRD---------NPIISK--------ITD--------ARLWRWNLGACVLHSLQGLLL---LGA-SQG--VPSVKN---FKKDLTTSYLVF----------------DK----------QT-QALISE---TKNIGAVEIGLAAAIFLLLSAVAHGYVL---LFWKVYI-----KDINMEINRARWYEYALSSSVMICAIAMLFGCYDIGSLILMFFVNASMNLF-GLMMERLNPA---------------------------------------------------------------GRTTVDWTPFIFGCIAGVAPWIVVLSYFLGGG---------------------------------NYGEIPG---FV---------YGILFGYFVFFNTFPVNMVLQYAR-----------------------IGKW-AD---------YRFGELT--YITLSLVSKSLLAWLVFGGTFQPNGN--------------------------------------------------------------------",
+    "full_label": "Amoebophrya sp. ex Karlodinium veneficum"
+  },
+  {
+    "edge_num": 93,
+    "header": "MMETSP1338_DN49565_c0_g1_i1.p1 MMETSP1338_DN49565_c0_g1_i1 {5_prime_partial} [Pelagodinium beii RCC1491]",
+    "Species": "Pelagodinium beii RCC1491",
+    "Genus": "Pelagodinium",
+    "Clade": "Alveolata",
+    "Superclade": "Alveolata",
+    "Color": "#ff636c",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------LALRASS------------------------------------------------------------------------------------LLAQANLAQAQDNDTHLFA---------------QSSPMSLSFEHGATLP----------------------------------------------LHA---------PAEEPK--------ISD--------ARLWRANIGACALHSLQGLLM---LGA-SQG--IPSVKS---FKKDLTTSFLVF----------------DP----------ET-KALVSE---TRNIGSVEIGVAAAAFLLLSALAHGYVL---LAWKAYV-----SDLSHEINRTRWYEYALSSSVMICAIAMLFGCYDIGALILMFTVNASMNLF-GLVMEKLNPP---------------------------------------------------------------GRTKVDWSPFVFGCVAGVAPWIVVLSYFLGGG---------------------------------NYGQIPG---FV---------YGILFGYFVFFNTFPVNMVLQYAR-----------------------VGKW-AD---------YRYGELC--YITLSLVSKSLLAWLVFGGTFQPNGN--------------------------------------------------------------------",
+    "full_label": "Pelagodinium beii RCC1491"
+  },
+  {
+    "edge_num": 94,
+    "header": "PRJNA428208_DN5588_c0_g1_i13.p1 PRJNA428208_DN5588_c0_g1_i13 {5_prime_partial} [Kareniaceae sp. Ross Sea]",
+    "Species": "Kareniaceae sp. Ross Sea",
+    "Genus": "Kareniaceae",
+    "Clade": "Alveolata",
+    "Superclade": "Alveolata",
+    "Color": "#ff636c",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------FGSSNR-------------------------------------------------------------------------------------------WLKIKSTAAHPFG---------------IGSP-VAQMELSLAGP----------------------------------------------REV---------APIASK--------ITD--------ARLWRCNLGACVLHSVQGLLM---LIA-SQA--IPSVKS---FKKDLTASFLVF----------------DE----------PT-KTLISQ---TKNIGAIEIGVAAAVFLLLSAVAHACVL---IFWKFYL-----RDISREINRVRWYEYAVSSSVMICAIAMLLGCYDIGSLILMFFVNACMNLF-GLLMEQLNPP---------------------------------------------------------------ERTKVDWMPFNFGCVAGIAPWIVVMSYFFGSG---------------------------------NFSQIPG---FV---------YGILFGYFLFFNTFPVNMVLQYAR-----------------------VGKW-AD---------YRFGELS--YITLSLVSKSLLAWLVFGGTMQPNGDKQ------------------------------------------------------------------",
+    "full_label": "Kareniaceae sp. Ross Sea"
+  },
+  {
+    "edge_num": 95,
+    "header": "PRJNA428208_DN65660_c0_g1_i14.p1 PRJNA428208_DN65660_c0_g1_i14 {5_prime_partial;frame=1} [Kareniaceae sp. Ross Sea]",
+    "Species": "Kareniaceae sp. Ross Sea",
+    "Genus": "Kareniaceae",
+    "Clade": "Alveolata",
+    "Superclade": "Alveolata",
+    "Color": "#ff636c",
+    "sequence": "----------------------------------------------------------------------------------------------------------------------------------------------------------------SSMPAFSSLISSVHPSMMPAIGRPGPAAVTGILFPQM-QPAIG-------------RPGPAA-------VTGIPFPQMQPAIGRPGPAAVTGILLPQMQAAIGRPGPAAVTG-ILVPH---------VQSS-QERPRRNLA------------------------------------------------------------IEVSES--------VTD--------ARLWRFNVGAWVLHSVQGLLM---LVA-SQK--IPSVKS---FSKELTTSFQVF----------------DE----------QT-KTLVSQ---TKNIGSVEIAVAAALFLLLSAVAHACVL---IFWQSYL-----RGLSREINRVRWYEYALSSSVMICAIATLFGCCDLASLILMFFVNASMNLF-GLLMEQLNPP---------------------------------------------------------------ERTKVDWTPFTFGCVAGVAPWIVIASYFFGSG---------------------------------QFSQIPG---FV---------YGILVSYFIFFNTFPVNMVLQYAR-----------------------VGKW-AD---------YRFGELS--YITLSLFSKSLLAWLVFGGTFQPNGDA-------------------------------------------------------------------",
+    "full_label": "Kareniaceae sp. Ross Sea"
+  },
+  {
+    "edge_num": 96,
+    "header": "MMETSP0087_DN16666_c0_g1_i1.p1 MMETSP0087_DN16666_c0_g1_i1 [Unknown Unknown D1]",
+    "Species": "Unknown Unknown D1",
+    "Genus": "Unknown",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MLRHSG----------------------------------------------------------------------------------------------------------------------------PSTEREPLV------------------------------------------------------------NYYDSA--------ISD--------QVLKKYNIGACVLHATQGLLM---LIA-SQA--VTSIKD---FKKTITRSYLVY----------------NE----------TT-RGLDPG---YSTVGTVEIGVVAAAFLLLSALAHLWVL---VFWGTYI-----NDLKKEVNRARWYEYSLSSSLMIMGIAILFGVYDVGSLILIFFINACMNLF-GLLMEQMNPP---------------------------------------------------------------DRKQVNWTPFLFGCVAGVAPWIVVFIYFFGG----------------------------------NIAKVPK---FV---------NGILASYFIFFNTFPVNMFLQYAK-----------------------KGKW-VD---------YRHGEKV--YIVLSLFSKSMLAWLVFGGTFQPN----------------------------------------------------------------------",
+    "full_label": "Unknown Unknown D1"
+  },
+  {
+    "edge_num": 97,
+    "header": "MMETSP0267_DN56448_c0_g1_i1.p2 MMETSP0267_DN56448_c0_g1_i1 {5_prime_partial;frame=1} [Prorocentrum minimum CCMP2233]",
+    "Species": "Prorocentrum minimum CCMP2233",
+    "Genus": "Prorocentrum",
+    "Clade": "Alveolata",
+    "Superclade": "Alveolata",
+    "Color": "#ff636c",
+    "sequence": "-------------------------------------------------------------------------------------------------------------------LKPF-W------------------LKPLWL---------------KGLFCTRWYQRADH------------------------------------------R---------------------------------------------------------------------------AMDCRAPLA------------------------------------------------------------SLSTSP--------ITD--------ASLKKWNVGAGCLHFVQGFLM---LVA-SQS--VAQIKD---FKKDITTSFLVF----------------NE----------VT-KSLEPR---TRSVGSFEIGLASAIFLLLSAAAHLCIV---WKFSWYI-----ENINRGVNLARWYEYALSSSVMICAIATLFGCYDLSSLICIFLVNASMNFF-GLHMETLNPP---------------------------------------------------------------ERTKTDWSPFVHGCVAGLAPWIVVAQYFLGGG---------------------------------NFSQIPG---FV---------YGILFGYFFFFNTFPVNMALQYAR-----------------------IGAW-RD---------YRHGEKV--YILLSLLSKSLLAWLVFGGCFQPNGDS-------------------------------------------------------------------",
+    "full_label": "Prorocentrum minimum CCMP2233"
+  },
+  {
+    "edge_num": 98,
+    "header": "MMETSP0033_DN2074_c0_g1_i1.p3 MMETSP0033_DN2074_c0_g1_i1 [Dolichomastix tenuilepis CCMP3274]",
+    "Species": "Dolichomastix tenuilepis CCMP3274",
+    "Genus": "Dolichomastix",
+    "Clade": "Viridiplantae",
+    "Superclade": "Archaeplastida",
+    "Color": "green",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MSLFS-----------------------------------------------------------------------------------------------------------------------------SDARYTAMVNA----------------------------------------------------------GPAWEQ--------EWH--------RVLRAYNQRAGVLHALQGILL---LVA-SQV--VSSIRD---FRKDITTSYLVF----------------DA----------AA-QALVPR---TETVGTVQIGLAAAVFLLMSAAAHAIVL---WKWELYV-----ADLRKGINRMRWYEYAVSSSLMICSIAVLFGCYDLGSLLLMFILNASMNFF-GLLMERLNPLD-----------------ASL------------------------------------GPPGASRRAAVQWEPFVFGCVAGAGSWIVILLYFFGGG---------------------------------NFADIPA---FV---------YGILVSYFVFFNSFALNMYLQKAR-----------------------VGAW-AD---------YLFGESV--YIWLSLSSKSLLAWLVFGGCFQPN----------------------------------------------------------------------",
+    "full_label": "Dolichomastix tenuilepis CCMP3274"
+  },
+  {
+    "edge_num": 99,
+    "header": "MMETSP0887_DN15970_c0_g1_i1.p1 MMETSP0887_DN15970_c0_g1_i1 [Pelagomonas calceolata CCMP1756]",
+    "Species": "Pelagomonas calceolata CCMP1756",
+    "Genus": "Pelagomonas",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MTTSP--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MKA---------DETESD--------ITF--------DVLKKWNLRAGIVHLVQAVLM---LLA-SQL--VPRIRD---FRLELTTAFQDY----------------DD----------VQ-RKLVTN---VKDVGSVPIGPLVSVFLFMSAVAHLLVVSP-LYFETYC-----DDIRRGINRARWYEYALSSGLMIVLIAMLFGCRDLASLLLILAVNACMNLF-GLLMEVLNQ----------------------------------------------------------------YTTSTDWTPFWFGCVAGVWPWIVALMYFLGGG---------------------------------NYDKIPD---FV---------YGVFVSYALFFNTFPINMVLQYRK-----------------------VGRW-AD---------YRYGELW--YVFLSLGSKSLLAWVVFGGTQQPN----------------------------------------------------------------------",
+    "full_label": "Pelagomonas calceolata CCMP1756"
+  },
+  {
+    "edge_num": 100,
+    "header": "PRJNA379597-S1_NODE_2975_gmes_810 PRJNA379597-S1_NODE_2975 [Labyrinthulea SAG S1]",
+    "Species": "Labyrinthulea SAG S1",
+    "Genus": "Labyrinthulea",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MLGEH--------------------------YE-------------------------------------------------------------------------------------------------SNGKGTAFVN-----------------------------------------------------------GGDKSD--------ISF--------PTLKKWNIRAGVLHLVQASLM---LAA-ALT--VERIRD---FRLPLTTAFLVAVQ-------------KNEGG-------NNV-TVLEVE---TKEVGSVPIGSVVSAFLFLSAFAHFFIVSP-RYFPVYC-----EEIRRGINRARWYEYAASSSLMIALIAMLFGARDVAVLLLIMATNASMNFF-GLLMEAINQ----------------------------------------------------------------YTSEVSWSPFFLGCFAGLVPWVVVLMFFLGSG---------------------------------DYGKIPG---FV---------YGILAAYAFFFNTFPINMALQYMS-----------------------VGRW-AD---------YRYGELW--YIFLSLISKSLLAWLVFGGTQQPN----------------------------------------------------------------------",
+    "full_label": "Labyrinthulea SAG S1"
+  },
+  {
+    "edge_num": 101,
+    "header": "MMETSP1346_DN2802_c0_g1_i1.p1 MMETSP1346_DN2802_c0_g1_i1 [Aplanochytrium stocchinoi]",
+    "Species": "Aplanochytrium stocchinoi",
+    "Genus": "Aplanochytrium",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------M------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------VDD---------TMEESK--------YSA--------AYLKKWNGIAGGLHLLQFILM---LSF-ALV--APGVKD---FSIPLVFRFQNF----------------NQ----------TS-EVLFQD---ERKLVDFRIGLLVPFFLLLSAIAHFTVISP-MFFDKYI-----SDLDKGVNRFRWYEYAASSSLMIWAIAMFFGIQDIVTLLLIIGINASMNLF-GYMMEIVNQ----------------------------------------------------------------YTDEVQWEAFWFGCWAGIWPWIGIFMYFLGSG---------------------------------DFIEIPG---FV---------YGILFSYLFFFNTFPINMILQYKK-----------------------VGRW-KD---------YKFGEMV--YIVLSLLSKSLLAWLVFGGTFQPETT--------------------------------------------------------------------",
+    "full_label": "Aplanochytrium stocchinoi"
+  },
+  {
+    "edge_num": 102,
+    "header": "JAHBMJ010001078.1_gmes_22467_g JAHBMJ010001078.1 [Chromera velia CCMP2878]",
+    "Species": "Chromera velia CCMP2878",
+    "Genus": "Chromera",
+    "Clade": "Alveolata",
+    "Superclade": "Alveolata",
+    "Color": "#ff636c",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MSAGNSVR-------------------------------------------------------------DVP-----------------------------RSAFHD------------------EVDP-ENQG---------------------------------------------GGAGQGQ-GQA---------DAEAIS--------KAD--------KTLIYWNLGCCILHFVQAVIA---VIA-SQT--VARVRD---FKLPLTTLLLTVV--------------ESG---------PDE-GSLRIK---LVTQAELPFAVVTSLFAWLSALAHLSVL---IFREKYL-----SDLKEGINQFRWYEYALSSSLMICLIVLLFGIGEISALVAIFGVNLSMNLF-GMMMEKHNQAL-----------------RK------------------------------------------AGVMQADFTSFWYGCVAGVFPWAVLIGYIGAAP---------------------------------SSDQIPG---FV---------WGIFAAYLIFFNTFPINMYLQYKG-----------------------IWLF-NDSQWSIPRGGYFFGEKL--YQIQSLVSKSLLLWLVFGGVAQPNTLSP------------------------------------------------------------------",
+    "full_label": "Chromera velia CCMP2878"
+  },
+  {
+    "edge_num": 103,
+    "header": "MMETSP0359_DN37778_c0_g1_i4.p1 MMETSP0359_DN37778_c0_g1_i4 {5_prime_partial;frame=1} [Scrippsiella hangoei]",
+    "Species": "Scrippsiella hangoei",
+    "Genus": "Scrippsiella",
+    "Clade": "Alveolata",
+    "Superclade": "Alveolata",
+    "Color": "#ff636c",
+    "sequence": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ACACSA-TLSAPT-------------------VMV-VGQT---------------------------------------------THVTMEL-TEE---------QSKKRD--------MAE--------GVLWRWNLAMGIMHLVWAIIC---LGV-GLG--KAGAVE---FSIPELTSYPDL----------------SG----------GG-RGPMHA---QQLEGLIRCVALTSGFAWTSATAHFCVL---AFFKQYV-----RDLRAGLNQFRWFEYAGSSSLMIVHISIVFGIWDSHLLFMIGACNACMNLF-GYAFEVQNR----------------------------------------------------------------PGSKIDWSKFIFGCFVGACPWAGVLSYVFST----------------------------------NGDGVPG---FV---------WGILAAYLIMFNTFLVNLWLQYTQ-----------------------IGAWYRDEAGGFPGAGYYFGENV--YQVLSLVAKTLLFWPVVVATGQTSTYI-------------------------------------------------------------------",
+    "full_label": "Scrippsiella hangoei"
+  },
+  {
+    "edge_num": 104,
+    "header": "MMETSP0369_DN41427_c0_g1_i1.p1 MMETSP0369_DN41427_c0_g1_i1 {5_prime_partial;frame=1} [Scrippsiella hangoei-like SHHI-4]",
+    "Species": "Scrippsiella hangoei-like SHHI-4",
+    "Genus": "Scrippsiella",
+    "Clade": "Alveolata",
+    "Superclade": "Alveolata",
+    "Color": "#ff636c",
+    "sequence": "---------------------------------------------------------------------------------------------------------------------------------------------------------SSPQ-----MSTQAKV---------------------------------------------------------------------------------------ACAGSD-TPSAWT-------------------AMA-VGQT---------------------------------------------TQVTMEL-TEE---------QAKKRD--------MAE--------KRLWRWNLAMGIMHLVWAVIC---LIV-GLG--KSRAGE---FRIPELTSYPDW----------------SG----------GGRRGPVAA---QQLRGLIPFVALTSGFAWMSATAHFCVL---VFFKQYV-----KDLRQGLNQIRWLEYAGSSSLMIVLISMLFGIWDSHLLFQIGACNACMNLF-GYAFEVQNR----------------------------------------------------------------PGNKIDWSNFIFGCFAGACPWASILSYVFST----------------------------------NGDGVPG---FV---------WGILAAYLIMFNTFPINMWLQYAQ-----------------------IGAWYRDEAGGFPGAGYYFGEKV--YQVLSLVAKTLLLWLVVGGCGQPSAYT-------------------------------------------------------------------",
+    "full_label": "Scrippsiella hangoei-like SHHI-4"
+  },
+  {
+    "edge_num": 105,
+    "header": "PRJNA379597-R2_NODE_267_gmes_8506 PRJNA379597-R2_NODE_267 [Cercozoa SAG R2]",
+    "Species": "Cercozoa SAG R2",
+    "Genus": "Cercozoa",
+    "Clade": "Rhizaria",
+    "Superclade": "Rhizaria",
+    "Color": "#8b7d6b",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MTSTPVVT----------------------------------------------------------------------------------------------------------------------IVP-SNGAISP--------------------------------------------------AVA---------PDPQTN--------ISY--------ARLRKLNRIATVLHGLQFLFM---FSA-SIA--VERFKE---FKLRLTYSFFAYD--------------------------PIS-KILQNS---TATWTTIPIGPFIAMFFFLSALFQGLTTVG-NLNATYN-----RDLLRAQNRFRWYEYALSSSLMICIIAMFTGISDIATLILMFTCNGCMCLF-GLLMEAENS----------------------------------------------------------------NQPSITWRPFWFGCISGFPPWIAIFISLG------------------------------------AGSEPPA---FV---------YGIFIGYFIMFQLFPLNMILQYKR-----------------------IGKW-KD---------YMYGELT--YIILSLVAKSFLGWLVFGGLNQPNEFSQ------------------------------------------------------------------",
+    "full_label": "Cercozoa SAG R2"
+  },
+  {
+    "edge_num": 106,
+    "header": "MMETSP0190_DN37844_c0_g1_i1.p1 MMETSP0190_DN37844_c0_g1_i1 [Rosalina sp.]",
+    "Species": "Rosalina sp.",
+    "Genus": "Rosalina",
+    "Clade": "Rhizaria",
+    "Superclade": "Rhizaria",
+    "Color": "#8b7d6b",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MYTGE------------------------------------------------------------------------------------------------AASSGN--------------------------------------------------------------------------------QFQ---------VEPYPE--------EKR--------ASLRKWNIAAGILHFIQSMIQ---LVL-AFS--VDSFKD---FKLPIYSYFLGYF--------------DND----------GN-AFLATT---SKKLGDVTFGPLVFIFFFLSAFFHFLVVIP-YFNEMYW-----DQINRGKNYFRWIEYSISSTVMIWLISMLFGVVDITLLISIAFANATMNIL-GLMQEKYNNIR-------------------------------------------------------------DPNSNVDWLPFILGCFIGIVPWIVVYTYLGSSAS-------------------------------DTQSEIPG---FV---------YGILVGYFLFFNTFPINMILQYKR-----------------------VGPW-KD---------YIFGELG--YIILSLASKTLLGWLVFGGLNQPNEYTSN-----------------------------------------------------------------",
+    "full_label": "Rosalina sp."
+  },
+  {
+    "edge_num": 107,
+    "header": "MMETSP1384_DN30697_c0_g1_i1.p1 MMETSP1384_DN30697_c0_g1_i1 [Ammonia sp.]",
+    "Species": "Ammonia sp.",
+    "Genus": "Ammonia",
+    "Clade": "Rhizaria",
+    "Superclade": "Rhizaria",
+    "Color": "#8b7d6b",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MEV--------------------------------------------------------------------------------------------------DAPNPD--------------------------------------------------------------------------------QHK---------VEPYPE--------ERR--------QTLLKWNIGAACLHFVQSFVQ---LIL-ALT--VDNFKN---FKLPLRNYHWTMI--------------ETAP--------DGS-GYLQTV---SNSLGNVAIGPLICIFFFLSAFFHCLVCLP-KFHQMYW-----SQINAGRNYFRWIEYSISSTVMIWIIAMLFGVNDITLLISISFANATMNFL-GLFQERYNNVR-------------------------------------------------------------DTQWTVDWLPFQLGCFIGACEWVVVFAYVLGSQL-------------------------------EDGSELPG---FV---------WGILIGYVLFFNTFPVNMYLQYKR-----------------------VSYW-QD---------YIFGEWC--YIVLSLASKTLLGWLVFGGLNQPNEFTDS-----------------------------------------------------------------",
+    "full_label": "Ammonia sp."
+  },
+  {
+    "edge_num": 108,
+    "header": "MMETSP0191_DN49409_c10_g1_i1.p1 MMETSP0191_DN49409_c10_g1_i1 {5_prime_partial} [Sorites sp.]",
+    "Species": "Sorites sp.",
+    "Genus": "Sorites",
+    "Clade": "Rhizaria",
+    "Superclade": "Rhizaria",
+    "Color": "#8b7d6b",
+    "sequence": "-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------YRWNLVAGIFHFIQSIIQ---LIL-AIV--LENLNG---FRLPIYSYYWVSQD-------------ING----------EV-VNLIVK---QDRLGFSRIAYLIWPFFMLSAIAHFIVISP-CAWKIYR-----EQINNGRNYFRWFEYSISSTLMIVIIIMLFGGLDISLIITVGAANATMNLL-GLLQEKYNKIR-------------------------------------------------------------DSKWEVDWWPFNIGCLIGFAPWIVIIIKIIGSQ---------------------------------GNSDLPS---FV---------WGVMSGYLVFFNTFPINMFLQYKR-----------------------VGYW-KD---------YIFGEWC--YIILSLASKTLLGWLVFGGLNQPNNY--------------------------------------------------------------------",
+    "full_label": "Sorites sp."
+  },
+  {
+    "edge_num": 109,
+    "header": "MMETSP1385_DN912_c0_g1_i1.p1 MMETSP1385_DN912_c0_g1_i1 {5_prime_partial;frame=1} [Elphidium margaritaceum]",
+    "Species": "Elphidium margaritaceum",
+    "Genus": "Elphidium",
+    "Clade": "Rhizaria",
+    "Superclade": "Rhizaria",
+    "Color": "#8b7d6b",
+    "sequence": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------YPE--------EKR--------KSLRRWNIGAGVLHLIQCIVQ---LVL-AFS--VDSFRE---FQLPVKTYFYGTD--------------ENG-------------SSLTTT---SKSLGNVHLGPLIFLFFFLSAFFHFLTVMP-YFNDIYW-----YQINRGRNYFRWIEYSVSSSVIVWFIAMLFGVNDVSLLISIAFANATMNIC-GLLQEKYNNIR-------------------------------------------------------------DPNWNVDWLPFALGCFIGIVPWIVVFTYLGASAG-------------------------------STQDQIPG---FV---------YGVLVGYFIFFNTFPINMVLQYKR-----------------------VGPW-KD---------YLFGEIG--YIVLSLASKTLLGWLVFGGLNQPNQYTSN-----------------------------------------------------------------",
+    "full_label": "Elphidium margaritaceum"
+  },
+  {
+    "edge_num": 110,
+    "header": "MMETSP1384_DN26312_c0_g1_i1.p1 MMETSP1384_DN26312_c0_g1_i1 [Ammonia sp.]",
+    "Species": "Ammonia sp.",
+    "Genus": "Ammonia",
+    "Clade": "Rhizaria",
+    "Superclade": "Rhizaria",
+    "Color": "#8b7d6b",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MYTG-------------------------------------------------------------------------------------------------MDNTED--------------------------------------------------------------------------------RFQ---------VEMYSE--------AQR--------TKLRRWNLGAGILHLCQSITQ---LVL-AFS--VDNFKE---FKLPLVTYFLGLK--------------RTE---------SGA-EFLGTS---NKLLGNLQLGPLVFIFFLLSAFFHFLVLVP-YFNEMYW-----EQINRGKNYFRWIEYSISSSVMIWLISMLFGVVDITLLISIAFANATMNIL-GLMQEKYNNVR-------------------------------------------------------------DANWTVDWLPFWLGCFIGIVPWIVVYSYLGSAAS-------------------------------DTQDQIPG---FV---------YGILVGYFIFFNTFPINMVLQYKR-----------------------VGPW-RD---------YIFGEMG--YIVLSLASKTLLGWLVFGGLNQPNEYTSS-----------------------------------------------------------------",
+    "full_label": "Ammonia sp."
+  },
+  {
+    "edge_num": 111,
+    "header": "MMETSP0405_DN6487_c0_g1_i1.p1 MMETSP0405_DN6487_c0_g1_i1 {5_prime_partial;frame=2} [Trichosphaerium sp. Am-I-7 wt]",
+    "Species": "Trichosphaerium sp. Am-I-7 wt",
+    "Genus": "Trichosphaerium",
+    "Clade": "Amoebozoa",
+    "Superclade": "Unikonta",
+    "Color": "blue",
+    "sequence": "------------------------------------------------------------------------------------------------------------------KLHSF-------------------------------------------MSSPDINN----------------------------------------------------------------------------------------------------------------------ASP--------------------------------------------------RETTILM-DSK---------KKEVSD--------KTF--------RTLFYWNLAMAIFHFIQAVAI---FVL-AGV--NSTFRD---FKLPIRRLELVVRQPGG---------VGNE----------TG-EFIDSQ---LTDVGNIRVAPLTGIFSLLSAIFHVLVILP-YFNKLYK-----NGIRGGYNYFRWIEYSLSSSVMIFLIALFFGIYDIGTLVLIVAANATCMLC-GLLMEQLNR----------------------------------------------------------------YTKHVNWTPFLVGCFIEIFPFVAIFISFFSS----------------------------------GGRQAPS---FV---------VVILFVEIIFFSLFAFNMVLQYAK-----------------------FWKW-RD---------YVFGEIA--YQVLSLVAKTLLAWIVFGGLNQPNEFAQA---------------------------------------------------------S-------",
+    "full_label": "Trichosphaerium sp. Am-I-7 wt"
+  },
+  {
+    "edge_num": 112,
+    "header": "GGOX01000412.1.p2 GGOX01000412.1 [Salpingoeca kvevrii]",
+    "Species": "Salpingoeca kvevrii",
+    "Genus": "Salpingoeca",
+    "Clade": "Choanoflagellata",
+    "Superclade": "Unikonta",
+    "Color": "blueviolet",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MFSSGGLN-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LDRSAEP---------LYDISE--------EQF--------ANLRKWNLGLTVLHTVQAIAI---VIL-S--------SD---FKIPITSAP------------------PDG----------PP-GDPVPP---PEKIFNAHIGAAIAVFLLLAAADHFITAT--FAKNLYE-----QDLRRGINRFRWIEYSMSATLMVLLIASYSGITEITSWLGIIGSNVSMILF-GWLQETFNPP---------------------------------------------------------------NRAHTTMLPFYFGSFAALFPWIAIWLNII------------------------------------RADTVPG---FV---------YGIIFSELLLFSSFALNQFLQYRR-----------------------IGKW-KS---------YVFGEKT--YLVLSLVAKSILAWQIYGGSLADDDEE-------------------------------------------------------------------",
+    "full_label": "Salpingoeca kvevrii"
+  },
+  {
+    "edge_num": 113,
+    "header": "XP_013759543.1 NW_013657665 integral membrane protein [Thecamonas trahens ATCC 50062]",
+    "Species": "Thecamonas trahens ATCC 50062",
+    "Genus": "Thecamonas",
+    "sequence": "----------------------------------------------------------------------------------MAPTRTAP------------------------------------------------------------------------MSTTSSYSSSQHGT---------------------------------------------------------------------------------------TTHSSS-------------------ESG-SAGGNRP-----------------------------------------WLNVLARQ-QPL---------ATGIDA--------ARL--------DNVWAWNVGLTILHAVQGVAI---MAL-G--------TG---FRIPITAAF------------------PDG----------PP-GSALPA---PGKQFNVDVGVMVGVFLLLAALDHGLTAS--VFRGRYE-----KDLALGINRFRWIEYAISATIMISLISLYTGMTQFVTQLGVIGCNVSMIMF-GHLQEKMNPP---------------------------------------------------------------SRTETTYTPFIFGCFAGIIPWIGLWFQII------------------------------------GSSTVPG---FV---------YGIIISEFILFFSFGVNQLLQYLG-----------------------VGWW-AS---------YGFGEKV--YLVLSLVAKSVLAWQIYGGSLSDDE---------------------------------------------------------------------",
+    "full_label": "Thecamonas trahens ATCC 50062"
+  },
+  {
+    "edge_num": 114,
+    "header": "MMETSP0119_DN59978_c0_g1_i1.p1 MMETSP0119_DN59978_c0_g1_i1 [Glenodinium foliaceum CCAP 1116/3]",
+    "Species": "Glenodinium foliaceum CCAP 1116/3",
+    "Genus": "Glenodinium",
+    "Clade": "Alveolata",
+    "Superclade": "Alveolata",
+    "Color": "#ff636c",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MSAAGE-----------------------------------------------------------------------------------------------RASSAA-------------------ASA-EEGG---------------------------------------------VPAAMER-TPE---------AVGVNE--------ASL--------AGLRRWNIGLAVLHGIQAILV---LAV-S--------ND---FAITVTSSW------------------PQG----------RP-GTPQPA---PKAMFDVRIGVAIAVFLALACIDHLLTGT--LLRERYE-----ADLRKGLNRFRWLEYSVSATLMVILIGFYNGITGIGEVIAVAGANVSMILF-GWLQELMNPP---------------------------------------------------------------GRASTTMMPFWFGCVGGSAPWIAIWVNVIGAS---------------------------------VDGEVPG---FV---------YGIVVSLFIFFMSFAVNQWLQYRQ-----------------------IGAW-AD---------YAYGEKS--YLVLSLVAKTLLAWQIFGGSLA-----------------------------------------------------------------------G",
+    "full_label": "Glenodinium foliaceum CCAP 1116/3"
+  },
+  {
+    "edge_num": 115,
+    "header": "KQ758850.1_gmes_9903 KQ758850.1 [Aurantiochytrium sp. T66]",
+    "Species": "Aurantiochytrium sp. T66",
+    "Genus": "Aurantiochytrium",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------M--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------IES--------LSSARFNILCACIHVVSSIVM---AVA-A----SNK--D---------------------------LIGTTGTVNL---TVNGS----------ASTWWSFSLFSPLALFTAVTAVFHLIYARA----------GSSTSLPGLHAGLRFLEYSITASVLILVLAILCGMKDALTLLCLFGLMATTMHW-GYLEDDLTVA---------------------------------------------------------------VKDQLLVRPFFLGCIPYAFAWSAIAWQFSNAA-----------------------------------SSAPT---FV---------YVIFVGEFLLFSCFAVVQYVFVVR-------------------------ED-SR----VTEEAVTKMDGW--YNLLSIASKMLLVWL-------------------------------------------------------------------------------",
+    "full_label": "Aurantiochytrium sp. T66"
+  },
+  {
+    "edge_num": 116,
+    "header": "KQ758866.1_gmes_7263 KQ758866.1 [Aurantiochytrium sp. T66]",
+    "Species": "Aurantiochytrium sp. T66",
+    "Genus": "Aurantiochytrium",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------M--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------MEY--------LSSQRFNYFCASVHFVTSIFM---AVA-A----TSK--D---------------------------FIGTTGTVHL---TVNGS----------SSTWWSFSLFSPLALFTAITGVFHLVYAR-------------SSSFSVFNAGLRFVEYSITASVLILVLAILCEIKDALTLLCLFGLMATTMHW-GYIEEDVPPL---------------------------------------------------------------VKEQLLVRPFFLGCIPYAFAWAAIAWQFSNAS-----------------------------------ARAPD---FV---------HVIFVGEFLLFSCFAVVQYVFVVR-----------------------AGSD-NR----LSADGANRMDGW--YNLLSILSKMLLVWVCFGGVASYDGRYS-----------------------------------------------------------------P",
+    "full_label": "Aurantiochytrium sp. T66"
+  },
+  {
+    "edge_num": 117,
+    "header": "PRJNA604511_DN252_c0_g2_i1.p1 PRJNA604511_DN252_c0_g2_i1 [Thraustochytrium sp. X2]",
+    "Species": "Thraustochytrium sp. X2",
+    "Genus": "Thraustochytrium",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MSI------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ISY--------CSTWQFNIVCALLHLASTIAM---VVL-S----VDP--N-------------------------------KGRVVL---TLGD----------IDTTWWTPSVFSGLALFSGITAAFHCFYAY--------------LIRIGNIGSMRFLEYSITASIMAVIIAILCRIDDIFTLTGIAGLMMTTMVF-GYLEDILPFTG--------------------------------------------------------------DKSRLMIKPFWLGCIPYLFAWVIISWSFFAEI----------------------------------NHDVPH---FV---------IAIFFIEFFMFSCFALVQYIYVVR-------------------------EE-RM----LTDEEVLTMDGW--YNLLSLTSKLLLVWICFGGIESN--F--------------------------------------------------------------------",
+    "full_label": "Thraustochytrium sp. X2"
+  },
+  {
+    "edge_num": 118,
+    "header": "LNGJ01001465.1_gmes_5281 LNGJ01001465.1 [Aurantiochytrium sp. T66]",
+    "Species": "Aurantiochytrium sp. T66",
+    "Genus": "Aurantiochytrium",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------EPAGIDYFLILFSTYWSQVLLCITHFASGAFI---VYR-G--------NDERAADVTLYRPVFDFEASALN-------------------------TTLASETYFFEPCFDLNLLVVDGIVLIFTGIAHAVYAN-----GIFE-----EDVDRLSYRLRWLEYSISAPIMMAIIAVLSGIRDLHQVILIIGLLASVMSF-GWIADKARE----------------------------------------------------------------QQDSFTIPPTLIGFIPYSVAWAVTITSFYHTID-------------------------------NSGTTPPD---FV---------YSVIFVMFALYSSFAVVQIYFVLV-----------------------RADS-ND------SVARLAYDGA--MHILSVSSKLTLAFMIYFGVKANATGAN------------------------------------------------------------------",
+    "full_label": "Aurantiochytrium sp. T66"
+  },
+  {
+    "edge_num": 119,
+    "header": "PRJNA381136_DN789_c0_g1_i1.p1 PRJNA381136_DN789_c0_g1_i1 [Schizochytrium sp. CCTCC M209059]",
+    "Species": "Schizochytrium sp. CCTCC M209059",
+    "Genus": "Schizochytrium",
+    "Clade": "Stramenopiles",
+    "Superclade": "Stramenopiles",
+    "Color": "#cdcd00",
+    "sequence": "--------------------------------------------MFVNPSSS-----------------------------S--------------------------------------------------------------------------------LSTNKKNGALDSLMM--------------------------------------------------------------------------------------MRGPSN-----------RARVRVQPSQH-TTETVSLL-------------------------------------------------------------QPKISDRISTSQSGSPTCIESILISFSTYWAQVLLSIAHFVLGSLI---VYRSG--------HDAQGANVDLFRLNFNASAA-------RKLIHTNA-------TLADAMAATDPSLFFMEYVFTLNVMFLNGNVLIFTALAHAVYAN-----GIFE-----DGVTRLSYRLRWVEYALSASTMILLVAILSGIRDIHHLALIVGSMISVMCF-GWFQDKVNED---------------------------------------------------------------PNFTVSTPPTYLGFIPYTFLWTSIIVNFYRTIA-------------------------------LSGNEPPQ---FV---------YSIIFIMLFLFTMFGFVQVVFSAM-----------------------QSNS-NN---------LNSYDGA--MHVLSVGSKMSLALMIYFGIQNAT----------------------------------------------------------------------",
+    "full_label": "Schizochytrium sp. CCTCC M209059"
+  },
+  {
+    "edge_num": 120,
+    "header": "PRJDB7076_DN191256_c0_g1_i1.p1 PRJDB7076_DN191256_c0_g1_i1 {5_prime_partial} [Dinophysis fortii]",
+    "Species": "Dinophysis fortii",
+    "Genus": "Dinophysis",
+    "Clade": "Alveolata",
+    "Superclade": "Alveolata",
+    "Color": "#ff636c",
+    "sequence": "HK----------------------------------------------RSD-------------------------------------PPFP-------------------------------------------------------------PFPT-----MSTTHGDG-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LPG---------APKVTVD------------------STLSKLNFIAAILHTVLFIIV---IVV-FEGIEDNRKKD--LGKFRMYRLGTDTDVP------------VDG-------------PNTVKE---LRRATSIELVPLLAIFCAVTVIAHVAYFL--GRKTWYA-----RAIANGTNIWRYLEYGISATLMVIIVAALSGSRTVDFMLNVTGCSLAMFAA-GAATEQATADG-----------------RR-------------------------------------------FSDRRVWLPMLAGWFAFIFPWIAIGYNFFIAIRDSRRSSN------------------------PNEDDPPS---WL---------WAIYIAQVVFFISFGLVSVQYMFS----------------------------KN---------FRRTEVL--YIVLSFAAKATLVGLVSGGIGAS-----------------------------------------------------------------------",
+    "full_label": "Dinophysis fortii"
+  },
+  {
+    "edge_num": 121,
+    "header": "MMETSP0173_DN12258_c0_g1_i1.p1 MMETSP0173_DN12258_c0_g1_i1 [Vexillifera sp. DIVA3 564/2]",
+    "Species": "Vexillifera sp. DIVA3 564/2",
+    "Genus": "Vexillifera",
+    "Clade": "Amoebozoa",
+    "Superclade": "Unikonta",
+    "Color": "blue",
+    "sequence": "------------------------------------------------------------------------------------------------------------------------------------------------------------------MFE----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------NEE---------KEERQE--------FRI--------KVLRILHLVASIWMLALTIIF---AVL-------EL--D---VDVSIVVNFPDQD--------------DRD-----------G-AVGSPD---QETIGKAEVSIYLSVFCALAAADHFVCAMLGFFKQEFV---QKWLFEYQANPLRWIEYSFSASIMAVLVAMVTGVYDIHLQFSIGLSTAICMMT-GFIVEIGFPRE--------------------------------------------------------MDSW--RIKTAAYSVYILGFIACFGPWLVILCYFFESS------------------------------------GAPT---FV---------YFIIFGELIAFAAFGINMFGYFFM-------------------------KW-WN---------FSTYEGV--YIILSFTAKTFLAFVTYGGFKSSE----------------------------------------------------------------------",
+    "full_label": "Vexillifera sp. DIVA3 564/2"
+  },
+  {
+    "edge_num": 122
+  },
+  {
+    "edge_num": 123
+  },
+  {
+    "edge_num": 124
+  },
+  {
+    "edge_num": 125
+  },
+  {
+    "edge_num": 126
+  },
+  {
+    "edge_num": 127
+  },
+  {
+    "edge_num": 128
+  },
+  {
+    "edge_num": 129
+  },
+  {
+    "edge_num": 130
+  },
+  {
+    "edge_num": 131
+  },
+  {
+    "edge_num": 132
+  },
+  {
+    "edge_num": 133
+  },
+  {
+    "edge_num": 134
+  },
+  {
+    "edge_num": 135
+  },
+  {
+    "edge_num": 136
+  },
+  {
+    "edge_num": 137
+  },
+  {
+    "edge_num": 138
+  },
+  {
+    "edge_num": 139
+  },
+  {
+    "edge_num": 140
+  },
+  {
+    "edge_num": 141
+  },
+  {
+    "edge_num": 142
+  },
+  {
+    "edge_num": 143
+  },
+  {
+    "edge_num": 144
+  },
+  {
+    "edge_num": 145
+  },
+  {
+    "edge_num": 146
+  },
+  {
+    "edge_num": 147
+  },
+  {
+    "edge_num": 148
+  },
+  {
+    "edge_num": 149
+  },
+  {
+    "edge_num": 150
+  },
+  {
+    "edge_num": 151
+  },
+  {
+    "edge_num": 152
+  },
+  {
+    "edge_num": 153
+  },
+  {
+    "edge_num": 154
+  },
+  {
+    "edge_num": 155
+  },
+  {
+    "edge_num": 156
+  },
+  {
+    "edge_num": 157
+  },
+  {
+    "edge_num": 158
+  },
+  {
+    "edge_num": 159
+  },
+  {
+    "edge_num": 160
+  },
+  {
+    "edge_num": 161
+  },
+  {
+    "edge_num": 162
+  },
+  {
+    "edge_num": 163
+  },
+  {
+    "edge_num": 164
+  },
+  {
+    "edge_num": 165
+  },
+  {
+    "edge_num": 166
+  },
+  {
+    "edge_num": 167
+  },
+  {
+    "edge_num": 168
+  },
+  {
+    "edge_num": 169
+  },
+  {
+    "edge_num": 170
+  },
+  {
+    "edge_num": 171
+  },
+  {
+    "edge_num": 172
+  },
+  {
+    "edge_num": 173
+  },
+  {
+    "edge_num": 174
+  },
+  {
+    "edge_num": 175
+  },
+  {
+    "edge_num": 176
+  },
+  {
+    "edge_num": 177
+  },
+  {
+    "edge_num": 178
+  },
+  {
+    "edge_num": 179
+  },
+  {
+    "edge_num": 180
+  },
+  {
+    "edge_num": 181
+  },
+  {
+    "edge_num": 182
+  },
+  {
+    "edge_num": 183
+  },
+  {
+    "edge_num": 184
+  },
+  {
+    "edge_num": 185
+  },
+  {
+    "edge_num": 186
+  },
+  {
+    "edge_num": 187
+  },
+  {
+    "edge_num": 188
+  },
+  {
+    "edge_num": 189
+  },
+  {
+    "edge_num": 190
+  },
+  {
+    "edge_num": 191
+  },
+  {
+    "edge_num": 192
+  },
+  {
+    "edge_num": 193
+  },
+  {
+    "edge_num": 194
+  },
+  {
+    "edge_num": 195
+  },
+  {
+    "edge_num": 196
+  },
+  {
+    "edge_num": 197
+  },
+  {
+    "edge_num": 198
+  },
+  {
+    "edge_num": 199
+  },
+  {
+    "edge_num": 200
+  },
+  {
+    "edge_num": 201
+  },
+  {
+    "edge_num": 202
+  },
+  {
+    "edge_num": 203
+  },
+  {
+    "edge_num": 204
+  },
+  {
+    "edge_num": 205
+  },
+  {
+    "edge_num": 206
+  },
+  {
+    "edge_num": 207
+  },
+  {
+    "edge_num": 208
+  },
+  {
+    "edge_num": 209
+  },
+  {
+    "edge_num": 210
+  },
+  {
+    "edge_num": 211
+  },
+  {
+    "edge_num": 212
+  },
+  {
+    "edge_num": 213
+  },
+  {
+    "edge_num": 214
+  },
+  {
+    "edge_num": 215
+  },
+  {
+    "edge_num": 216
+  },
+  {
+    "edge_num": 217
+  },
+  {
+    "edge_num": 218
+  },
+  {
+    "edge_num": 219
+  },
+  {
+    "edge_num": 220
+  },
+  {
+    "edge_num": 221
+  },
+  {
+    "edge_num": 222
+  },
+  {
+    "edge_num": 223
+  },
+  {
+    "edge_num": 224
+  },
+  {
+    "edge_num": 225
+  },
+  {
+    "edge_num": 226
+  },
+  {
+    "edge_num": 227
+  },
+  {
+    "edge_num": 228
+  },
+  {
+    "edge_num": 229
+  },
+  {
+    "edge_num": 230
+  },
+  {
+    "edge_num": 231
+  },
+  {
+    "edge_num": 232
+  },
+  {
+    "edge_num": 233
+  },
+  {
+    "edge_num": 234
+  },
+  {
+    "edge_num": 235
+  },
+  {
+    "edge_num": 236
+  },
+  {
+    "edge_num": 237
+  },
+  {
+    "edge_num": 238
+  },
+  {
+    "edge_num": 239
+  },
+  {
+    "edge_num": 240
+  },
+  {
+    "edge_num": 241
+  }
+],
+	"metadata": {"info": "R-package treeio", "data": "Thu Aug 18 15:50:23 2022"}
+}

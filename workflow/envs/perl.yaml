@@ -1,0 +1,10 @@
+channels:
+ - bioconda
+ - conda-forge
+dependencies:
+ - perl=5.26.2
+ - perl-bioperl=1.7.2
+ - proteinortho=6.0.25
+ - pfam_scan=1.6
+ - blast=2.10.1
+ - seqkit=2.3.0

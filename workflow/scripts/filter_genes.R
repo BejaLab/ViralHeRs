@@ -1,7 +1,6 @@
 library(dplyr)
 library(tidyr)
 library(seqinr)
-library(bioformatr)
 
 input  <- snakemake@input
 output <- snakemake@output

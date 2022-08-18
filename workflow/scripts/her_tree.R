@@ -3,6 +3,7 @@ library(tidyr)
 library(phytools)
 library(ggtree)
 library(ape)
+library(seqinr)
 library(treeio)
 library(ggplot2)
 library(ggnewscale)
@@ -32,10 +33,12 @@ clades <- read.table(clades_file, header = T, comment.char = "") %>%
     arrange(Clade)
 genera <- read.table(genera_file, header = T)
 
-fasta <- read.fasta(fasta_file) %>%
+fasta <- treeio::read.fasta(fasta_file) %>%
     lapply(as.character) %>%
     lapply(toupper) %>%
     bind_cols
+sequences <- seqinr::read.fasta(fasta_file, seqtype = "AA", as.string = T) %>%
+    {data.frame(label = names(.), sequence = as.character(.))}
 aln <- setNames(fasta, sub(" .+", "", names(fasta))) %>%
     filter(!!as.symbol(ref.seq) != "-") %>%
     filter(1:n() %in% positions[[1]]) %>%
@@ -53,6 +56,7 @@ tree <- read.tree(tree_file) %>%
     as.treedata %>%
     as_tibble %>%
     left_join(taxa, by = "label") %>%
+    left_join(sequences, by = "label") %>%
     mutate(full_label = ifelse(grepl("HeR clade", header), sprintf("%s [%s]", label, Species), Species)) %>%
     as.treedata
 write.jtree(tree, file = output_jtree_file)
